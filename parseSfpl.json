@@ -1,0 +1,7435 @@
+[
+ {
+  "time": "2024-06-05 07:55:03",
+  "mod": "19",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17482126,
+   "state": "ACTIVE",
+   "travelType": "INBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "UAE356",
+   "aircraftReg": "A6EWI",
+   "aircraftType": "B77L",
+   "wakeTurbulance": "H",
+   "navigationEquip": "SDE2E3FGHIJ3J5M1P2RWXYZ",
+   "surveillanceEquip": "LB1D1",
+   "ssrCode": "0571",
+   "estTimeOfEntry": "2024-06-05 05:45:00",
+   "clearedFlightLevel": 370,
+   "exitFlightLevel": 220,
+   "requestedFlightLevel": 370,
+   "cruisingSpeed": 475,
+   "adep": "OMDB",
+   "ades": "WIII",
+   "departureTime": "2024-06-05 00:35:00",
+   "scheduledTime": "2024-06-05 05:47:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "BUN",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S2T1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "assignedHeading": null
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:05",
+  "mod": "213",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17481893,
+   "state": "ACTIVE",
+   "travelType": "INBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "LNI964",
+   "aircraftReg": "PKLHT",
+   "aircraftType": "B739",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIRW",
+   "surveillanceEquip": "EB1",
+   "ssrCode": "4664",
+   "estTimeOfEntry": "2024-06-05 06:24:00",
+   "clearedFlightLevel": 340,
+   "exitFlightLevel": 340,
+   "requestedFlightLevel": 320,
+   "cruisingSpeed": 450,
+   "adep": "WAHI",
+   "ades": "WIMM",
+   "departureTime": "2024-06-05 06:15:00",
+   "scheduledTime": "2024-06-05 06:15:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "WX V",
+   "assignedSpeed": null,
+   "assignedHeading": 320,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "AKP1A",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1C1D1O1S1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "operatorInfo2": "WX V"
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:06",
+  "mod": "04",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17483503,
+   "state": "ACTIVE",
+   "travelType": "DOMESTIC",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "LNI712",
+   "aircraftReg": "PKLPO",
+   "aircraftType": "B738",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIRW",
+   "surveillanceEquip": "EB1",
+   "ssrCode": "1711",
+   "estTimeOfEntry": "2024-06-05 07:52:39",
+   "clearedFlightLevel": 80,
+   "exitFlightLevel": 270,
+   "requestedFlightLevel": 270,
+   "cruisingSpeed": 462,
+   "adep": "WIII",
+   "ades": "WIOO",
+   "departureTime": "2024-06-05 07:45:00",
+   "scheduledTime": "2024-06-05 07:45:00",
+   "operatorInfo": "ABS2A",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1C1C2D1S1S2T1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "clearedFlightLevel": 80
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:07",
+  "mod": "06",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17482354,
+   "state": "ACTIVE",
+   "travelType": "OUTBOUND",
+   "flightType": "N",
+   "flightRules": "I",
+   "callsign": "SVA5199",
+   "aircraftReg": "HZAK35",
+   "aircraftType": "B77W",
+   "wakeTurbulance": "H",
+   "navigationEquip": "SDE2E3FGHIJ1J4J5LM1ORVWXYZ",
+   "surveillanceEquip": "LB1D1",
+   "ssrCode": "2304",
+   "estTimeOfEntry": "2024-06-05 07:48:23",
+   "clearedFlightLevel": 260,
+   "exitFlightLevel": 320,
+   "requestedFlightLevel": 320,
+   "cruisingSpeed": 506,
+   "adep": "WIII",
+   "ades": "OEJN",
+   "departureTime": "2024-06-05 07:40:00",
+   "scheduledTime": "2024-06-05 07:40:00",
+   "operatorInfo": "RIM1B",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "RIM",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "clearedFlightLevel": 260
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:09",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17483703,
+   "state": "REDUNDANT",
+   "travelType": "OVERFLIGHT",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "AWQ462",
+   "aircraftReg": "PKAZS",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIRWY",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "2150",
+   "estTimeOfEntry": "2024-06-05 06:25:00",
+   "clearedFlightLevel": 310,
+   "exitFlightLevel": 310,
+   "requestedFlightLevel": 350,
+   "cruisingSpeed": 461,
+   "adep": "WMKK",
+   "ades": "WADL",
+   "departureTime": "2024-06-05 06:06:00",
+   "scheduledTime": "2024-06-05 06:28:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1O1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "state": "REDUNDANT"
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:10",
+  "mod": "13",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17482266,
+   "state": "ACTIVE",
+   "travelType": "OVERFLIGHT",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "TGW217",
+   "aircraftReg": "9VTRV",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIRWYZ",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "5020",
+   "estTimeOfEntry": "2024-06-05 07:44:00",
+   "clearedFlightLevel": 340,
+   "exitFlightLevel": 340,
+   "requestedFlightLevel": 360,
+   "cruisingSpeed": 459,
+   "adep": "WAMM",
+   "ades": "WSSS",
+   "departureTime": "2024-06-05 06:02:00",
+   "scheduledTime": "2024-06-05 07:54:00",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B2C2D2L1O2S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {}
+ },
+ {
+  "time": "2024-06-05 07:55:10",
+  "mod": "awp2",
+  "updType": "System Flight Path updated",
+  "sfpi": 17485143,
+  "path": [
+   {
+    "pointName": "CABAI",
+    "time": null,
+    "status": null
+   },
+   {
+    "pointName": "HLM",
+    "time": null,
+    "status": null
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:10",
+  "mod": "awp2",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17485143,
+   "state": "PENDING",
+   "travelType": "DOMESTIC",
+   "flightType": "G",
+   "flightRules": "V",
+   "callsign": "P3103",
+   "aircraftReg": "P3103",
+   "aircraftType": "A365",
+   "wakeTurbulance": "L",
+   "navigationEquip": "S",
+   "surveillanceEquip": "C",
+   "ssrCode": "Not Assigned",
+   "estTimeOfEntry": "Unknown",
+   "clearedFlightLevel": null,
+   "exitFlightLevel": 10,
+   "requestedFlightLevel": 10,
+   "cruisingSpeed": 120,
+   "adep": "WIHP",
+   "ades": "WIHH",
+   "departureTime": "2024-06-05 08:10:00",
+   "scheduledTime": "2024-06-05 08:10:00",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "",
+   "fplFormat": "BOTH"
+  },
+  "updatedData": {
+   "state": "PENDING",
+   "exitFlightLevel": 10,
+   "xflApprovalState": "APPROVED"
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:10",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17485143,
+  "path": [
+   {
+    "pointName": "CABAI",
+    "time": "2024-06-05 08:10:05",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "HLM",
+    "time": "2024-06-05 08:12:38",
+    "status": "Scheduled"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:10",
+  "mod": "FDPS_SCHED",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17485143,
+   "state": "WAITING",
+   "travelType": "DOMESTIC",
+   "flightType": "G",
+   "flightRules": "V",
+   "callsign": "P3103",
+   "aircraftReg": "P3103",
+   "aircraftType": "A365",
+   "wakeTurbulance": "L",
+   "navigationEquip": "S",
+   "surveillanceEquip": "C",
+   "ssrCode": "1771",
+   "estTimeOfEntry": "Unknown",
+   "clearedFlightLevel": null,
+   "exitFlightLevel": 10,
+   "requestedFlightLevel": 10,
+   "cruisingSpeed": 120,
+   "adep": "WIHP",
+   "ades": "WIHH",
+   "departureTime": "2024-06-05 08:10:00",
+   "scheduledTime": "2024-06-05 08:10:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "",
+   "fplFormat": "BOTH"
+  },
+  "updatedData": {
+   "state": "WAITING",
+   "ssrCode": "1771"
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:12",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Path updated",
+  "sfpi": 17482473,
+  "path": [
+   {
+    "pointName": "SPIKO",
+    "time": "2024-06-05 07:43:57",
+    "status": "Flown"
+   },
+   {
+    "pointName": "AKSOX",
+    "time": "2024-06-05 07:55:12",
+    "status": "Flown"
+   },
+   {
+    "pointName": "OLDUN",
+    "time": "2024-06-05 08:01:47",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "IGUNA",
+    "time": "2024-06-05 08:05:40",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "SAGAS",
+    "time": "2024-06-05 08:08:18",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "UBNUX",
+    "time": "2024-06-05 08:10:55",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "DKI",
+    "time": "2024-06-05 08:13:07",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "ONILI",
+    "time": "2024-06-05 08:15:03",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "PAPAF",
+    "time": "2024-06-05 08:16:47",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "ELKIT",
+    "time": "2024-06-05 08:18:10",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "NININ",
+    "time": "2024-06-05 08:18:41",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:12",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17482473,
+  "path": [
+   {
+    "pointName": "SPIKO",
+    "time": "2024-06-05 07:43:57",
+    "status": "Flown"
+   },
+   {
+    "pointName": "AKSOX",
+    "time": "2024-06-05 07:55:12",
+    "status": "Flown"
+   },
+   {
+    "pointName": "OLDUN",
+    "time": "2024-06-05 08:01:42",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "IGUNA",
+    "time": "2024-06-05 08:05:35",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "SAGAS",
+    "time": "2024-06-05 08:08:13",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "UBNUX",
+    "time": "2024-06-05 08:10:50",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "DKI",
+    "time": "2024-06-05 08:13:02",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "ONILI",
+    "time": "2024-06-05 08:14:58",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "PAPAF",
+    "time": "2024-06-05 08:16:42",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "ELKIT",
+    "time": "2024-06-05 08:18:05",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "NININ",
+    "time": "2024-06-05 08:18:36",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:14",
+  "mod": "FDPS_SCHED",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17485189,
+   "state": "PENDING",
+   "travelType": "INBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "PAS613",
+   "aircraftReg": "PKPWI",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDE2E3FGHIRWY",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "Not Assigned",
+   "estTimeOfEntry": "Unknown",
+   "clearedFlightLevel": null,
+   "exitFlightLevel": 360,
+   "requestedFlightLevel": 360,
+   "cruisingSpeed": 462,
+   "adep": "WAOO",
+   "ades": "WIII",
+   "departureTime": "2024-06-05 09:25:00",
+   "scheduledTime": "2024-06-05 10:05:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "state": "PENDING"
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:15",
+  "mod": "25",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17482992,
+   "state": "ACTIVE",
+   "travelType": "INBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "GIA875",
+   "aircraftReg": "PKGHG",
+   "aircraftType": "A339",
+   "wakeTurbulance": "H",
+   "navigationEquip": "SDE2E3FGHIM1RWXYZ",
+   "surveillanceEquip": "HB1D1",
+   "ssrCode": "6074",
+   "estTimeOfEntry": "2024-06-05 08:44:00",
+   "clearedFlightLevel": 400,
+   "exitFlightLevel": 400,
+   "requestedFlightLevel": 400,
+   "cruisingSpeed": 485,
+   "adep": "RJTT",
+   "ades": "WIII",
+   "departureTime": "2024-06-05 03:06:00",
+   "scheduledTime": "2024-06-05 08:35:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1D1L1O1S2C1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "state": "ACTIVE",
+   "ssrCode": "6074",
+   "estTimeOfEntry": "2024-06-05 08:44:00",
+   "clearedFlightLevel": 400,
+   "exitFlightLevel": 400,
+   "requestedFlightLevel": 400
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:15",
+  "mod": "25",
+  "updType": "System Flight Path updated",
+  "sfpi": 17482992,
+  "path": [
+   {
+    "pointName": "OKADA",
+    "time": "2024-06-05 08:35:00",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "ADKON",
+    "time": "2024-06-05 08:53:19",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "TRIBO",
+    "time": "2024-06-05 09:05:30",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "RAFIS",
+    "time": "2024-06-05 09:17:02",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "AMBOY",
+    "time": "2024-06-05 09:28:42",
+    "status": "Scheduled"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:15",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17482992,
+  "path": [
+   {
+    "pointName": "OKADA",
+    "time": "2024-06-05 08:35:00",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "ADKON",
+    "time": "2024-06-05 08:53:19",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "TRIBO",
+    "time": "2024-06-05 09:05:31",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "RAFIS",
+    "time": "2024-06-05 09:17:03",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "AMBOY",
+    "time": "2024-06-05 09:28:43",
+    "status": "Scheduled"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:15",
+  "mod": "FDPS_SCHED",
+  "updType": "System Flight Path updated",
+  "sfpi": 17482992,
+  "path": [
+   {
+    "pointName": "OKADA",
+    "time": "2024-06-05 08:35:00",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "ADKON",
+    "time": "2024-06-05 08:53:19",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "TRIBO",
+    "time": "2024-06-05 09:05:30",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "RAFIS",
+    "time": "2024-06-05 09:17:02",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "AMBOY",
+    "time": "2024-06-05 09:28:42",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "DENDY",
+    "time": null,
+    "status": null
+   },
+   {
+    "pointName": "BORPO",
+    "time": null,
+    "status": null
+   },
+   {
+    "pointName": "LUVAX",
+    "time": null,
+    "status": null
+   },
+   {
+    "pointName": "EMSEN",
+    "time": null,
+    "status": null
+   },
+   {
+    "pointName": "KAKAP",
+    "time": null,
+    "status": null
+   },
+   {
+    "pointName": "DAKAR",
+    "time": null,
+    "status": null
+   },
+   {
+    "pointName": "OLPAS",
+    "time": null,
+    "status": null
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:15",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17482992,
+  "path": [
+   {
+    "pointName": "OKADA",
+    "time": "2024-06-05 08:44:00",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "ADKON",
+    "time": "2024-06-05 09:02:19",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "TRIBO",
+    "time": "2024-06-05 09:14:31",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "RAFIS",
+    "time": "2024-06-05 09:26:03",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "AMBOY",
+    "time": "2024-06-05 09:37:43",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:15",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17482992,
+  "path": [
+   {
+    "pointName": "OKADA",
+    "time": "2024-06-05 08:44:00",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "ADKON",
+    "time": "2024-06-05 09:02:19",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "TRIBO",
+    "time": "2024-06-05 09:14:31",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "RAFIS",
+    "time": "2024-06-05 09:26:03",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "AMBOY",
+    "time": "2024-06-05 09:37:43",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:15",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17482992,
+  "path": [
+   {
+    "pointName": "OKADA",
+    "time": "2024-06-05 08:44:00",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "ADKON",
+    "time": "2024-06-05 09:02:19",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "TRIBO",
+    "time": "2024-06-05 09:14:31",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "RAFIS",
+    "time": "2024-06-05 09:26:03",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "AMBOY",
+    "time": "2024-06-05 09:37:43",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "DENDY",
+    "time": "2024-06-05 09:46:37",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "BORPO",
+    "time": "2024-06-05 09:49:45",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "LUVAX",
+    "time": "2024-06-05 09:52:12",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "EMSEN",
+    "time": "2024-06-05 09:55:19",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "KAKAP",
+    "time": "2024-06-05 09:56:38",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "DAKAR",
+    "time": "2024-06-05 09:58:47",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "OLPAS",
+    "time": "2024-06-05 10:00:00",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:17",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17482654,
+   "state": "REDUNDANT",
+   "travelType": "OVERFLIGHT",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "MAS89",
+   "aircraftReg": "9MMTE",
+   "aircraftType": "A333",
+   "wakeTurbulance": "H",
+   "navigationEquip": "SDFGHIJ1J3J5M1RWYZ",
+   "surveillanceEquip": "LB1D1",
+   "ssrCode": "6052",
+   "estTimeOfEntry": "2024-06-05 07:29:00",
+   "clearedFlightLevel": 400,
+   "exitFlightLevel": 400,
+   "requestedFlightLevel": 400,
+   "cruisingSpeed": 474,
+   "adep": "RJAA",
+   "ades": "WMKK",
+   "departureTime": "2024-06-05 01:20:00",
+   "scheduledTime": "2024-06-05 07:11:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "ELG",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "state": "REDUNDANT"
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:18",
+  "mod": "awp2",
+  "updType": "System Flight Path updated",
+  "sfpi": 17482851,
+  "path": [
+   {
+    "pointName": "SOP",
+    "time": null,
+    "status": null
+   },
+   {
+    "pointName": "PURWO",
+    "time": null,
+    "status": null
+   },
+   {
+    "pointName": "ANY",
+    "time": "2024-06-05 09:11:00",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "KIDET",
+    "time": "2024-06-05 09:20:17",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "IMU",
+    "time": "2024-06-05 09:27:37",
+    "status": "Scheduled"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:18",
+  "mod": "awp2",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17482851,
+   "state": "PENDING",
+   "travelType": "INBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "GIA221",
+   "aircraftReg": "PKGUD",
+   "aircraftType": "B738",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDE2E3FGHIRWYZ",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "Not Assigned",
+   "estTimeOfEntry": "Unknown",
+   "clearedFlightLevel": null,
+   "exitFlightLevel": 260,
+   "requestedFlightLevel": 260,
+   "cruisingSpeed": 482,
+   "adep": "WAHQ",
+   "ades": "WIII",
+   "departureTime": "2024-06-05 09:00:00",
+   "scheduledTime": "2024-06-05 09:11:00",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1C1D1L1O1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "state": "PENDING"
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:18",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17482851,
+  "path": [
+   {
+    "pointName": "SOP",
+    "time": null,
+    "status": null
+   },
+   {
+    "pointName": "PURWO",
+    "time": "2024-06-05 09:11:00",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "ANY",
+    "time": "2024-06-05 09:14:13",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "KIDET",
+    "time": "2024-06-05 09:23:30",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "IMU",
+    "time": "2024-06-05 09:30:50",
+    "status": "Scheduled"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:18",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17481913,
+   "state": "WAITING",
+   "travelType": "OVERFLIGHT",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "SIA901",
+   "aircraftReg": "9VMBO",
+   "aircraftType": "B38M",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDE1E2E3FGHIJ4J7M3P2RWYZ",
+   "surveillanceEquip": "EB1D1",
+   "ssrCode": "6562",
+   "estTimeOfEntry": "Unknown",
+   "clearedFlightLevel": null,
+   "exitFlightLevel": 380,
+   "requestedFlightLevel": 380,
+   "cruisingSpeed": 452,
+   "adep": "RPVM",
+   "ades": "WSSS",
+   "departureTime": "2024-06-05 07:55:00",
+   "scheduledTime": "2024-06-05 10:17:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "state": "WAITING",
+   "ssrCode": "6562",
+   "departureTime": "2024-06-05 07:55:00",
+   "scheduledTime": "2024-06-05 10:17:00"
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:18",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17481913,
+  "path": [
+   {
+    "pointName": "KAMIN",
+    "time": "2024-06-05 10:17:00",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "SABIP",
+    "time": "2024-06-05 10:26:13",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "ESPIT",
+    "time": "2024-06-05 10:29:40",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "OBLOT",
+    "time": "2024-06-05 10:36:00",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "VENUN",
+    "time": "2024-06-05 10:39:58",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "TOMAN",
+    "time": "2024-06-05 10:43:44",
+    "status": "Scheduled"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:19",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Path updated",
+  "sfpi": 17483151,
+  "path": [
+   {
+    "pointName": "TAVIP",
+    "time": "2024-06-05 07:43:57",
+    "status": "Flown"
+   },
+   {
+    "pointName": "RAFIS",
+    "time": "2024-06-05 07:55:19",
+    "status": "Flown"
+   },
+   {
+    "pointName": "MASRI",
+    "time": "2024-06-05 08:01:38",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "LAKUN",
+    "time": "2024-06-05 08:06:49",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "GUKNO",
+    "time": "2024-06-05 08:15:02",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "SURGA",
+    "time": "2024-06-05 08:23:53",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "UGEBO",
+    "time": "2024-06-05 08:36:59",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:19",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17483151,
+  "path": [
+   {
+    "pointName": "TAVIP",
+    "time": "2024-06-05 07:43:57",
+    "status": "Flown"
+   },
+   {
+    "pointName": "RAFIS",
+    "time": "2024-06-05 07:55:19",
+    "status": "Flown"
+   },
+   {
+    "pointName": "MASRI",
+    "time": "2024-06-05 08:00:09",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "LAKUN",
+    "time": "2024-06-05 08:05:20",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "GUKNO",
+    "time": "2024-06-05 08:13:33",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "SURGA",
+    "time": "2024-06-05 08:22:24",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "UGEBO",
+    "time": "2024-06-05 08:35:30",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:20",
+  "mod": "04",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17484569,
+   "state": "ACTIVE",
+   "travelType": "OUTBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "EVA238",
+   "aircraftReg": "B16712",
+   "aircraftType": "B77W",
+   "wakeTurbulance": "H",
+   "navigationEquip": "SDE1E2E3FGHIJ2J3J5LM1OP2RVWXYZ",
+   "surveillanceEquip": "LB1D1",
+   "ssrCode": "2315",
+   "estTimeOfEntry": "2024-06-05 07:50:56",
+   "clearedFlightLevel": 110,
+   "exitFlightLevel": 350,
+   "requestedFlightLevel": 350,
+   "cruisingSpeed": 490,
+   "adep": "WIII",
+   "ades": "RCTP",
+   "departureTime": "2024-06-05 07:30:00",
+   "scheduledTime": "2024-06-05 07:30:00",
+   "operatorInfo": "AMB2B",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "AMBOY",
+   "assignedSpeed": null,
+   "assignedHeading": 50,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "operatorInfo2": "AMBOY"
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:22",
+  "mod": "05",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17481322,
+   "state": "ACTIVE",
+   "travelType": "INBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "AWQ265",
+   "aircraftReg": "PKAZO",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIRWY",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "0130",
+   "estTimeOfEntry": "2024-06-05 07:10:00",
+   "clearedFlightLevel": 100,
+   "exitFlightLevel": 220,
+   "requestedFlightLevel": 350,
+   "cruisingSpeed": 461,
+   "adep": "WSSS",
+   "ades": "WIII",
+   "departureTime": "2024-06-05 06:50:00",
+   "scheduledTime": "2024-06-05 06:58:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "EMS",
+   "assignedSpeed": 250,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1O1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "clearedFlightLevel": 100
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:22",
+  "mod": "04",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17484569,
+   "state": "ACTIVE",
+   "travelType": "OUTBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "EVA238",
+   "aircraftReg": "B16712",
+   "aircraftType": "B77W",
+   "wakeTurbulance": "H",
+   "navigationEquip": "SDE1E2E3FGHIJ2J3J5LM1OP2RVWXYZ",
+   "surveillanceEquip": "LB1D1",
+   "ssrCode": "2315",
+   "estTimeOfEntry": "2024-06-05 07:50:56",
+   "clearedFlightLevel": 110,
+   "exitFlightLevel": 350,
+   "requestedFlightLevel": 350,
+   "cruisingSpeed": 490,
+   "adep": "WIII",
+   "ades": "RCTP",
+   "departureTime": "2024-06-05 07:30:00",
+   "scheduledTime": "2024-06-05 07:30:00",
+   "operatorInfo": "AMB2B",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "AMBOY",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "assignedHeading": null
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:24",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17481008,
+   "state": "PENDING",
+   "travelType": "DOMESTIC",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "SJV681",
+   "aircraftReg": "PKSTP",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SBDFGHIRWY",
+   "surveillanceEquip": "EB1",
+   "ssrCode": "Not Assigned",
+   "estTimeOfEntry": "Unknown",
+   "clearedFlightLevel": null,
+   "exitFlightLevel": 280,
+   "requestedFlightLevel": 280,
+   "cruisingSpeed": 440,
+   "adep": "WIOO",
+   "ades": "WIII",
+   "departureTime": "2024-06-05 07:45:00",
+   "scheduledTime": "2024-06-05 07:45:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "aircraftReg": "PKSTP"
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:24",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17480376,
+   "state": "ACTIVE",
+   "travelType": "DOMESTIC",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "GIA513",
+   "aircraftReg": "PKGMI",
+   "aircraftType": "B738",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDE2E3FGHIRWY",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "6455",
+   "estTimeOfEntry": "2024-06-05 06:48:00",
+   "clearedFlightLevel": 40,
+   "exitFlightLevel": 220,
+   "requestedFlightLevel": 320,
+   "cruisingSpeed": 430,
+   "adep": "WIOO",
+   "ades": "WIII",
+   "departureTime": "2024-06-05 06:35:00",
+   "scheduledTime": "2024-06-05 06:35:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "R",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "2024-06-05 07:56:24",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1C1D1L1O1S1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "actualLandingTime": "2024-06-05 07:56:24"
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:25",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Path updated",
+  "sfpi": 17484084,
+  "path": [
+   {
+    "pointName": "SAPDA",
+    "time": "2024-06-05 07:08:45",
+    "status": "Flown"
+   },
+   {
+    "pointName": "IPKON",
+    "time": "2024-06-05 07:45:58",
+    "status": "Flown"
+   },
+   {
+    "pointName": "IMABA",
+    "time": "2024-06-05 07:55:25",
+    "status": "Flown"
+   },
+   {
+    "pointName": "HLM",
+    "time": "2024-06-05 08:03:34",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "CKG",
+    "time": "2024-06-05 08:06:24",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "DOLTA",
+    "time": "2024-06-05 08:15:55",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "GUSKO",
+    "time": "2024-06-05 08:26:45",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "PLB",
+    "time": "2024-06-05 08:36:04",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "PARDI",
+    "time": "2024-06-05 08:54:26",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "REPOV",
+    "time": "2024-06-05 09:01:07",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:25",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17484084,
+  "path": [
+   {
+    "pointName": "SAPDA",
+    "time": "2024-06-05 07:08:45",
+    "status": "Flown"
+   },
+   {
+    "pointName": "IPKON",
+    "time": "2024-06-05 07:45:58",
+    "status": "Flown"
+   },
+   {
+    "pointName": "IMABA",
+    "time": "2024-06-05 07:55:25",
+    "status": "Flown"
+   },
+   {
+    "pointName": "HLM",
+    "time": "2024-06-05 08:03:22",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "CKG",
+    "time": "2024-06-05 08:06:12",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "DOLTA",
+    "time": "2024-06-05 08:15:43",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "GUSKO",
+    "time": "2024-06-05 08:26:33",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "PLB",
+    "time": "2024-06-05 08:35:52",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "PARDI",
+    "time": "2024-06-05 08:54:14",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "REPOV",
+    "time": "2024-06-05 09:00:55",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:28",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Path updated",
+  "sfpi": 17483427,
+  "path": [
+   {
+    "pointName": "ANITO",
+    "time": "2024-06-05 06:55:21",
+    "status": "Flown"
+   },
+   {
+    "pointName": "PKP",
+    "time": "2024-06-05 07:13:25",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "MIMIX",
+    "time": "2024-06-05 07:28:09",
+    "status": "Flown"
+   },
+   {
+    "pointName": "RUPKA",
+    "time": "2024-06-05 07:55:28",
+    "status": "Flown"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:28",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17483427,
+  "path": [
+   {
+    "pointName": "ANITO",
+    "time": "2024-06-05 06:55:21",
+    "status": "Flown"
+   },
+   {
+    "pointName": "PKP",
+    "time": "2024-06-05 07:13:25",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "MIMIX",
+    "time": "2024-06-05 07:28:09",
+    "status": "Flown"
+   },
+   {
+    "pointName": "RUPKA",
+    "time": "2024-06-05 07:55:28",
+    "status": "Flown"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:30",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17483918,
+  "path": [
+   {
+    "pointName": "RUTIB",
+    "time": "2024-06-05 07:24:54",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "AKPEB",
+    "time": "2024-06-05 07:27:25",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "PAGSA",
+    "time": "2024-06-05 07:29:59",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "NIPIP",
+    "time": "2024-06-05 07:32:10",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "IDUMU",
+    "time": "2024-06-05 07:35:59",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "DOLTA",
+    "time": "2024-06-05 07:35:27",
+    "status": "Flown"
+   },
+   {
+    "pointName": "GUSKO",
+    "time": "2024-06-05 07:46:30",
+    "status": "Flown"
+   },
+   {
+    "pointName": "PLB",
+    "time": "2024-06-05 07:55:30",
+    "status": "Flown"
+   },
+   {
+    "pointName": "PARDI",
+    "time": "2024-06-05 08:13:54",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "PU",
+    "time": "2024-06-05 08:29:40",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "VMR",
+    "time": "2024-06-05 08:37:09",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:30",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Path updated",
+  "sfpi": 17483918,
+  "path": [
+   {
+    "pointName": "RUTIB",
+    "time": "2024-06-05 07:24:54",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "AKPEB",
+    "time": "2024-06-05 07:27:25",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "PAGSA",
+    "time": "2024-06-05 07:29:59",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "NIPIP",
+    "time": "2024-06-05 07:32:10",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "IDUMU",
+    "time": "2024-06-05 07:35:59",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "DOLTA",
+    "time": "2024-06-05 07:35:27",
+    "status": "Flown"
+   },
+   {
+    "pointName": "GUSKO",
+    "time": "2024-06-05 07:46:30",
+    "status": "Flown"
+   },
+   {
+    "pointName": "PLB",
+    "time": "2024-06-05 07:55:30",
+    "status": "Flown"
+   },
+   {
+    "pointName": "PARDI",
+    "time": "2024-06-05 08:14:14",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "PU",
+    "time": "2024-06-05 08:30:00",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "VMR",
+    "time": "2024-06-05 08:37:29",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:30",
+  "mod": "awp2",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17485155,
+   "state": "TERMINATED",
+   "travelType": "OVERFLIGHT",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "JSA686",
+   "aircraftReg": "9VJSI",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDE2FGHIM3RWXY",
+   "surveillanceEquip": "EB1",
+   "ssrCode": "Not Assigned",
+   "estTimeOfEntry": "Unknown",
+   "clearedFlightLevel": null,
+   "exitFlightLevel": null,
+   "requestedFlightLevel": 230,
+   "cruisingSpeed": 444,
+   "adep": "WMKK",
+   "ades": "WSSS",
+   "departureTime": "2024-06-05 07:20:00",
+   "scheduledTime": "2024-06-05 07:42:00",
+   "terminateMode": "MANUAL",
+   "xflApprovalState": "UNSET",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1C1D1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "state": "TERMINATED",
+   "terminateMode": "MANUAL"
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:30",
+  "mod": "FDPS_DML",
+  "updType": "System Flight Plan erased",
+  "fieldsData": {
+   "sfpi": 17485155,
+   "state": "TERMINATED",
+   "travelType": "OVERFLIGHT",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "JSA686",
+   "aircraftReg": "9VJSI",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDE2FGHIM3RWXY",
+   "surveillanceEquip": "EB1",
+   "ssrCode": "Not Assigned",
+   "estTimeOfEntry": "Unknown",
+   "clearedFlightLevel": null,
+   "exitFlightLevel": null,
+   "requestedFlightLevel": 230,
+   "cruisingSpeed": 444,
+   "adep": "WMKK",
+   "ades": "WSSS",
+   "departureTime": "2024-06-05 07:20:00",
+   "scheduledTime": "2024-06-05 07:42:00",
+   "terminateMode": "MANUAL",
+   "xflApprovalState": "UNSET",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assigendSpeed": "Not Assigned",
+   "assigendHeading": "Not Assigned",
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1C1D1",
+   "fplFormat": "2012"
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:30",
+  "mod": "FDPS_SCHED",
+  "updType": "System Flight Path erased",
+  "sfpi": 17485155,
+  "path": []
+ },
+ {
+  "time": "2024-06-05 07:55:32",
+  "mod": "19",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17480944,
+   "state": "ACTIVE",
+   "travelType": "INBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "TNU674",
+   "aircraftReg": "PKTLB",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIRWY",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "2203",
+   "estTimeOfEntry": "2024-06-05 07:22:00",
+   "clearedFlightLevel": 350,
+   "exitFlightLevel": 350,
+   "requestedFlightLevel": 390,
+   "cruisingSpeed": 451,
+   "adep": "WMKK",
+   "ades": "WIII",
+   "departureTime": "2024-06-05 06:39:00",
+   "scheduledTime": "2024-06-05 07:01:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "LUV",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1O1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "operatorInfo2": "LUV"
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:35",
+  "mod": "awp2",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17485149,
+   "state": "TERMINATED",
+   "travelType": "OVERFLIGHT",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "JSA513",
+   "aircraftReg": "9VJSN",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDE2FGHIM3RWXYZ",
+   "surveillanceEquip": "EB1",
+   "ssrCode": "Not Assigned",
+   "estTimeOfEntry": "Unknown",
+   "clearedFlightLevel": null,
+   "exitFlightLevel": 340,
+   "requestedFlightLevel": 340,
+   "cruisingSpeed": 465,
+   "adep": "WSSS",
+   "ades": "VTBS",
+   "departureTime": "2024-06-05 11:15:00",
+   "scheduledTime": "2024-06-05 11:18:00",
+   "terminateMode": "MANUAL",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "state": "TERMINATED",
+   "terminateMode": "MANUAL"
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:35",
+  "mod": "FDPS_DML",
+  "updType": "System Flight Plan erased",
+  "fieldsData": {
+   "sfpi": 17485149,
+   "state": "TERMINATED",
+   "travelType": "OVERFLIGHT",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "JSA513",
+   "aircraftReg": "9VJSN",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDE2FGHIM3RWXYZ",
+   "surveillanceEquip": "EB1",
+   "ssrCode": "Not Assigned",
+   "estTimeOfEntry": "Unknown",
+   "clearedFlightLevel": null,
+   "exitFlightLevel": 340,
+   "requestedFlightLevel": 340,
+   "cruisingSpeed": 465,
+   "adep": "WSSS",
+   "ades": "VTBS",
+   "departureTime": "2024-06-05 11:15:00",
+   "scheduledTime": "2024-06-05 11:18:00",
+   "terminateMode": "MANUAL",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assigendSpeed": "Not Assigned",
+   "assigendHeading": "Not Assigned",
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S2",
+   "fplFormat": "2012"
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:35",
+  "mod": "FDPS_SCHED",
+  "updType": "System Flight Path erased",
+  "sfpi": 17485149,
+  "path": [
+   {
+    "pointName": "VMR",
+    "time": null,
+    "status": null
+   },
+   {
+    "pointName": "VPK",
+    "time": null,
+    "status": null
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:37",
+  "mod": "awp2",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17485161,
+   "state": "TERMINATED",
+   "travelType": "OVERFLIGHT",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "MAS607",
+   "aircraftReg": "9MMXK",
+   "aircraftType": "B738",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIJ3J5M1RWYZ",
+   "surveillanceEquip": "LB1D1",
+   "ssrCode": "Not Assigned",
+   "estTimeOfEntry": "Unknown",
+   "clearedFlightLevel": null,
+   "exitFlightLevel": null,
+   "requestedFlightLevel": 250,
+   "cruisingSpeed": 382,
+   "adep": "WMKK",
+   "ades": "WSSS",
+   "departureTime": "2024-06-05 11:10:00",
+   "scheduledTime": "2024-06-05 11:32:00",
+   "terminateMode": "MANUAL",
+   "xflApprovalState": "UNSET",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S2T1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "state": "TERMINATED",
+   "terminateMode": "MANUAL"
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:37",
+  "mod": "FDPS_DML",
+  "updType": "System Flight Plan erased",
+  "fieldsData": {
+   "sfpi": 17485161,
+   "state": "TERMINATED",
+   "travelType": "OVERFLIGHT",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "MAS607",
+   "aircraftReg": "9MMXK",
+   "aircraftType": "B738",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIJ3J5M1RWYZ",
+   "surveillanceEquip": "LB1D1",
+   "ssrCode": "Not Assigned",
+   "estTimeOfEntry": "Unknown",
+   "clearedFlightLevel": null,
+   "exitFlightLevel": null,
+   "requestedFlightLevel": 250,
+   "cruisingSpeed": 382,
+   "adep": "WMKK",
+   "ades": "WSSS",
+   "departureTime": "2024-06-05 11:10:00",
+   "scheduledTime": "2024-06-05 11:32:00",
+   "terminateMode": "MANUAL",
+   "xflApprovalState": "UNSET",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assigendSpeed": "Not Assigned",
+   "assigendHeading": "Not Assigned",
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S2T1",
+   "fplFormat": "2012"
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:37",
+  "mod": "FDPS_SCHED",
+  "updType": "System Flight Path erased",
+  "sfpi": 17485161,
+  "path": []
+ },
+ {
+  "time": "2024-06-05 07:55:38",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Path updated",
+  "sfpi": 17482976,
+  "path": [
+   {
+    "pointName": "OKADA",
+    "time": "2024-06-05 07:03:00",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "ADKON",
+    "time": "2024-06-05 07:34:18",
+    "status": "Flown"
+   },
+   {
+    "pointName": "BUKTU",
+    "time": "2024-06-05 07:48:52",
+    "status": "Flown"
+   },
+   {
+    "pointName": "TRIBO",
+    "time": "2024-06-05 07:55:38",
+    "status": "Flown"
+   },
+   {
+    "pointName": "RAFIS",
+    "time": "2024-06-05 08:16:20",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "AMBOY",
+    "time": "2024-06-05 08:37:28",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "AKNER",
+    "time": "2024-06-05 08:43:44",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "PAPMU",
+    "time": "2024-06-05 08:58:29",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "SAGAS",
+    "time": "2024-06-05 09:03:38",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "OLVIV",
+    "time": "2024-06-05 09:06:29",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "ELNIR",
+    "time": "2024-06-05 09:09:21",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "KOMIT",
+    "time": "2024-06-05 09:12:39",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:38",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17482976,
+  "path": [
+   {
+    "pointName": "OKADA",
+    "time": "2024-06-05 07:03:00",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "ADKON",
+    "time": "2024-06-05 07:34:18",
+    "status": "Flown"
+   },
+   {
+    "pointName": "BUKTU",
+    "time": "2024-06-05 07:48:52",
+    "status": "Flown"
+   },
+   {
+    "pointName": "TRIBO",
+    "time": "2024-06-05 07:55:38",
+    "status": "Flown"
+   },
+   {
+    "pointName": "RAFIS",
+    "time": "2024-06-05 08:16:30",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "AMBOY",
+    "time": "2024-06-05 08:37:38",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "AKNER",
+    "time": "2024-06-05 08:43:54",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "PAPMU",
+    "time": "2024-06-05 08:58:39",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "SAGAS",
+    "time": "2024-06-05 09:03:48",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "OLVIV",
+    "time": "2024-06-05 09:06:39",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "ELNIR",
+    "time": "2024-06-05 09:09:31",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "KOMIT",
+    "time": "2024-06-05 09:12:49",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:39",
+  "mod": "awp2",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17485135,
+   "state": "TERMINATED",
+   "travelType": "OVERFLIGHT",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "JSA537",
+   "aircraftReg": "9VJSL",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDE2FGHIM3RWXYZ",
+   "surveillanceEquip": "EB1",
+   "ssrCode": "Not Assigned",
+   "estTimeOfEntry": "Unknown",
+   "clearedFlightLevel": null,
+   "exitFlightLevel": null,
+   "requestedFlightLevel": 340,
+   "cruisingSpeed": 464,
+   "adep": "WSSS",
+   "ades": "VTSP",
+   "departureTime": "2024-06-05 11:40:00",
+   "scheduledTime": "2024-06-05 11:43:00",
+   "terminateMode": "MANUAL",
+   "xflApprovalState": "UNSET",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "state": "TERMINATED",
+   "terminateMode": "MANUAL"
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:39",
+  "mod": "FDPS_DML",
+  "updType": "System Flight Plan erased",
+  "fieldsData": {
+   "sfpi": 17485135,
+   "state": "TERMINATED",
+   "travelType": "OVERFLIGHT",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "JSA537",
+   "aircraftReg": "9VJSL",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDE2FGHIM3RWXYZ",
+   "surveillanceEquip": "EB1",
+   "ssrCode": "Not Assigned",
+   "estTimeOfEntry": "Unknown",
+   "clearedFlightLevel": null,
+   "exitFlightLevel": null,
+   "requestedFlightLevel": 340,
+   "cruisingSpeed": 464,
+   "adep": "WSSS",
+   "ades": "VTSP",
+   "departureTime": "2024-06-05 11:40:00",
+   "scheduledTime": "2024-06-05 11:43:00",
+   "terminateMode": "MANUAL",
+   "xflApprovalState": "UNSET",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assigendSpeed": "Not Assigned",
+   "assigendHeading": "Not Assigned",
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S2",
+   "fplFormat": "2012"
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:39",
+  "mod": "FDPS_SCHED",
+  "updType": "System Flight Path erased",
+  "sfpi": 17485135,
+  "path": []
+ },
+ {
+  "time": "2024-06-05 07:55:41",
+  "mod": "12",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17484318,
+   "state": "ACTIVE",
+   "travelType": "OUTBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "GIA616",
+   "aircraftReg": "PKGFG",
+   "aircraftType": "B738",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDE2E3FGHIRWYZ",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "2301",
+   "estTimeOfEntry": "2024-06-05 07:30:59",
+   "clearedFlightLevel": 350,
+   "exitFlightLevel": 350,
+   "requestedFlightLevel": 330,
+   "cruisingSpeed": 459,
+   "adep": "WIII",
+   "ades": "WAAA",
+   "departureTime": "2024-06-05 07:10:00",
+   "scheduledTime": "2024-06-05 07:10:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "BOM V",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1D1L1O1C1S1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "operatorInfo2": "BOM V"
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:41",
+  "mod": "202",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17480406,
+   "state": "ACTIVE",
+   "travelType": "INBOUND",
+   "flightType": "G",
+   "flightRules": "I",
+   "callsign": "CEO31",
+   "aircraftReg": "PKKAS",
+   "aircraftType": "CRJ2",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGIRWY",
+   "surveillanceEquip": "CB1",
+   "ssrCode": "5040",
+   "estTimeOfEntry": "2024-06-05 07:23:00",
+   "clearedFlightLevel": 110,
+   "exitFlightLevel": 260,
+   "requestedFlightLevel": 360,
+   "cruisingSpeed": 437,
+   "adep": "WAMP",
+   "ades": "WIHH",
+   "departureTime": "2024-06-05 05:31:00",
+   "scheduledTime": "2024-06-05 07:15:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "SGS 2",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B2C2D1L1O2S1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "clearedFlightLevel": 110
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:42",
+  "mod": "awp2",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17485175,
+   "state": "TERMINATED",
+   "travelType": "OVERFLIGHT",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "SIA522",
+   "aircraftReg": "9VSHB",
+   "aircraftType": "A359",
+   "wakeTurbulance": "H",
+   "navigationEquip": "SDE1E2E3GHIJ2J3J5M1P2RWXYZ",
+   "surveillanceEquip": "LB1D1",
+   "ssrCode": "Not Assigned",
+   "estTimeOfEntry": "Unknown",
+   "clearedFlightLevel": null,
+   "exitFlightLevel": null,
+   "requestedFlightLevel": 400,
+   "cruisingSpeed": 488,
+   "adep": "WSSS",
+   "ades": "VOHS",
+   "departureTime": "2024-06-05 12:00:00",
+   "scheduledTime": "2024-06-05 12:02:00",
+   "terminateMode": "MANUAL",
+   "xflApprovalState": "UNSET",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "state": "TERMINATED",
+   "terminateMode": "MANUAL"
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:42",
+  "mod": "FDPS_DML",
+  "updType": "System Flight Plan erased",
+  "fieldsData": {
+   "sfpi": 17485175,
+   "state": "TERMINATED",
+   "travelType": "OVERFLIGHT",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "SIA522",
+   "aircraftReg": "9VSHB",
+   "aircraftType": "A359",
+   "wakeTurbulance": "H",
+   "navigationEquip": "SDE1E2E3GHIJ2J3J5M1P2RWXYZ",
+   "surveillanceEquip": "LB1D1",
+   "ssrCode": "Not Assigned",
+   "estTimeOfEntry": "Unknown",
+   "clearedFlightLevel": null,
+   "exitFlightLevel": null,
+   "requestedFlightLevel": 400,
+   "cruisingSpeed": 488,
+   "adep": "WSSS",
+   "ades": "VOHS",
+   "departureTime": "2024-06-05 12:00:00",
+   "scheduledTime": "2024-06-05 12:02:00",
+   "terminateMode": "MANUAL",
+   "xflApprovalState": "UNSET",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assigendSpeed": "Not Assigned",
+   "assigendHeading": "Not Assigned",
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S2",
+   "fplFormat": "2012"
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:42",
+  "mod": "FDPS_SCHED",
+  "updType": "System Flight Path erased",
+  "sfpi": 17485175,
+  "path": []
+ },
+ {
+  "time": "2024-06-05 07:55:43",
+  "mod": "04",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17484629,
+   "state": "ACTIVE",
+   "travelType": "OUTBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "BTK6210",
+   "aircraftReg": "PKLUY",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIRW",
+   "surveillanceEquip": "EB1",
+   "ssrCode": "2302",
+   "estTimeOfEntry": "2024-06-05 07:55:09",
+   "clearedFlightLevel": 70,
+   "exitFlightLevel": 350,
+   "requestedFlightLevel": 350,
+   "cruisingSpeed": 464,
+   "adep": "WIII",
+   "ades": "WAOO",
+   "departureTime": "2024-06-05 07:30:00",
+   "scheduledTime": "2024-06-05 07:30:00",
+   "operatorInfo": "EGU2A",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1C1D1L1O1S2T1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "clearedFlightLevel": 70
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:43",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17479239,
+   "state": "WAITING",
+   "travelType": "INBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "SJV603",
+   "aircraftReg": "PKSAO",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SBDFGHIRWY",
+   "surveillanceEquip": "EB1",
+   "ssrCode": "1602",
+   "estTimeOfEntry": "Unknown",
+   "clearedFlightLevel": null,
+   "exitFlightLevel": 340,
+   "requestedFlightLevel": 340,
+   "cruisingSpeed": 460,
+   "adep": "WALL",
+   "ades": "WIII",
+   "departureTime": "2024-06-05 07:55:00",
+   "scheduledTime": "2024-06-05 07:55:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "state": "WAITING",
+   "ssrCode": "1602",
+   "departureTime": "2024-06-05 07:55:00",
+   "scheduledTime": "2024-06-05 07:55:00"
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:43",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17479239,
+  "path": [
+   {
+    "pointName": "SPIKO",
+    "time": "2024-06-05 07:55:00",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "AKSOX",
+    "time": "2024-06-05 08:06:12",
+    "status": "Scheduled"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:43",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Path updated",
+  "sfpi": 17483645,
+  "path": [
+   {
+    "pointName": "RUTIB",
+    "time": "2024-06-05 07:44:54",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "AKPEB",
+    "time": "2024-06-05 07:47:29",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "PAGSA",
+    "time": "2024-06-05 07:50:06",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "NIPIP",
+    "time": "2024-06-05 07:52:20",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "AGUSO",
+    "time": "2024-06-05 07:56:14",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "GOMEL",
+    "time": "2024-06-05 07:55:43",
+    "status": "Flown"
+   },
+   {
+    "pointName": "ENSAV",
+    "time": "2024-06-05 08:09:19",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "TORUR",
+    "time": "2024-06-05 08:28:39",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:44",
+  "mod": "213",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17484499,
+   "state": "ACTIVE",
+   "travelType": "OUTBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "SJV186",
+   "aircraftReg": "PKSTC",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIRWY",
+   "surveillanceEquip": "EB1",
+   "ssrCode": "6765",
+   "estTimeOfEntry": "2024-06-05 07:46:00",
+   "clearedFlightLevel": 270,
+   "exitFlightLevel": 270,
+   "requestedFlightLevel": 250,
+   "cruisingSpeed": 435,
+   "adep": "WIEE",
+   "ades": "WMKK",
+   "departureTime": "2024-06-05 07:50:00",
+   "scheduledTime": "2024-06-05 07:50:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1S1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {}
+ },
+ {
+  "time": "2024-06-05 07:55:43",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17483645,
+  "path": [
+   {
+    "pointName": "RUTIB",
+    "time": "2024-06-05 07:44:54",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "AKPEB",
+    "time": "2024-06-05 07:47:29",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "PAGSA",
+    "time": "2024-06-05 07:50:06",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "NIPIP",
+    "time": "2024-06-05 07:52:20",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "AGUSO",
+    "time": "2024-06-05 07:56:14",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "GOMEL",
+    "time": "2024-06-05 07:55:43",
+    "status": "Flown"
+   },
+   {
+    "pointName": "ENSAV",
+    "time": "2024-06-05 08:06:22",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "TORUR",
+    "time": "2024-06-05 08:25:42",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:45",
+  "mod": "awp2",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17485129,
+   "state": "TERMINATED",
+   "travelType": "OVERFLIGHT",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "JSA538",
+   "aircraftReg": "9VJSL",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDE2FGHIM3RWXYZ",
+   "surveillanceEquip": "EB1",
+   "ssrCode": "Not Assigned",
+   "estTimeOfEntry": "Unknown",
+   "clearedFlightLevel": null,
+   "exitFlightLevel": null,
+   "requestedFlightLevel": 370,
+   "cruisingSpeed": 458,
+   "adep": "VTSP",
+   "ades": "WSSS",
+   "departureTime": "2024-06-05 14:20:00",
+   "scheduledTime": "2024-06-05 15:34:00",
+   "terminateMode": "MANUAL",
+   "xflApprovalState": "UNSET",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "state": "TERMINATED",
+   "terminateMode": "MANUAL"
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:45",
+  "mod": "FDPS_DML",
+  "updType": "System Flight Plan erased",
+  "fieldsData": {
+   "sfpi": 17485129,
+   "state": "TERMINATED",
+   "travelType": "OVERFLIGHT",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "JSA538",
+   "aircraftReg": "9VJSL",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDE2FGHIM3RWXYZ",
+   "surveillanceEquip": "EB1",
+   "ssrCode": "Not Assigned",
+   "estTimeOfEntry": "Unknown",
+   "clearedFlightLevel": null,
+   "exitFlightLevel": null,
+   "requestedFlightLevel": 370,
+   "cruisingSpeed": 458,
+   "adep": "VTSP",
+   "ades": "WSSS",
+   "departureTime": "2024-06-05 14:20:00",
+   "scheduledTime": "2024-06-05 15:34:00",
+   "terminateMode": "MANUAL",
+   "xflApprovalState": "UNSET",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assigendSpeed": "Not Assigned",
+   "assigendHeading": "Not Assigned",
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S2",
+   "fplFormat": "2012"
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:45",
+  "mod": "FDPS_SCHED",
+  "updType": "System Flight Path erased",
+  "sfpi": 17485129,
+  "path": []
+ },
+ {
+  "time": "2024-06-05 07:55:46",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Path updated",
+  "sfpi": 17484499,
+  "path": [
+   {
+    "pointName": "MKB",
+    "time": "2024-06-05 07:51:36",
+    "status": "Flown"
+   },
+   {
+    "pointName": "OSNIS",
+    "time": "2024-06-05 07:55:46",
+    "status": "Flown"
+   },
+   {
+    "pointName": "PKU",
+    "time": "2024-06-05 08:11:17",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "SALAX",
+    "time": "2024-06-05 08:26:03",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:46",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17484499,
+  "path": [
+   {
+    "pointName": "MKB",
+    "time": "2024-06-05 07:51:36",
+    "status": "Flown"
+   },
+   {
+    "pointName": "OSNIS",
+    "time": "2024-06-05 07:55:46",
+    "status": "Flown"
+   },
+   {
+    "pointName": "PKU",
+    "time": "2024-06-05 08:08:14",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "SALAX",
+    "time": "2024-06-05 08:23:00",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:46",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17481101,
+   "state": "ACTIVE",
+   "travelType": "DOMESTIC",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "GIA297",
+   "aircraftReg": "PKGMX",
+   "aircraftType": "B738",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDE2E3FGHIRWY",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "6436",
+   "estTimeOfEntry": "2024-06-05 07:52:00",
+   "clearedFlightLevel": 270,
+   "exitFlightLevel": 270,
+   "requestedFlightLevel": 270,
+   "cruisingSpeed": 452,
+   "adep": "WIGG",
+   "ades": "WIII",
+   "departureTime": "2024-06-05 07:50:00",
+   "scheduledTime": "2024-06-05 07:50:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1C1D1L1O1S1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "radarIdentification": "MODE 3/A"
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:47",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17484160,
+   "state": "WAITING",
+   "travelType": "OUTBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "OMA850",
+   "aircraftReg": "A4OSE",
+   "aircraftType": "B789",
+   "wakeTurbulance": "H",
+   "navigationEquip": "SDE1E3FGHIJ1J2J3J4J5LM1ORWY",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "2323",
+   "estTimeOfEntry": "Unknown",
+   "clearedFlightLevel": 280,
+   "exitFlightLevel": 380,
+   "requestedFlightLevel": 380,
+   "cruisingSpeed": 492,
+   "adep": "WIII",
+   "ades": "OOMS",
+   "departureTime": "2024-06-05 07:50:00",
+   "scheduledTime": "2024-06-05 07:50:00",
+   "operatorInfo": "RIM1B",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "radarIdentification": "MODE 3/A"
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:50",
+  "mod": "22",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17481248,
+   "state": "ACTIVE",
+   "travelType": "DOMESTIC",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "CTV968",
+   "aircraftReg": "PKGQI",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDE2E3FGHIRWY",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "1777",
+   "estTimeOfEntry": "2024-06-05 07:38:53",
+   "clearedFlightLevel": 360,
+   "exitFlightLevel": 360,
+   "requestedFlightLevel": 360,
+   "cruisingSpeed": 458,
+   "adep": "WIII",
+   "ades": "WIDD",
+   "departureTime": "2024-06-05 07:10:00",
+   "scheduledTime": "2024-06-05 07:10:00",
+   "operatorInfo": "D2A",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "PLB",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1C2D2O1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "clearedFlightLevel": 360
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:51",
+  "mod": "29",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17484956,
+   "state": "ACTIVE",
+   "travelType": "INBOUND",
+   "flightType": "M",
+   "flightRules": "I",
+   "callsign": "UNCRN30",
+   "aircraftReg": "A1330",
+   "aircraftType": "C130",
+   "wakeTurbulance": "M",
+   "navigationEquip": "S",
+   "surveillanceEquip": "C",
+   "ssrCode": "6355",
+   "estTimeOfEntry": "2024-06-05 08:37:00",
+   "clearedFlightLevel": 250,
+   "exitFlightLevel": 185,
+   "requestedFlightLevel": 185,
+   "cruisingSpeed": 280,
+   "adep": "WARA",
+   "ades": "WICC",
+   "departureTime": "2024-06-05 07:46:00",
+   "scheduledTime": "2024-06-05 07:46:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "",
+   "fplFormat": "BOTH"
+  },
+  "updatedData": {
+   "state": "ACTIVE",
+   "estTimeOfEntry": "2024-06-05 08:37:00",
+   "clearedFlightLevel": 250,
+   "exitFlightLevel": 185,
+   "requestedFlightLevel": 185
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:51",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17484956,
+  "path": [
+   {
+    "pointName": "MADIN",
+    "time": "2024-06-05 08:37:00",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "KIDET",
+    "time": "2024-06-05 08:50:30",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "CA",
+    "time": "2024-06-05 09:01:33",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "BND",
+    "time": "2024-06-05 09:15:07",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:53",
+  "mod": "29",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17484956,
+   "state": "ACTIVE",
+   "travelType": "INBOUND",
+   "flightType": "M",
+   "flightRules": "I",
+   "callsign": "UNCRN30",
+   "aircraftReg": "A1330",
+   "aircraftType": "C130",
+   "wakeTurbulance": "M",
+   "navigationEquip": "S",
+   "surveillanceEquip": "C",
+   "ssrCode": "6355",
+   "estTimeOfEntry": "2024-06-05 08:37:00",
+   "clearedFlightLevel": 185,
+   "exitFlightLevel": 185,
+   "requestedFlightLevel": 185,
+   "cruisingSpeed": 280,
+   "adep": "WARA",
+   "ades": "WICC",
+   "departureTime": "2024-06-05 07:46:00",
+   "scheduledTime": "2024-06-05 07:46:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "",
+   "fplFormat": "BOTH"
+  },
+  "updatedData": {
+   "clearedFlightLevel": 185
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:54",
+  "mod": "13",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17484507,
+   "state": "ACTIVE",
+   "travelType": "OVERFLIGHT",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "BTK7637",
+   "aircraftReg": "PKBGK",
+   "aircraftType": "B738",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIRW",
+   "surveillanceEquip": "EB1",
+   "ssrCode": "4121",
+   "estTimeOfEntry": "2024-06-05 07:53:00",
+   "clearedFlightLevel": 340,
+   "exitFlightLevel": 340,
+   "requestedFlightLevel": 320,
+   "cruisingSpeed": 467,
+   "adep": "WADD",
+   "ades": "VTBD",
+   "departureTime": "2024-06-05 06:48:00",
+   "scheduledTime": "2024-06-05 08:02:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "WX ELG/0854",
+   "assignedSpeed": null,
+   "assignedHeading": 310,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1C1C2D1L1O1S2T1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "operatorInfo2": "WX ELG/0854"
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:58",
+  "mod": "19",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17480944,
+   "state": "ACTIVE",
+   "travelType": "INBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "TNU674",
+   "aircraftReg": "PKTLB",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIRWY",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "2203",
+   "estTimeOfEntry": "2024-06-05 07:22:00",
+   "clearedFlightLevel": 350,
+   "exitFlightLevel": 220,
+   "requestedFlightLevel": 390,
+   "cruisingSpeed": 451,
+   "adep": "WMKK",
+   "ades": "WIII",
+   "departureTime": "2024-06-05 06:39:00",
+   "scheduledTime": "2024-06-05 07:01:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "LUV",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1O1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "exitFlightLevel": 220
+  }
+ },
+ {
+  "time": "2024-06-05 07:55:58",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Path updated",
+  "sfpi": 17483952,
+  "path": [
+   {
+    "pointName": "SALAX",
+    "time": "2024-06-05 07:41:15",
+    "status": "Flown"
+   },
+   {
+    "pointName": "PKU",
+    "time": "2024-06-05 07:55:58",
+    "status": "Flown"
+   },
+   {
+    "pointName": "UGIGI",
+    "time": "2024-06-05 07:59:01",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "OSNIS",
+    "time": "2024-06-05 08:06:26",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "MKB",
+    "time": "2024-06-05 08:09:51",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:58",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17483952,
+  "path": [
+   {
+    "pointName": "SALAX",
+    "time": "2024-06-05 07:41:15",
+    "status": "Flown"
+   },
+   {
+    "pointName": "PKU",
+    "time": "2024-06-05 07:55:58",
+    "status": "Flown"
+   },
+   {
+    "pointName": "UGIGI",
+    "time": "2024-06-05 07:59:43",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "OSNIS",
+    "time": "2024-06-05 08:07:08",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "MKB",
+    "time": "2024-06-05 08:10:33",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:55:59",
+  "mod": "19",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17480944,
+   "state": "ACTIVE",
+   "travelType": "INBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "TNU674",
+   "aircraftReg": "PKTLB",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIRWY",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "2203",
+   "estTimeOfEntry": "2024-06-05 07:22:00",
+   "clearedFlightLevel": 220,
+   "exitFlightLevel": 220,
+   "requestedFlightLevel": 390,
+   "cruisingSpeed": 451,
+   "adep": "WMKK",
+   "ades": "WIII",
+   "departureTime": "2024-06-05 06:39:00",
+   "scheduledTime": "2024-06-05 07:01:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "LUV",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1O1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "clearedFlightLevel": 220
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:00",
+  "mod": "FDPS_SCHED",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17480438,
+   "state": "PENDING",
+   "travelType": "INBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "AWQ809",
+   "aircraftReg": "PKAZT",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIRWY",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "Not Assigned",
+   "estTimeOfEntry": "Unknown",
+   "clearedFlightLevel": null,
+   "exitFlightLevel": 360,
+   "requestedFlightLevel": 360,
+   "cruisingSpeed": 454,
+   "adep": "WADD",
+   "ades": "WIII",
+   "departureTime": "2024-06-05 10:55:00",
+   "scheduledTime": "2024-06-05 11:56:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1O1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "state": "PENDING"
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:00",
+  "mod": "FDPS_SCHED",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17481238,
+   "state": "REDUNDANT",
+   "travelType": "DOMESTIC",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "CTV962",
+   "aircraftReg": "PKGQC",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDE2E3FGHIRWY",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "1733",
+   "estTimeOfEntry": "2024-06-05 06:09:40",
+   "clearedFlightLevel": 220,
+   "exitFlightLevel": 220,
+   "requestedFlightLevel": 360,
+   "cruisingSpeed": 466,
+   "adep": "WIII",
+   "ades": "WIEE",
+   "departureTime": "2024-06-05 05:10:00",
+   "scheduledTime": "2024-06-05 05:45:00",
+   "operatorInfo": "T0649V",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "LEB",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1C2D2O1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "state": "REDUNDANT"
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:00",
+  "mod": "FDPS_SCHED",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17483165,
+   "state": "PENDING",
+   "travelType": "OVERFLIGHT",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "PAL512",
+   "aircraftReg": "RPC9905",
+   "aircraftType": "A321",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDE1E2E3FGHIJ3RWXY",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "Not Assigned",
+   "estTimeOfEntry": "Unknown",
+   "clearedFlightLevel": null,
+   "exitFlightLevel": 350,
+   "requestedFlightLevel": 320,
+   "cruisingSpeed": 467,
+   "adep": "WSSS",
+   "ades": "RPLL",
+   "departureTime": "2024-06-05 11:50:00",
+   "scheduledTime": "2024-06-05 11:56:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "state": "PENDING"
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:00",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17483320,
+   "state": "ACTIVE",
+   "travelType": "INBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "CTV481",
+   "aircraftReg": "PKGTG",
+   "aircraftType": "A20N",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDE2E3FGHIRWY",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "5037",
+   "estTimeOfEntry": "2024-06-05 07:10:00",
+   "clearedFlightLevel": 20,
+   "exitFlightLevel": 220,
+   "requestedFlightLevel": 320,
+   "cruisingSpeed": 469,
+   "adep": "WAOO",
+   "ades": "WIII",
+   "departureTime": "2024-06-06 06:05:00",
+   "scheduledTime": "2024-06-06 06:47:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "6",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "2024-06-05 07:57:00",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D2L1O1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "actualLandingTime": "2024-06-05 07:57:00"
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:00",
+  "mod": "04",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17483503,
+   "state": "ACTIVE",
+   "travelType": "DOMESTIC",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "LNI712",
+   "aircraftReg": "PKLPO",
+   "aircraftType": "B738",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIRW",
+   "surveillanceEquip": "EB1",
+   "ssrCode": "1711",
+   "estTimeOfEntry": "2024-06-05 07:52:39",
+   "clearedFlightLevel": 270,
+   "exitFlightLevel": 270,
+   "requestedFlightLevel": 270,
+   "cruisingSpeed": 462,
+   "adep": "WIII",
+   "ades": "WIOO",
+   "departureTime": "2024-06-05 07:45:00",
+   "scheduledTime": "2024-06-05 07:45:00",
+   "operatorInfo": "ABS2A",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1C1C2D1S1S2T1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "clearedFlightLevel": 270
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:03",
+  "mod": "04",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17483503,
+   "state": "ACTIVE",
+   "travelType": "DOMESTIC",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "LNI712",
+   "aircraftReg": "PKLPO",
+   "aircraftType": "B738",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIRW",
+   "surveillanceEquip": "EB1",
+   "ssrCode": "1711",
+   "estTimeOfEntry": "2024-06-05 07:52:39",
+   "clearedFlightLevel": 270,
+   "exitFlightLevel": 270,
+   "requestedFlightLevel": 270,
+   "cruisingSpeed": 462,
+   "adep": "WIII",
+   "ades": "WIOO",
+   "departureTime": "2024-06-05 07:45:00",
+   "scheduledTime": "2024-06-05 07:45:00",
+   "operatorInfo": "ABS2A",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "ABS",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1C1C2D1S1S2T1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "operatorInfo2": "ABS"
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:04",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17484956,
+   "state": "ACTIVE",
+   "travelType": "INBOUND",
+   "flightType": "M",
+   "flightRules": "I",
+   "callsign": "UNCRN30",
+   "aircraftReg": "A1330",
+   "aircraftType": "C130",
+   "wakeTurbulance": "M",
+   "navigationEquip": "S",
+   "surveillanceEquip": "C",
+   "ssrCode": "6355",
+   "estTimeOfEntry": "2024-06-05 08:37:00",
+   "clearedFlightLevel": 185,
+   "exitFlightLevel": 185,
+   "requestedFlightLevel": 185,
+   "cruisingSpeed": 280,
+   "adep": "WARA",
+   "ades": "WICC",
+   "departureTime": "2024-06-05 07:46:00",
+   "scheduledTime": "2024-06-05 07:46:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "",
+   "fplFormat": "BOTH"
+  },
+  "updatedData": {
+   "radarIdentification": "MODE 3/A"
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:04",
+  "mod": "19",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17482126,
+   "state": "ACTIVE",
+   "travelType": "INBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "UAE356",
+   "aircraftReg": "A6EWI",
+   "aircraftType": "B77L",
+   "wakeTurbulance": "H",
+   "navigationEquip": "SDE2E3FGHIJ3J5M1P2RWXYZ",
+   "surveillanceEquip": "LB1D1",
+   "ssrCode": "0571",
+   "estTimeOfEntry": "2024-06-05 05:45:00",
+   "clearedFlightLevel": 220,
+   "exitFlightLevel": 220,
+   "requestedFlightLevel": 370,
+   "cruisingSpeed": 475,
+   "adep": "OMDB",
+   "ades": "WIII",
+   "departureTime": "2024-06-05 00:35:00",
+   "scheduledTime": "2024-06-05 05:47:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "BUN",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S2T1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "clearedFlightLevel": 220
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:06",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Path updated",
+  "sfpi": 17484142,
+  "path": [
+   {
+    "pointName": "ELGOR",
+    "time": "2024-06-05 07:56:06",
+    "status": "Flown"
+   },
+   {
+    "pointName": "UPVUN",
+    "time": "2024-06-05 07:58:20",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "OPULA",
+    "time": "2024-06-05 08:02:24",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "LUSMO",
+    "time": "2024-06-05 08:06:59",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "GULGU",
+    "time": "2024-06-05 08:21:46",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "TERIX",
+    "time": "2024-06-05 08:28:58",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "OLKIT",
+    "time": "2024-06-05 08:47:45",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "VIDIP",
+    "time": "2024-06-05 09:14:34",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:06",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17484142,
+  "path": [
+   {
+    "pointName": "ELGOR",
+    "time": "2024-06-05 07:56:06",
+    "status": "Flown"
+   },
+   {
+    "pointName": "UPVUN",
+    "time": "2024-06-05 07:56:26",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "OPULA",
+    "time": "2024-06-05 08:00:30",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "LUSMO",
+    "time": "2024-06-05 08:05:05",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "GULGU",
+    "time": "2024-06-05 08:19:52",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "TERIX",
+    "time": "2024-06-05 08:27:04",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "OLKIT",
+    "time": "2024-06-05 08:45:51",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "VIDIP",
+    "time": "2024-06-05 09:12:40",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:07",
+  "mod": "05",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17484314,
+   "state": "ACTIVE",
+   "travelType": "DOMESTIC",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "BTK6849",
+   "aircraftReg": "PKBKO",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIRWY",
+   "surveillanceEquip": "EB1",
+   "ssrCode": "6241",
+   "estTimeOfEntry": "2024-06-05 06:43:49",
+   "clearedFlightLevel": 100,
+   "exitFlightLevel": 220,
+   "requestedFlightLevel": 310,
+   "cruisingSpeed": 453,
+   "adep": "WIBB",
+   "ades": "WIII",
+   "departureTime": "2024-06-05 06:43:00",
+   "scheduledTime": "2024-06-05 06:43:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "KAK",
+   "assignedSpeed": 240,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "BUN2F",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1C1D1L1O1S2T1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "assignedSpeed": 240
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:09",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17483310,
+   "state": "PENDING",
+   "travelType": "OVERFLIGHT",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "MXD294",
+   "aircraftReg": "9MLNV",
+   "aircraftType": "B738",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIRWY",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "Not Assigned",
+   "estTimeOfEntry": "Unknown",
+   "clearedFlightLevel": null,
+   "exitFlightLevel": 330,
+   "requestedFlightLevel": 330,
+   "cruisingSpeed": 465,
+   "adep": "VRMM",
+   "ades": "WMKK",
+   "departureTime": "2024-06-05 07:53:00",
+   "scheduledTime": "2024-06-05 10:31:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1O1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "departureTime": "2024-06-05 07:53:00",
+   "scheduledTime": "2024-06-05 10:31:00"
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:09",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17483310,
+  "path": [
+   {
+    "pointName": "NISOK",
+    "time": "2024-06-05 10:31:00",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "MABIX",
+    "time": "2024-06-05 10:53:05",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "OKABU",
+    "time": "2024-06-05 11:14:26",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "ISVUR",
+    "time": "2024-06-05 11:22:11",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "PUGER",
+    "time": "2024-06-05 11:35:13",
+    "status": "Scheduled"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:09",
+  "mod": "15",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17480163,
+   "state": "ACTIVE",
+   "travelType": "DOMESTIC",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "GIA189",
+   "aircraftReg": "PKGFX",
+   "aircraftType": "B738",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDE2E3FGHIJ2RWY",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "0553",
+   "estTimeOfEntry": "2024-06-05 07:47:00",
+   "clearedFlightLevel": 350,
+   "exitFlightLevel": 350,
+   "requestedFlightLevel": 350,
+   "cruisingSpeed": 452,
+   "adep": "WIMM",
+   "ades": "WIII",
+   "departureTime": "2024-06-05 07:35:00",
+   "scheduledTime": "2024-06-05 07:35:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "ISR",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1C1D1L1O1S1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "operatorInfo2": "ISR"
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:09",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Path updated",
+  "sfpi": 17484627,
+  "path": [
+   {
+    "pointName": "PKU",
+    "time": "2024-06-05 07:06:54",
+    "status": "Flown"
+   },
+   {
+    "pointName": "ISROR",
+    "time": "2024-06-05 07:28:02",
+    "status": "Flown"
+   },
+   {
+    "pointName": "TOPUK",
+    "time": "2024-06-05 07:52:44",
+    "status": "Flown"
+   },
+   {
+    "pointName": "UDOKO",
+    "time": "2024-06-05 07:56:09",
+    "status": "Flown"
+   },
+   {
+    "pointName": "BUNIK",
+    "time": "2024-06-05 08:09:14",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "RAMAL",
+    "time": "2024-06-05 08:11:56",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "LUVAX",
+    "time": "2024-06-05 08:14:31",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "EMSEN",
+    "time": "2024-06-05 08:17:50",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "KAKAP",
+    "time": "2024-06-05 08:19:14",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "DAKAR",
+    "time": "2024-06-05 08:21:31",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "OLPAS",
+    "time": "2024-06-05 08:22:48",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:09",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17484627,
+  "path": [
+   {
+    "pointName": "PKU",
+    "time": "2024-06-05 07:06:54",
+    "status": "Flown"
+   },
+   {
+    "pointName": "ISROR",
+    "time": "2024-06-05 07:28:02",
+    "status": "Flown"
+   },
+   {
+    "pointName": "TOPUK",
+    "time": "2024-06-05 07:52:44",
+    "status": "Flown"
+   },
+   {
+    "pointName": "UDOKO",
+    "time": "2024-06-05 07:56:09",
+    "status": "Flown"
+   },
+   {
+    "pointName": "BUNIK",
+    "time": "2024-06-05 08:09:20",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "RAMAL",
+    "time": "2024-06-05 08:12:02",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "LUVAX",
+    "time": "2024-06-05 08:14:37",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "EMSEN",
+    "time": "2024-06-05 08:17:56",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "KAKAP",
+    "time": "2024-06-05 08:19:20",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "DAKAR",
+    "time": "2024-06-05 08:21:37",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "OLPAS",
+    "time": "2024-06-05 08:22:54",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:10",
+  "mod": "12",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17484523,
+   "state": "ACTIVE",
+   "travelType": "OUTBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "BTK6726",
+   "aircraftReg": "PKBKJ",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIRW",
+   "surveillanceEquip": "EB1",
+   "ssrCode": "2335",
+   "estTimeOfEntry": "2024-06-05 07:45:01",
+   "clearedFlightLevel": 330,
+   "exitFlightLevel": 330,
+   "requestedFlightLevel": 330,
+   "cruisingSpeed": 463,
+   "adep": "WIII",
+   "ades": "WAWW",
+   "departureTime": "2024-06-05 06:40:00",
+   "scheduledTime": "2024-06-05 07:20:00",
+   "operatorInfo": "CA2B",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": 120,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1C1D1L1O1S2T1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "clearedFlightLevel": 330
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:11",
+  "mod": "04",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17481833,
+   "state": "ACTIVE",
+   "travelType": "INBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "GIA901",
+   "aircraftReg": "PKGII",
+   "aircraftType": "B77W",
+   "wakeTurbulance": "H",
+   "navigationEquip": "SDE1E2E3FGHIJ4J5M1RWXY",
+   "surveillanceEquip": "LB1D1",
+   "ssrCode": "3244",
+   "estTimeOfEntry": "2024-06-05 05:32:00",
+   "clearedFlightLevel": 170,
+   "exitFlightLevel": 220,
+   "requestedFlightLevel": 370,
+   "cruisingSpeed": 488,
+   "adep": "OTHH",
+   "ades": "WIII",
+   "departureTime": "2024-06-04 23:56:00",
+   "scheduledTime": "2024-06-05 05:35:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "assignedSpeed": 250,
+   "assignedHeading": 180,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1D1O1C1S2L1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "assignedHeading": 180
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:11",
+  "mod": "22",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17481248,
+   "state": "ACTIVE",
+   "travelType": "DOMESTIC",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "CTV968",
+   "aircraftReg": "PKGQI",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDE2E3FGHIRWY",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "1777",
+   "estTimeOfEntry": "2024-06-05 07:38:53",
+   "clearedFlightLevel": 360,
+   "exitFlightLevel": 360,
+   "requestedFlightLevel": 360,
+   "cruisingSpeed": 458,
+   "adep": "WIII",
+   "ades": "WIDD",
+   "departureTime": "2024-06-05 07:10:00",
+   "scheduledTime": "2024-06-05 07:10:00",
+   "operatorInfo": "D2A",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "PLB AVL00832",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1C2D2O1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "operatorInfo2": "PLB AVL00832"
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:14",
+  "mod": "213",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17484499,
+   "state": "ACTIVE",
+   "travelType": "OUTBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "SJV186",
+   "aircraftReg": "PKSTC",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIRWY",
+   "surveillanceEquip": "EB1",
+   "ssrCode": "6765",
+   "estTimeOfEntry": "2024-06-05 07:46:00",
+   "clearedFlightLevel": 270,
+   "exitFlightLevel": 270,
+   "requestedFlightLevel": 250,
+   "cruisingSpeed": 435,
+   "adep": "WIEE",
+   "ades": "WMKK",
+   "departureTime": "2024-06-05 07:50:00",
+   "scheduledTime": "2024-06-05 07:50:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1S1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {}
+ },
+ {
+  "time": "2024-06-05 07:56:14",
+  "mod": "TWR6",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17484386,
+   "state": "WAITING",
+   "travelType": "OUTBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "GIA410",
+   "aircraftReg": "PKGMU",
+   "aircraftType": "B738",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDE2E3FGHIRWYZ",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "2360",
+   "estTimeOfEntry": "Unknown",
+   "clearedFlightLevel": 290,
+   "exitFlightLevel": 350,
+   "requestedFlightLevel": 350,
+   "cruisingSpeed": 460,
+   "adep": "WIII",
+   "ades": "WADD",
+   "departureTime": "2024-06-05 07:25:00",
+   "scheduledTime": "2024-06-05 07:25:00",
+   "operatorInfo": "CA2B",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1C1D1L1O1S1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "operatorInfo": "CA2B"
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:17",
+  "mod": "06",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17484597,
+   "state": "ACTIVE",
+   "travelType": "DOMESTIC",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "SJV859",
+   "aircraftReg": "PKSAW",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SBDFGHIRWY",
+   "surveillanceEquip": "EB1",
+   "ssrCode": "0106",
+   "estTimeOfEntry": "2024-06-05 07:21:00",
+   "clearedFlightLevel": 100,
+   "exitFlightLevel": 220,
+   "requestedFlightLevel": 350,
+   "cruisingSpeed": 428,
+   "adep": "WIDD",
+   "ades": "WIII",
+   "departureTime": "2024-06-05 07:01:00",
+   "scheduledTime": "2024-06-05 07:16:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "EMS",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "clearedFlightLevel": 100
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:17",
+  "mod": "04",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17484316,
+   "state": "ACTIVE",
+   "travelType": "OUTBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "GIA572",
+   "aircraftReg": "",
+   "aircraftType": "B738",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDE2E3FGHIRWY",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "2370",
+   "estTimeOfEntry": "2024-06-05 07:46:59",
+   "clearedFlightLevel": 290,
+   "exitFlightLevel": 350,
+   "requestedFlightLevel": 350,
+   "cruisingSpeed": 459,
+   "adep": "WIII",
+   "ades": "WALL",
+   "departureTime": "2024-06-05 07:10:00",
+   "scheduledTime": "2024-06-05 07:10:00",
+   "operatorInfo": "EGU2A",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "EGU",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "clearedFlightLevel": 290
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:17",
+  "mod": "12",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17484593,
+   "state": "ACTIVE",
+   "travelType": "OUTBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "BTK7362",
+   "aircraftReg": "PKLAO",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIRW",
+   "surveillanceEquip": "EB1",
+   "ssrCode": "2422",
+   "estTimeOfEntry": "2024-06-05 07:45:23",
+   "clearedFlightLevel": 290,
+   "exitFlightLevel": 290,
+   "requestedFlightLevel": 290,
+   "cruisingSpeed": 445,
+   "adep": "WIII",
+   "ades": "WAHQ",
+   "departureTime": "2024-06-05 07:30:00",
+   "scheduledTime": "2024-06-05 07:30:00",
+   "operatorInfo": "V",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "CA",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1C1D1L1O1S2T1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {}
+ },
+ {
+  "time": "2024-06-05 07:56:18",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17484289,
+   "state": "ACTIVE",
+   "travelType": "OVERFLIGHT",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "MAS2640",
+   "aircraftReg": "9MMVD",
+   "aircraftType": "B38M",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDE1E2E3FGHIJ3J4J5M1RUVWXYZ",
+   "surveillanceEquip": "LB1D1",
+   "ssrCode": "2131",
+   "estTimeOfEntry": "2024-06-05 08:31:00",
+   "clearedFlightLevel": 370,
+   "exitFlightLevel": 370,
+   "requestedFlightLevel": 330,
+   "cruisingSpeed": 442,
+   "adep": "WMKK",
+   "ades": "WBKK",
+   "departureTime": "2024-06-05 07:48:00",
+   "scheduledTime": "2024-06-05 08:29:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S2T1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "radarIdentification": "MODE 3/A"
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:19",
+  "mod": "06",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17484597,
+   "state": "ACTIVE",
+   "travelType": "DOMESTIC",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "SJV859",
+   "aircraftReg": "PKSAW",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SBDFGHIRWY",
+   "surveillanceEquip": "EB1",
+   "ssrCode": "0106",
+   "estTimeOfEntry": "2024-06-05 07:21:00",
+   "clearedFlightLevel": 100,
+   "exitFlightLevel": 220,
+   "requestedFlightLevel": 350,
+   "cruisingSpeed": 428,
+   "adep": "WIDD",
+   "ades": "WIII",
+   "departureTime": "2024-06-05 07:01:00",
+   "scheduledTime": "2024-06-05 07:16:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "KKP",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "operatorInfo2": "KKP"
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:22",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Path updated",
+  "sfpi": 17482023,
+  "path": [
+   {
+    "pointName": "SUGIK",
+    "time": "2024-06-05 06:58:00",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "BUKTU",
+    "time": "2024-06-05 07:05:56",
+    "status": "Flown"
+   },
+   {
+    "pointName": "PNK",
+    "time": "2024-06-05 07:17:55",
+    "status": "Flown"
+   },
+   {
+    "pointName": "ARUPA",
+    "time": "2024-06-05 07:24:10",
+    "status": "Flown"
+   },
+   {
+    "pointName": "NIMIX",
+    "time": "2024-06-05 07:33:39",
+    "status": "Flown"
+   },
+   {
+    "pointName": "ESPIT",
+    "time": "2024-06-05 07:39:37",
+    "status": "Flown"
+   },
+   {
+    "pointName": "BOBOB",
+    "time": "2024-06-05 07:43:25",
+    "status": "Flown"
+   },
+   {
+    "pointName": "UPLAM",
+    "time": "2024-06-05 07:48:54",
+    "status": "Flown"
+   },
+   {
+    "pointName": "OMLIV",
+    "time": "2024-06-05 07:49:48",
+    "status": "Flown"
+   },
+   {
+    "pointName": "LEBIN",
+    "time": "2024-06-05 07:53:32",
+    "status": "Flown"
+   },
+   {
+    "pointName": "AKDAT",
+    "time": "2024-06-05 07:56:22",
+    "status": "Flown"
+   },
+   {
+    "pointName": "ELGOR",
+    "time": "2024-06-05 07:56:32",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "MUMSO",
+    "time": "2024-06-05 07:59:15",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "ENREP",
+    "time": "2024-06-05 08:12:25",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:22",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17482023,
+  "path": [
+   {
+    "pointName": "SUGIK",
+    "time": "2024-06-05 06:58:00",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "BUKTU",
+    "time": "2024-06-05 07:05:56",
+    "status": "Flown"
+   },
+   {
+    "pointName": "PNK",
+    "time": "2024-06-05 07:17:55",
+    "status": "Flown"
+   },
+   {
+    "pointName": "ARUPA",
+    "time": "2024-06-05 07:24:10",
+    "status": "Flown"
+   },
+   {
+    "pointName": "NIMIX",
+    "time": "2024-06-05 07:33:39",
+    "status": "Flown"
+   },
+   {
+    "pointName": "ESPIT",
+    "time": "2024-06-05 07:39:37",
+    "status": "Flown"
+   },
+   {
+    "pointName": "BOBOB",
+    "time": "2024-06-05 07:43:25",
+    "status": "Flown"
+   },
+   {
+    "pointName": "UPLAM",
+    "time": "2024-06-05 07:48:54",
+    "status": "Flown"
+   },
+   {
+    "pointName": "OMLIV",
+    "time": "2024-06-05 07:49:48",
+    "status": "Flown"
+   },
+   {
+    "pointName": "LEBIN",
+    "time": "2024-06-05 07:53:32",
+    "status": "Flown"
+   },
+   {
+    "pointName": "AKDAT",
+    "time": "2024-06-05 07:56:22",
+    "status": "Flown"
+   },
+   {
+    "pointName": "ELGOR",
+    "time": "2024-06-05 07:56:31",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "MUMSO",
+    "time": "2024-06-05 07:59:14",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "ENREP",
+    "time": "2024-06-05 08:12:24",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:25",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Path updated",
+  "sfpi": 17482650,
+  "path": [
+   {
+    "pointName": "GULGU",
+    "time": "2024-06-05 07:37:26",
+    "status": "Flown"
+   },
+   {
+    "pointName": "LUSMO",
+    "time": "2024-06-05 07:52:00",
+    "status": "Flown"
+   },
+   {
+    "pointName": "OPULA",
+    "time": "2024-06-05 07:56:25",
+    "status": "Flown"
+   },
+   {
+    "pointName": "UPVUN",
+    "time": "2024-06-05 08:00:50",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "ELGOR",
+    "time": "2024-06-05 08:01:11",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "MABAL",
+    "time": "2024-06-05 08:06:04",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "VISAT",
+    "time": "2024-06-05 08:11:41",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "URIGO",
+    "time": "2024-06-05 08:15:04",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "IDSEL",
+    "time": "2024-06-05 08:16:34",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:25",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17484160,
+   "state": "ACTIVE",
+   "travelType": "OUTBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "OMA850",
+   "aircraftReg": "A4OSE",
+   "aircraftType": "B789",
+   "wakeTurbulance": "H",
+   "navigationEquip": "SDE1E3FGHIJ1J2J3J4J5LM1ORWY",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "2323",
+   "estTimeOfEntry": "2024-06-05 07:56:32",
+   "clearedFlightLevel": 280,
+   "exitFlightLevel": 380,
+   "requestedFlightLevel": 380,
+   "cruisingSpeed": 492,
+   "adep": "WIII",
+   "ades": "OOMS",
+   "departureTime": "2024-06-05 07:50:00",
+   "scheduledTime": "2024-06-05 07:50:00",
+   "operatorInfo": "RIM1B",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "state": "ACTIVE",
+   "estTimeOfEntry": "2024-06-05 07:56:32"
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:25",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17482650,
+  "path": [
+   {
+    "pointName": "GULGU",
+    "time": "2024-06-05 07:37:26",
+    "status": "Flown"
+   },
+   {
+    "pointName": "LUSMO",
+    "time": "2024-06-05 07:52:00",
+    "status": "Flown"
+   },
+   {
+    "pointName": "OPULA",
+    "time": "2024-06-05 07:56:25",
+    "status": "Flown"
+   },
+   {
+    "pointName": "UPVUN",
+    "time": "2024-06-05 08:00:34",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "ELGOR",
+    "time": "2024-06-05 08:00:55",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "MABAL",
+    "time": "2024-06-05 08:05:48",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "VISAT",
+    "time": "2024-06-05 08:11:25",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "URIGO",
+    "time": "2024-06-05 08:14:48",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "IDSEL",
+    "time": "2024-06-05 08:16:18",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:25",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17484160,
+  "path": [
+   {
+    "pointName": "RUTIB",
+    "time": "2024-06-05 07:59:15",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "AKPEB",
+    "time": "2024-06-05 08:01:36",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "PAGSA",
+    "time": "2024-06-05 08:04:00",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "NIPIP",
+    "time": "2024-06-05 08:06:02",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "RIMTI",
+    "time": "2024-06-05 08:11:53",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "TKG",
+    "time": "2024-06-05 08:15:16",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "TOLIT",
+    "time": "2024-06-05 08:21:05",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "BKL",
+    "time": "2024-06-05 08:38:30",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "PAGAI",
+    "time": "2024-06-05 09:01:10",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "OBMAT",
+    "time": "2024-06-05 09:16:16",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "PAKRA",
+    "time": "2024-06-05 09:45:36",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "NISOK",
+    "time": "2024-06-05 10:09:57",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:28",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Path updated",
+  "sfpi": 17481909,
+  "path": [
+   {
+    "pointName": "CLP",
+    "time": "2024-06-05 07:13:36",
+    "status": "Flown"
+   },
+   {
+    "pointName": "BND",
+    "time": "2024-06-05 07:26:59",
+    "status": "Flown"
+   },
+   {
+    "pointName": "PW",
+    "time": "2024-06-05 07:28:38",
+    "status": "Flown"
+   },
+   {
+    "pointName": "HLM",
+    "time": "2024-06-05 07:33:39",
+    "status": "Flown"
+   },
+   {
+    "pointName": "CKG",
+    "time": "2024-06-05 07:37:07",
+    "status": "Flown"
+   },
+   {
+    "pointName": "PATKU",
+    "time": "2024-06-05 07:38:24",
+    "status": "Flown"
+   },
+   {
+    "pointName": "GOMEL",
+    "time": "2024-06-05 07:45:58",
+    "status": "Flown"
+   },
+   {
+    "pointName": "ENSAV",
+    "time": "2024-06-05 07:56:28",
+    "status": "Flown"
+   },
+   {
+    "pointName": "TORUR",
+    "time": "2024-06-05 08:15:57",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "OVSET",
+    "time": "2024-06-05 08:24:20",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:28",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17481909,
+  "path": [
+   {
+    "pointName": "CLP",
+    "time": "2024-06-05 07:13:36",
+    "status": "Flown"
+   },
+   {
+    "pointName": "BND",
+    "time": "2024-06-05 07:26:59",
+    "status": "Flown"
+   },
+   {
+    "pointName": "PW",
+    "time": "2024-06-05 07:28:38",
+    "status": "Flown"
+   },
+   {
+    "pointName": "HLM",
+    "time": "2024-06-05 07:33:39",
+    "status": "Flown"
+   },
+   {
+    "pointName": "CKG",
+    "time": "2024-06-05 07:37:07",
+    "status": "Flown"
+   },
+   {
+    "pointName": "PATKU",
+    "time": "2024-06-05 07:38:24",
+    "status": "Flown"
+   },
+   {
+    "pointName": "GOMEL",
+    "time": "2024-06-05 07:45:58",
+    "status": "Flown"
+   },
+   {
+    "pointName": "ENSAV",
+    "time": "2024-06-05 07:56:28",
+    "status": "Flown"
+   },
+   {
+    "pointName": "TORUR",
+    "time": "2024-06-05 08:15:48",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "OVSET",
+    "time": "2024-06-05 08:24:11",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:28",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Path updated",
+  "sfpi": 17484142,
+  "path": [
+   {
+    "pointName": "ELGOR",
+    "time": "2024-06-05 07:56:06",
+    "status": "Flown"
+   },
+   {
+    "pointName": "UPVUN",
+    "time": "2024-06-05 07:56:28",
+    "status": "Flown"
+   },
+   {
+    "pointName": "OPULA",
+    "time": "2024-06-05 08:00:30",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "LUSMO",
+    "time": "2024-06-05 08:05:05",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "GULGU",
+    "time": "2024-06-05 08:19:52",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "TERIX",
+    "time": "2024-06-05 08:27:04",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "OLKIT",
+    "time": "2024-06-05 08:45:51",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "VIDIP",
+    "time": "2024-06-05 09:12:40",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:28",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17484142,
+  "path": [
+   {
+    "pointName": "ELGOR",
+    "time": "2024-06-05 07:56:06",
+    "status": "Flown"
+   },
+   {
+    "pointName": "UPVUN",
+    "time": "2024-06-05 07:56:28",
+    "status": "Flown"
+   },
+   {
+    "pointName": "OPULA",
+    "time": "2024-06-05 08:00:32",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "LUSMO",
+    "time": "2024-06-05 08:05:07",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "GULGU",
+    "time": "2024-06-05 08:19:54",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "TERIX",
+    "time": "2024-06-05 08:27:06",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "OLKIT",
+    "time": "2024-06-05 08:45:53",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "VIDIP",
+    "time": "2024-06-05 09:12:42",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:29",
+  "mod": "08",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17480035,
+   "state": "ACTIVE",
+   "travelType": "INBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "BTK6281",
+   "aircraftReg": "PKLUW",
+   "aircraftType": "B738",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIRW",
+   "surveillanceEquip": "EB1",
+   "ssrCode": "5025",
+   "estTimeOfEntry": "2024-06-05 07:40:00",
+   "clearedFlightLevel": 360,
+   "exitFlightLevel": 360,
+   "requestedFlightLevel": 360,
+   "cruisingSpeed": 467,
+   "adep": "WAMM",
+   "ades": "WIII",
+   "departureTime": "2024-06-05 05:30:00",
+   "scheduledTime": "2024-06-05 07:32:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "assignedSpeed": 100078,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1C1D1L1O1S2T1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {}
+ },
+ {
+  "time": "2024-06-05 07:56:31",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Path updated",
+  "sfpi": 17480373,
+  "path": [
+   {
+    "pointName": "PKU",
+    "time": "2024-06-05 07:34:03",
+    "status": "Flown"
+   },
+   {
+    "pointName": "ISROR",
+    "time": "2024-06-05 07:56:31",
+    "status": "Flown"
+   },
+   {
+    "pointName": "TOPUK",
+    "time": "2024-06-05 08:21:06",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "UDOKO",
+    "time": "2024-06-05 08:24:24",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "BUNIK",
+    "time": "2024-06-05 08:37:30",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "RAMAL",
+    "time": "2024-06-05 08:40:11",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "LUVAX",
+    "time": "2024-06-05 08:42:45",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "EMSEN",
+    "time": "2024-06-05 08:46:03",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "KAKAP",
+    "time": "2024-06-05 08:47:27",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "DAKAR",
+    "time": "2024-06-05 08:49:43",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "OLPAS",
+    "time": "2024-06-05 08:51:00",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:31",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17480373,
+  "path": [
+   {
+    "pointName": "PKU",
+    "time": "2024-06-05 07:34:03",
+    "status": "Flown"
+   },
+   {
+    "pointName": "ISROR",
+    "time": "2024-06-05 07:56:31",
+    "status": "Flown"
+   },
+   {
+    "pointName": "TOPUK",
+    "time": "2024-06-05 08:20:21",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "UDOKO",
+    "time": "2024-06-05 08:23:39",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "BUNIK",
+    "time": "2024-06-05 08:36:45",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "RAMAL",
+    "time": "2024-06-05 08:39:26",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "LUVAX",
+    "time": "2024-06-05 08:42:00",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "EMSEN",
+    "time": "2024-06-05 08:45:18",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "KAKAP",
+    "time": "2024-06-05 08:46:42",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "DAKAR",
+    "time": "2024-06-05 08:48:58",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "OLPAS",
+    "time": "2024-06-05 08:50:15",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:31",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Path updated",
+  "sfpi": 17484607,
+  "path": [
+   {
+    "pointName": "SAPDA",
+    "time": "2024-06-05 06:18:34",
+    "status": "Flown"
+   },
+   {
+    "pointName": "IPKON",
+    "time": "2024-06-05 06:54:37",
+    "status": "Flown"
+   },
+   {
+    "pointName": "IMABA",
+    "time": "2024-06-05 07:03:41",
+    "status": "Flown"
+   },
+   {
+    "pointName": "HLM",
+    "time": "2024-06-05 07:11:18",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "PW",
+    "time": "2024-06-05 07:07:12",
+    "status": "Flown"
+   },
+   {
+    "pointName": "BIDAK",
+    "time": "2024-06-05 07:28:19",
+    "status": "Flown"
+   },
+   {
+    "pointName": "PARDI",
+    "time": "2024-06-05 07:56:31",
+    "status": "Flown"
+   },
+   {
+    "pointName": "REPOV",
+    "time": "2024-06-05 08:04:03",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:31",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17484607,
+  "path": [
+   {
+    "pointName": "SAPDA",
+    "time": "2024-06-05 06:18:34",
+    "status": "Flown"
+   },
+   {
+    "pointName": "IPKON",
+    "time": "2024-06-05 06:54:37",
+    "status": "Flown"
+   },
+   {
+    "pointName": "IMABA",
+    "time": "2024-06-05 07:03:41",
+    "status": "Flown"
+   },
+   {
+    "pointName": "HLM",
+    "time": "2024-06-05 07:11:18",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "PW",
+    "time": "2024-06-05 07:07:12",
+    "status": "Flown"
+   },
+   {
+    "pointName": "BIDAK",
+    "time": "2024-06-05 07:28:19",
+    "status": "Flown"
+   },
+   {
+    "pointName": "PARDI",
+    "time": "2024-06-05 07:56:31",
+    "status": "Flown"
+   },
+   {
+    "pointName": "REPOV",
+    "time": "2024-06-05 08:02:55",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:31",
+  "mod": "04",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17483461,
+   "state": "ACTIVE",
+   "travelType": "OUTBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "CTV424",
+   "aircraftReg": "PKGLK",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDE2E3FGHIJ2RWY",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "7116",
+   "estTimeOfEntry": "2024-06-05 07:51:09",
+   "clearedFlightLevel": 100,
+   "exitFlightLevel": 350,
+   "requestedFlightLevel": 350,
+   "cruisingSpeed": 462,
+   "adep": "WIII",
+   "ades": "WALL",
+   "departureTime": "2024-06-05 07:30:00",
+   "scheduledTime": "2024-06-05 07:30:00",
+   "operatorInfo": "EGU2A",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "SUBUR",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1C2D2O1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "clearedFlightLevel": 100
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:31",
+  "mod": "208",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17484507,
+   "state": "ACTIVE",
+   "travelType": "OVERFLIGHT",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "BTK7637",
+   "aircraftReg": "PKBGK",
+   "aircraftType": "B738",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIRW",
+   "surveillanceEquip": "EB1",
+   "ssrCode": "4121",
+   "estTimeOfEntry": "2024-06-05 07:53:00",
+   "clearedFlightLevel": 340,
+   "exitFlightLevel": 340,
+   "requestedFlightLevel": 320,
+   "cruisingSpeed": 467,
+   "adep": "WADD",
+   "ades": "VTBD",
+   "departureTime": "2024-06-05 06:48:00",
+   "scheduledTime": "2024-06-05 08:02:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "WX ELG/0854VF320V",
+   "assignedSpeed": null,
+   "assignedHeading": 310,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1C1C2D1L1O1S2T1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "operatorInfo2": "WX ELG/0854VF320V"
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:31",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Path updated",
+  "sfpi": 17482023,
+  "path": [
+   {
+    "pointName": "SUGIK",
+    "time": "2024-06-05 06:58:00",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "BUKTU",
+    "time": "2024-06-05 07:05:56",
+    "status": "Flown"
+   },
+   {
+    "pointName": "PNK",
+    "time": "2024-06-05 07:17:55",
+    "status": "Flown"
+   },
+   {
+    "pointName": "ARUPA",
+    "time": "2024-06-05 07:24:10",
+    "status": "Flown"
+   },
+   {
+    "pointName": "NIMIX",
+    "time": "2024-06-05 07:33:39",
+    "status": "Flown"
+   },
+   {
+    "pointName": "ESPIT",
+    "time": "2024-06-05 07:39:37",
+    "status": "Flown"
+   },
+   {
+    "pointName": "BOBOB",
+    "time": "2024-06-05 07:43:25",
+    "status": "Flown"
+   },
+   {
+    "pointName": "UPLAM",
+    "time": "2024-06-05 07:48:54",
+    "status": "Flown"
+   },
+   {
+    "pointName": "OMLIV",
+    "time": "2024-06-05 07:49:48",
+    "status": "Flown"
+   },
+   {
+    "pointName": "LEBIN",
+    "time": "2024-06-05 07:53:32",
+    "status": "Flown"
+   },
+   {
+    "pointName": "AKDAT",
+    "time": "2024-06-05 07:56:22",
+    "status": "Flown"
+   },
+   {
+    "pointName": "ELGOR",
+    "time": "2024-06-05 07:56:31",
+    "status": "Flown"
+   },
+   {
+    "pointName": "MUMSO",
+    "time": "2024-06-05 07:59:14",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "ENREP",
+    "time": "2024-06-05 08:12:24",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:31",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17482023,
+  "path": [
+   {
+    "pointName": "SUGIK",
+    "time": "2024-06-05 06:58:00",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "BUKTU",
+    "time": "2024-06-05 07:05:56",
+    "status": "Flown"
+   },
+   {
+    "pointName": "PNK",
+    "time": "2024-06-05 07:17:55",
+    "status": "Flown"
+   },
+   {
+    "pointName": "ARUPA",
+    "time": "2024-06-05 07:24:10",
+    "status": "Flown"
+   },
+   {
+    "pointName": "NIMIX",
+    "time": "2024-06-05 07:33:39",
+    "status": "Flown"
+   },
+   {
+    "pointName": "ESPIT",
+    "time": "2024-06-05 07:39:37",
+    "status": "Flown"
+   },
+   {
+    "pointName": "BOBOB",
+    "time": "2024-06-05 07:43:25",
+    "status": "Flown"
+   },
+   {
+    "pointName": "UPLAM",
+    "time": "2024-06-05 07:48:54",
+    "status": "Flown"
+   },
+   {
+    "pointName": "OMLIV",
+    "time": "2024-06-05 07:49:48",
+    "status": "Flown"
+   },
+   {
+    "pointName": "LEBIN",
+    "time": "2024-06-05 07:53:32",
+    "status": "Flown"
+   },
+   {
+    "pointName": "AKDAT",
+    "time": "2024-06-05 07:56:22",
+    "status": "Flown"
+   },
+   {
+    "pointName": "ELGOR",
+    "time": "2024-06-05 07:56:31",
+    "status": "Flown"
+   },
+   {
+    "pointName": "MUMSO",
+    "time": "2024-06-05 07:59:14",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "ENREP",
+    "time": "2024-06-05 08:12:24",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:32",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Path updated",
+  "sfpi": 17481322,
+  "path": [
+   {
+    "pointName": "ANITO",
+    "time": "2024-06-05 07:10:52",
+    "status": "Flown"
+   },
+   {
+    "pointName": "PKP",
+    "time": "2024-06-05 07:28:37",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "BOSLO",
+    "time": "2024-06-05 07:40:15",
+    "status": "Flown"
+   },
+   {
+    "pointName": "BUNIK",
+    "time": "2024-06-05 07:50:49",
+    "status": "Flown"
+   },
+   {
+    "pointName": "RAMAL",
+    "time": "2024-06-05 07:53:30",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "LUVAX",
+    "time": "2024-06-05 07:56:32",
+    "status": "Flown"
+   },
+   {
+    "pointName": "EMSEN",
+    "time": "2024-06-05 07:59:20",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "KAKAP",
+    "time": "2024-06-05 08:00:43",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "DAKAR",
+    "time": "2024-06-05 08:02:58",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "OLPAS",
+    "time": "2024-06-05 08:04:15",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:33",
+  "mod": "22",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17483645,
+   "state": "ACTIVE",
+   "travelType": "DOMESTIC",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "CTV966",
+   "aircraftReg": "PKGLS",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDE2E3FGHIJ2J4M1RVW",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "2536",
+   "estTimeOfEntry": "2024-06-05 07:41:55",
+   "clearedFlightLevel": 280,
+   "exitFlightLevel": 280,
+   "requestedFlightLevel": 280,
+   "cruisingSpeed": 450,
+   "adep": "WIII",
+   "ades": "WIJJ",
+   "departureTime": "2024-06-05 07:15:00",
+   "scheduledTime": "2024-06-05 07:15:00",
+   "operatorInfo": "GOM1B",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "ENS V",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1C2D2O1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "operatorInfo2": "ENS V"
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:32",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17481322,
+  "path": [
+   {
+    "pointName": "ANITO",
+    "time": "2024-06-05 07:10:52",
+    "status": "Flown"
+   },
+   {
+    "pointName": "PKP",
+    "time": "2024-06-05 07:28:37",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "BOSLO",
+    "time": "2024-06-05 07:40:15",
+    "status": "Flown"
+   },
+   {
+    "pointName": "BUNIK",
+    "time": "2024-06-05 07:50:49",
+    "status": "Flown"
+   },
+   {
+    "pointName": "RAMAL",
+    "time": "2024-06-05 07:53:30",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "LUVAX",
+    "time": "2024-06-05 07:56:32",
+    "status": "Flown"
+   },
+   {
+    "pointName": "EMSEN",
+    "time": "2024-06-05 07:59:49",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "KAKAP",
+    "time": "2024-06-05 08:01:12",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "DAKAR",
+    "time": "2024-06-05 08:03:27",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "OLPAS",
+    "time": "2024-06-05 08:04:44",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:40",
+  "mod": "25",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17483603,
+   "state": "ACTIVE",
+   "travelType": "OVERFLIGHT",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "AXM377",
+   "aircraftReg": "9MAQE",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIRWY",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "4146",
+   "estTimeOfEntry": "2024-06-05 08:14:00",
+   "clearedFlightLevel": 360,
+   "exitFlightLevel": 360,
+   "requestedFlightLevel": 360,
+   "cruisingSpeed": 458,
+   "adep": "WADD",
+   "ades": "WMKK",
+   "departureTime": "2024-06-05 07:15:00",
+   "scheduledTime": "2024-06-05 08:24:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S2T1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "state": "ACTIVE",
+   "estTimeOfEntry": "2024-06-05 08:14:00",
+   "clearedFlightLevel": 360
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:40",
+  "mod": "25",
+  "updType": "System Flight Path updated",
+  "sfpi": 17483603,
+  "path": [
+   {
+    "pointName": "TAVIP",
+    "time": "2024-06-05 08:24:00",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "RAFIS",
+    "time": "2024-06-05 08:36:54",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "MASRI",
+    "time": "2024-06-05 08:41:46",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "SURGA",
+    "time": "2024-06-05 09:04:08",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "ATPOM",
+    "time": "2024-06-05 09:16:20",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "INVUB",
+    "time": "2024-06-05 09:17:12",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "JUNHA",
+    "time": "2024-06-05 09:23:59",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "IRTAD",
+    "time": "2024-06-05 09:26:45",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "AVPIV",
+    "time": "2024-06-05 09:29:21",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "SJ",
+    "time": "2024-06-05 09:29:43",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "LEGOL",
+    "time": "2024-06-05 09:30:49",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "LAPOL",
+    "time": "2024-06-05 09:31:37",
+    "status": "Scheduled"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:40",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17483603,
+  "path": [
+   {
+    "pointName": "TAVIP",
+    "time": "2024-06-05 08:14:00",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "RAFIS",
+    "time": "2024-06-05 08:26:54",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "MASRI",
+    "time": "2024-06-05 08:31:46",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "SURGA",
+    "time": "2024-06-05 08:54:08",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "ATPOM",
+    "time": "2024-06-05 09:06:20",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "INVUB",
+    "time": "2024-06-05 09:07:12",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "JUNHA",
+    "time": "2024-06-05 09:13:59",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "IRTAD",
+    "time": "2024-06-05 09:16:45",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "AVPIV",
+    "time": "2024-06-05 09:19:21",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "SJ",
+    "time": "2024-06-05 09:19:43",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "LEGOL",
+    "time": "2024-06-05 09:20:49",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "LAPOL",
+    "time": "2024-06-05 09:21:37",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:40",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17483603,
+  "path": [
+   {
+    "pointName": "TAVIP",
+    "time": "2024-06-05 08:24:00",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "RAFIS",
+    "time": "2024-06-05 08:36:54",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "MASRI",
+    "time": "2024-06-05 08:41:46",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "SURGA",
+    "time": "2024-06-05 09:04:08",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "ATPOM",
+    "time": "2024-06-05 09:16:20",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "INVUB",
+    "time": "2024-06-05 09:17:12",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "JUNHA",
+    "time": "2024-06-05 09:23:59",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "IRTAD",
+    "time": "2024-06-05 09:26:45",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "AVPIV",
+    "time": "2024-06-05 09:29:21",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "SJ",
+    "time": "2024-06-05 09:29:43",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "LEGOL",
+    "time": "2024-06-05 09:30:49",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "LAPOL",
+    "time": "2024-06-05 09:31:37",
+    "status": "Scheduled"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:40",
+  "mod": "210",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17484142,
+   "state": "ACTIVE",
+   "travelType": "OVERFLIGHT",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "FFM2850",
+   "aircraftReg": "9MMLH",
+   "aircraftType": "B738",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIM3RWYZ",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "5106",
+   "estTimeOfEntry": "2024-06-05 07:58:00",
+   "clearedFlightLevel": 370,
+   "exitFlightLevel": 370,
+   "requestedFlightLevel": 370,
+   "cruisingSpeed": 448,
+   "adep": "WMKP",
+   "ades": "WBKK",
+   "departureTime": "2024-06-05 07:04:00",
+   "scheduledTime": "2024-06-05 08:03:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "GUL",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1O1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "operatorInfo2": "GUL"
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:43",
+  "mod": "04",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17479265,
+   "state": "ACTIVE",
+   "travelType": "INBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "CTV437",
+   "aircraftReg": "PKGLI",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDE2E3FGHIJ2M1VRW",
+   "surveillanceEquip": "EB1",
+   "ssrCode": "1603",
+   "estTimeOfEntry": "2024-06-05 07:26:00",
+   "clearedFlightLevel": 130,
+   "exitFlightLevel": 340,
+   "requestedFlightLevel": 340,
+   "cruisingSpeed": 464,
+   "adep": "WALL",
+   "ades": "WIII",
+   "departureTime": "2024-06-05 06:22:00",
+   "scheduledTime": "2024-06-05 06:22:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "UBN",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1D1L1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "clearedFlightLevel": 130
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:46",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17481008,
+   "state": "PENDING",
+   "travelType": "DOMESTIC",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "SJV681",
+   "aircraftReg": "PKSTP",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SBDFGHIRWY",
+   "surveillanceEquip": "EB1",
+   "ssrCode": "Not Assigned",
+   "estTimeOfEntry": "Unknown",
+   "clearedFlightLevel": null,
+   "exitFlightLevel": 280,
+   "requestedFlightLevel": 280,
+   "cruisingSpeed": 440,
+   "adep": "WIOO",
+   "ades": "WIII",
+   "departureTime": "2024-06-05 08:35:00",
+   "scheduledTime": "2024-06-05 08:35:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "departureTime": "2024-06-05 08:35:00",
+   "scheduledTime": "2024-06-05 08:35:00"
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:46",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17481008,
+  "path": [
+   {
+    "pointName": "PNK",
+    "time": "2024-06-05 08:36:13",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "MASRI",
+    "time": "2024-06-05 09:01:34",
+    "status": "Scheduled"
+   },
+   {
+    "pointName": "AMBOY",
+    "time": "2024-06-05 09:15:38",
+    "status": "Scheduled"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:49",
+  "mod": "04",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17481833,
+   "state": "ACTIVE",
+   "travelType": "INBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "GIA901",
+   "aircraftReg": "PKGII",
+   "aircraftType": "B77W",
+   "wakeTurbulance": "H",
+   "navigationEquip": "SDE1E2E3FGHIJ4J5M1RWXY",
+   "surveillanceEquip": "LB1D1",
+   "ssrCode": "3244",
+   "estTimeOfEntry": "2024-06-05 05:32:00",
+   "clearedFlightLevel": 140,
+   "exitFlightLevel": 220,
+   "requestedFlightLevel": 370,
+   "cruisingSpeed": 488,
+   "adep": "OTHH",
+   "ades": "WIII",
+   "departureTime": "2024-06-04 23:56:00",
+   "scheduledTime": "2024-06-05 05:35:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "assignedSpeed": 250,
+   "assignedHeading": 180,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1D1O1C1S2L1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "clearedFlightLevel": 140
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:49",
+  "mod": "awptwr1",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17484571,
+   "state": "WAITING",
+   "travelType": "DOMESTIC",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "GIA176",
+   "aircraftReg": "PKGNA",
+   "aircraftType": "B738",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDE2E3FGHIRWYZ",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "2564",
+   "estTimeOfEntry": "Unknown",
+   "clearedFlightLevel": 280,
+   "exitFlightLevel": 340,
+   "requestedFlightLevel": 340,
+   "cruisingSpeed": 454,
+   "adep": "WIII",
+   "ades": "WIBB",
+   "departureTime": "2024-06-05 08:15:00",
+   "scheduledTime": "2024-06-05 08:15:00",
+   "operatorInfo": "GOM1B",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1D1L1O1C1S1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "clearedFlightLevel": 280,
+   "exitFlightLevel": 340,
+   "requestedFlightLevel": 340,
+   "operatorInfo": "GOM1B"
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:51",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Path updated",
+  "sfpi": 17484231,
+  "path": [
+   {
+    "pointName": "UXEDA",
+    "time": "2024-06-05 07:56:51",
+    "status": "Flown"
+   },
+   {
+    "pointName": "VERIN",
+    "time": "2024-06-05 08:03:29",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "ISDEB",
+    "time": "2024-06-05 08:05:03",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "UPLAM",
+    "time": "2024-06-05 08:05:54",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "LUSMO",
+    "time": "2024-06-05 08:11:59",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "GUTUP",
+    "time": "2024-06-05 08:25:10",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "AKMON",
+    "time": "2024-06-05 08:55:00",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:51",
+  "mod": "04",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17481833,
+   "state": "ACTIVE",
+   "travelType": "INBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "GIA901",
+   "aircraftReg": "PKGII",
+   "aircraftType": "B77W",
+   "wakeTurbulance": "H",
+   "navigationEquip": "SDE1E2E3FGHIJ4J5M1RWXY",
+   "surveillanceEquip": "LB1D1",
+   "ssrCode": "3244",
+   "estTimeOfEntry": "2024-06-05 05:32:00",
+   "clearedFlightLevel": 140,
+   "exitFlightLevel": 220,
+   "requestedFlightLevel": 370,
+   "cruisingSpeed": 488,
+   "adep": "OTHH",
+   "ades": "WIII",
+   "departureTime": "2024-06-04 23:56:00",
+   "scheduledTime": "2024-06-05 05:35:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "assignedSpeed": 250,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1D1O1C1S2L1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "assignedHeading": null
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:51",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17484231,
+  "path": [
+   {
+    "pointName": "UXEDA",
+    "time": "2024-06-05 07:56:51",
+    "status": "Flown"
+   },
+   {
+    "pointName": "VERIN",
+    "time": "2024-06-05 08:02:20",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "ISDEB",
+    "time": "2024-06-05 08:03:54",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "UPLAM",
+    "time": "2024-06-05 08:04:45",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "LUSMO",
+    "time": "2024-06-05 08:10:50",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "GUTUP",
+    "time": "2024-06-05 08:24:01",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "AKMON",
+    "time": "2024-06-05 08:53:51",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:53",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Path updated",
+  "sfpi": 17484830,
+  "path": [
+   {
+    "pointName": "RUTIB",
+    "time": "2024-06-05 07:06:30",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "AKPEB",
+    "time": "2024-06-05 07:09:05",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "PAGSA",
+    "time": "2024-06-05 07:11:42",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "NIPIP",
+    "time": "2024-06-05 07:13:55",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "IDUMU",
+    "time": "2024-06-05 07:17:49",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "DOLTA",
+    "time": "2024-06-05 07:17:51",
+    "status": "Flown"
+   },
+   {
+    "pointName": "GUSKO",
+    "time": "2024-06-05 07:28:09",
+    "status": "Flown"
+   },
+   {
+    "pointName": "PLB",
+    "time": "2024-06-05 07:36:37",
+    "status": "Flown"
+   },
+   {
+    "pointName": "NIPES",
+    "time": "2024-06-05 07:49:54",
+    "status": "Flown"
+   },
+   {
+    "pointName": "AVLUB",
+    "time": "2024-06-05 07:54:13",
+    "status": "Flown"
+   },
+   {
+    "pointName": "IGUTU",
+    "time": "2024-06-05 07:56:53",
+    "status": "Flown"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:53",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17484830,
+  "path": [
+   {
+    "pointName": "RUTIB",
+    "time": "2024-06-05 07:06:30",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "AKPEB",
+    "time": "2024-06-05 07:09:05",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "PAGSA",
+    "time": "2024-06-05 07:11:42",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "NIPIP",
+    "time": "2024-06-05 07:13:55",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "IDUMU",
+    "time": "2024-06-05 07:17:49",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "DOLTA",
+    "time": "2024-06-05 07:17:51",
+    "status": "Flown"
+   },
+   {
+    "pointName": "GUSKO",
+    "time": "2024-06-05 07:28:09",
+    "status": "Flown"
+   },
+   {
+    "pointName": "PLB",
+    "time": "2024-06-05 07:36:37",
+    "status": "Flown"
+   },
+   {
+    "pointName": "NIPES",
+    "time": "2024-06-05 07:49:54",
+    "status": "Flown"
+   },
+   {
+    "pointName": "AVLUB",
+    "time": "2024-06-05 07:54:13",
+    "status": "Flown"
+   },
+   {
+    "pointName": "IGUTU",
+    "time": "2024-06-05 07:56:53",
+    "status": "Flown"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:56:55",
+  "mod": "04",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17481833,
+   "state": "ACTIVE",
+   "travelType": "INBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "GIA901",
+   "aircraftReg": "PKGII",
+   "aircraftType": "B77W",
+   "wakeTurbulance": "H",
+   "navigationEquip": "SDE1E2E3FGHIJ4J5M1RWXY",
+   "surveillanceEquip": "LB1D1",
+   "ssrCode": "3244",
+   "estTimeOfEntry": "2024-06-05 05:32:00",
+   "clearedFlightLevel": 140,
+   "exitFlightLevel": 220,
+   "requestedFlightLevel": 370,
+   "cruisingSpeed": 488,
+   "adep": "OTHH",
+   "ades": "WIII",
+   "departureTime": "2024-06-04 23:56:00",
+   "scheduledTime": "2024-06-05 05:35:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "assignedSpeed": 250,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1D1O1C1S2L1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {}
+ },
+ {
+  "time": "2024-06-05 07:56:58",
+  "mod": "22",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17484306,
+   "state": "ACTIVE",
+   "travelType": "DOMESTIC",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "GIA162",
+   "aircraftReg": "PKGMF",
+   "aircraftType": "B738",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDE2E3FGHIRWYZ",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "1775",
+   "estTimeOfEntry": "2024-06-05 07:17:04",
+   "clearedFlightLevel": 360,
+   "exitFlightLevel": 360,
+   "requestedFlightLevel": 360,
+   "cruisingSpeed": 445,
+   "adep": "WIII",
+   "ades": "WIEE",
+   "departureTime": "2024-06-05 06:55:00",
+   "scheduledTime": "2024-06-05 06:55:00",
+   "operatorInfo": "R15 T0753V",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "LEB",
+   "assignedSpeed": null,
+   "assignedHeading": 315,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1C1D1L1O1S1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "assignedHeading": 315
+  }
+ },
+ {
+  "time": "2024-06-05 07:56:59",
+  "mod": "209",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17483838,
+   "state": "ACTIVE",
+   "travelType": "OVERFLIGHT",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "CEB805",
+   "aircraftReg": "RPC4116",
+   "aircraftType": "A321",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIRWY",
+   "surveillanceEquip": "HB1",
+   "ssrCode": "6572",
+   "estTimeOfEntry": "2024-06-05 08:04:00",
+   "clearedFlightLevel": 350,
+   "exitFlightLevel": 350,
+   "requestedFlightLevel": 360,
+   "cruisingSpeed": 453,
+   "adep": "RPLL",
+   "ades": "WSSS",
+   "departureTime": "2024-06-05 05:50:00",
+   "scheduledTime": "2024-06-05 08:01:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "15LT",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "operatorInfo2": "15LT"
+  }
+ },
+ {
+  "time": "2024-06-05 07:57:00",
+  "mod": "24",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17484156,
+   "state": "ACTIVE",
+   "travelType": "OUTBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "CPA776",
+   "aircraftReg": "BLAE",
+   "aircraftType": "A333",
+   "wakeTurbulance": "H",
+   "navigationEquip": "SDE3GHIJ3J7M3P2RWXYZ",
+   "surveillanceEquip": "LB1D1",
+   "ssrCode": "2365",
+   "estTimeOfEntry": "2024-06-05 07:43:19",
+   "clearedFlightLevel": 290,
+   "exitFlightLevel": 390,
+   "requestedFlightLevel": 370,
+   "cruisingSpeed": 475,
+   "adep": "WIII",
+   "ades": "VHHH",
+   "departureTime": "2024-06-05 07:20:00",
+   "scheduledTime": "2024-06-05 07:20:00",
+   "operatorInfo": "IF350",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "ADK OKA",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "operatorInfo2": "ADK OKA"
+  }
+ },
+ {
+  "time": "2024-06-05 07:57:00",
+  "mod": "FDPS_SCHED",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17483263,
+   "state": "PENDING",
+   "travelType": "OVERFLIGHT",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "TGW361",
+   "aircraftReg": "9VTRM",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIRWYZ",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "Not Assigned",
+   "estTimeOfEntry": "Unknown",
+   "clearedFlightLevel": null,
+   "exitFlightLevel": 380,
+   "requestedFlightLevel": 360,
+   "cruisingSpeed": 447,
+   "adep": "RPMD",
+   "ades": "WSSS",
+   "departureTime": "2024-06-05 09:35:00",
+   "scheduledTime": "2024-06-05 11:57:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B2C2D2L1O2S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "state": "PENDING"
+  }
+ },
+ {
+  "time": "2024-06-05 07:57:00",
+  "mod": "FDPS_SCHED",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17484158,
+   "state": "REDUNDANT",
+   "travelType": "INBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "BTK6527",
+   "aircraftReg": "PKLUO",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIRW",
+   "surveillanceEquip": "EB1",
+   "ssrCode": "5041",
+   "estTimeOfEntry": "2024-06-05 07:09:00",
+   "clearedFlightLevel": 20,
+   "exitFlightLevel": 220,
+   "requestedFlightLevel": 360,
+   "cruisingSpeed": 466,
+   "adep": "WATO",
+   "ades": "WIII",
+   "departureTime": "2024-06-05 05:46:00",
+   "scheduledTime": "2024-06-05 05:46:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "6",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "2024-06-05 07:51:24",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1C1D1L1O1S2T1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "state": "REDUNDANT"
+  }
+ },
+ {
+  "time": "2024-06-05 07:57:00",
+  "mod": "FDPS_SCHED",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17484910,
+   "state": "PENDING",
+   "travelType": "OVERFLIGHT",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "TGW434",
+   "aircraftReg": "9VTRU",
+   "aircraftType": "A320",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIRWYZ",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "Not Assigned",
+   "estTimeOfEntry": "Unknown",
+   "clearedFlightLevel": null,
+   "exitFlightLevel": 290,
+   "requestedFlightLevel": 290,
+   "cruisingSpeed": 454,
+   "adep": "WSSS",
+   "ades": "WBGG",
+   "departureTime": "2024-06-05 11:55:00",
+   "scheduledTime": "2024-06-05 11:57:00",
+   "operatorInfo": "",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "NOT IDENTIFIED",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B2C2D2L1O2S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "state": "PENDING"
+  }
+ },
+ {
+  "time": "2024-06-05 07:57:00",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Path updated",
+  "sfpi": 17484534,
+  "path": [
+   {
+    "pointName": "RUTIB",
+    "time": "2024-06-05 07:05:33",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "AKPEB",
+    "time": "2024-06-05 07:08:06",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "PAGSA",
+    "time": "2024-06-05 07:10:41",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "NIPIP",
+    "time": "2024-06-05 07:12:53",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "IDUMU",
+    "time": "2024-06-05 07:16:45",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "DOLTA",
+    "time": "2024-06-05 07:16:19",
+    "status": "Flown"
+   },
+   {
+    "pointName": "GUSKO",
+    "time": "2024-06-05 07:27:30",
+    "status": "Flown"
+   },
+   {
+    "pointName": "PLB",
+    "time": "2024-06-05 07:36:37",
+    "status": "Flown"
+   },
+   {
+    "pointName": "PARDI",
+    "time": "2024-06-05 07:54:42",
+    "status": "Flown"
+   },
+   {
+    "pointName": "FIRJ3",
+    "time": "2024-06-05 07:57:00",
+    "status": "Flown"
+   },
+   {
+    "pointName": "REPOV",
+    "time": "2024-06-05 08:01:27",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "UXATI",
+    "time": "2024-06-05 08:03:47",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "REMES",
+    "time": "2024-06-05 08:05:06",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "EMSIB",
+    "time": "2024-06-05 08:07:10",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "OLNUB",
+    "time": "2024-06-05 08:08:46",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "SJ",
+    "time": "2024-06-05 08:09:04",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "LEGOL",
+    "time": "2024-06-05 08:10:10",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "LAPOL",
+    "time": "2024-06-05 08:10:58",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:57:00",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17484534,
+  "path": [
+   {
+    "pointName": "RUTIB",
+    "time": "2024-06-05 07:05:33",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "AKPEB",
+    "time": "2024-06-05 07:08:06",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "PAGSA",
+    "time": "2024-06-05 07:10:41",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "NIPIP",
+    "time": "2024-06-05 07:12:53",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "IDUMU",
+    "time": "2024-06-05 07:16:45",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "DOLTA",
+    "time": "2024-06-05 07:16:19",
+    "status": "Flown"
+   },
+   {
+    "pointName": "GUSKO",
+    "time": "2024-06-05 07:27:30",
+    "status": "Flown"
+   },
+   {
+    "pointName": "PLB",
+    "time": "2024-06-05 07:36:37",
+    "status": "Flown"
+   },
+   {
+    "pointName": "PARDI",
+    "time": "2024-06-05 07:54:42",
+    "status": "Flown"
+   },
+   {
+    "pointName": "FIRJ3",
+    "time": "2024-06-05 07:57:00",
+    "status": "Flown"
+   },
+   {
+    "pointName": "REPOV",
+    "time": "2024-06-05 08:01:21",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "UXATI",
+    "time": "2024-06-05 08:03:41",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "REMES",
+    "time": "2024-06-05 08:05:00",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "EMSIB",
+    "time": "2024-06-05 08:07:04",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "OLNUB",
+    "time": "2024-06-05 08:08:40",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "SJ",
+    "time": "2024-06-05 08:08:58",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "LEGOL",
+    "time": "2024-06-05 08:10:04",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "LAPOL",
+    "time": "2024-06-05 08:10:52",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:57:01",
+  "mod": "05",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17484160,
+   "state": "ACTIVE",
+   "travelType": "OUTBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "OMA850",
+   "aircraftReg": "A4OSE",
+   "aircraftType": "B789",
+   "wakeTurbulance": "H",
+   "navigationEquip": "SDE1E3FGHIJ1J2J3J4J5LM1ORWY",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "2323",
+   "estTimeOfEntry": "2024-06-05 07:56:32",
+   "clearedFlightLevel": 50,
+   "exitFlightLevel": 380,
+   "requestedFlightLevel": 380,
+   "cruisingSpeed": 492,
+   "adep": "WIII",
+   "ades": "OOMS",
+   "departureTime": "2024-06-05 07:50:00",
+   "scheduledTime": "2024-06-05 07:50:00",
+   "operatorInfo": "RIM1B",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S2",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "clearedFlightLevel": 50
+  }
+ },
+ {
+  "time": "2024-06-05 07:57:01",
+  "mod": "FDPS_SUR",
+  "updType": "System Flight Path updated",
+  "sfpi": 17483066,
+  "path": [
+   {
+    "pointName": "SAPDA",
+    "time": "2024-06-05 07:20:00",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "IPKON",
+    "time": "2024-06-05 07:57:01",
+    "status": "Flown"
+   },
+   {
+    "pointName": "IMABA",
+    "time": "2024-06-05 08:07:59",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "HLM",
+    "time": "2024-06-05 08:15:48",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "CKG",
+    "time": "2024-06-05 08:18:36",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "DOLTA",
+    "time": "2024-06-05 08:27:58",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "GUSKO",
+    "time": "2024-06-05 08:38:37",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "PLB",
+    "time": "2024-06-05 08:47:46",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "PARDI",
+    "time": "2024-06-05 09:05:49",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "REPOV",
+    "time": "2024-06-05 09:12:23",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:57:01",
+  "mod": "FDPS_FPL",
+  "updType": "System Flight Path updated",
+  "sfpi": 17483066,
+  "path": [
+   {
+    "pointName": "SAPDA",
+    "time": "2024-06-05 07:20:00",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "IPKON",
+    "time": "2024-06-05 07:57:01",
+    "status": "Flown"
+   },
+   {
+    "pointName": "IMABA",
+    "time": "2024-06-05 08:06:30",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "HLM",
+    "time": "2024-06-05 08:14:19",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "CKG",
+    "time": "2024-06-05 08:17:07",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "DOLTA",
+    "time": "2024-06-05 08:26:29",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "GUSKO",
+    "time": "2024-06-05 08:37:08",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "PLB",
+    "time": "2024-06-05 08:46:17",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "PARDI",
+    "time": "2024-06-05 09:04:20",
+    "status": "Estimated"
+   },
+   {
+    "pointName": "REPOV",
+    "time": "2024-06-05 09:10:54",
+    "status": "Estimated"
+   }
+  ]
+ },
+ {
+  "time": "2024-06-05 07:57:01",
+  "mod": "213",
+  "updType": "System Flight Plan updated",
+  "fieldsData": {
+   "sfpi": 17483952,
+   "state": "ACTIVE",
+   "travelType": "INBOUND",
+   "flightType": "S",
+   "flightRules": "I",
+   "callsign": "AXM405",
+   "aircraftReg": "9MAGA",
+   "aircraftType": "A20N",
+   "wakeTurbulance": "M",
+   "navigationEquip": "SDFGHIRWY",
+   "surveillanceEquip": "LB1",
+   "ssrCode": "2167",
+   "estTimeOfEntry": "2024-06-05 07:41:00",
+   "clearedFlightLevel": 360,
+   "exitFlightLevel": 350,
+   "requestedFlightLevel": 360,
+   "cruisingSpeed": 458,
+   "adep": "WMKK",
+   "ades": "WIEE",
+   "departureTime": "2024-06-05 07:34:00",
+   "scheduledTime": "2024-06-05 07:42:00",
+   "operatorInfo": "T0740F360V",
+   "terminateMode": "NOT_TERMINATED",
+   "xflApprovalState": "APPROVED",
+   "coordinationState": "NON COORDINATED",
+   "revision": "NO",
+   "operatorInfo2": "",
+   "assignedSpeed": null,
+   "assignedHeading": null,
+   "radarIdentification": "MODE 3/A",
+   "actualLandingTime": "Unknown",
+   "numAircrafts": 1,
+   "fuel": "unknown",
+   "specApproach": "",
+   "alternateSsrCode": "Not Assigned",
+   "pbnEquip": "A1B1C1D1L1O1S2T1",
+   "fplFormat": "2012"
+  },
+  "updatedData": {
+   "exitFlightLevel": 350
+  }
+ }
+]

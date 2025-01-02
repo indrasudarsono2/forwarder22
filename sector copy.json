@@ -1,0 +1,189 @@
+[
+  {
+    "UBAC" : [
+      "NISOK", 
+      "NIXUL", 
+      "TOPIN", 
+      "MEMAK", 
+      "ANSAX", 
+      "JILAT", 
+      "AVDIN", 
+      "OPUNG", 
+      "BUDGA", 
+      "IVROR", 
+      "BAC", 
+      "DUAMO"
+      ]
+  },
+  {
+    "UMDN" : [
+      "MDN",
+      "KAGAS",
+      "PUGER",
+      "MERIM",
+      "BINAK",
+      "ODISO",
+      "DOTMA",
+      "NOKEL",
+      "AKPER",
+      "MEDIA",
+      "OMBES",
+      "MOZES"
+    ]
+  },
+  {
+    "UPKU" : [
+      "PKU",
+      "ISROR",
+      "JATAM",
+      "KUALA",
+      "OVSET",
+      "SOVMI",
+      "LEBEG",
+      "PASOL",
+      "PABIO"
+
+    ]
+  },
+  {
+    "UPKP" : [
+      "ANITO", 
+      "KIRDA", 
+      "NE", 
+      "PARDI"
+    ]
+  },
+  {
+    "UPLB" : [
+      "TOLIT",
+      "UDUTO",
+      "ALADO",
+      "LANAG",
+      "TERKA",
+      "ENSAV",
+      "GUSKO",
+      "PLB",
+      "ELDEM"
+    ]
+  },
+  {"UJKT" : [
+      "PKP", 
+      "TODAK", 
+      "TOPUK", 
+      "BORAS"
+    ]
+  },
+  {
+    "UPNK" : [
+      "KIKOR",
+      "LAKUN",
+      "OLVES",
+      "BUKTU",
+      "PNK"
+    ]
+  },
+  {
+    "UTPN" : 
+    [
+      "ALTAR",
+      "MIMIX",
+      "AMBOY",
+      "EGUKO",
+      "AKSOX",
+      "RAFIS"
+    ]
+  },
+  {
+    "USMG" : 
+    [
+      "KALUT",
+      "KIDET"
+    ]
+  },
+  {
+    "UJOG" : [
+      "CA",
+      "CLP",
+      "TATAN"
+    ]
+  },
+  {
+    "UBND" : [
+      "SAPDA",
+      "LEMUS",
+      "TOPAR",
+      "XMX",
+      "GUVIL",
+      "ATMAL"
+    ]
+  },
+  {
+    "UIOS" : [
+      "NIRIS",
+      "OBMAT",
+      "KETIV"
+    ]
+  }
+  // {
+  //   "LN" : [
+  //     "RAMAL",
+  //     "BAMNI",
+  //     "NIPIP",
+  //     "SIPAH",
+  //     "PARBA"
+  //   ]
+  // },
+  // {
+  //   "LC" : [
+  //     "BORPO",
+  //     "AKNER",
+  //     "SURMU",
+  //     "OLDUN",
+  //     "SUBUR",
+  //     "IKEGU",
+  //     "ZULDY"
+  //   ]
+  // },
+  // {
+  //   "LE" : [
+  //     "KURUS",
+  //     "IMU",
+  //     "MUTIA",
+  //     "ASIPA",
+  //     "POMUB"
+  //   ]
+  // },
+  // {
+  //   "TW" : [
+  //     "LUVAX",
+  //     "NIPIP",
+  //     "KIKIB"
+  //   ]
+  // },
+  // {
+  //   "TE" : [
+  //     "SAGAS",
+  //     "SUBUR",
+  //     "CIELA",
+  //     "IKEGU",
+  //     "IDRIN"
+  //   ]
+  // },
+  // {
+  //   "TS" : [
+  //     "ELNIR",
+  //     "ENPOG",
+  //     "NUREN",
+  //     "TATIK",
+  //     "OMDAV"
+  //   ]
+  // },
+  // {
+  //   "AN": [
+  //     "PRIOK",
+  //     "OBGEG",
+  //     "ELKIT",
+  //     "DAKAR"
+  //   ]
+  // }
+]

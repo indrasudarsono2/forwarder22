@@ -1,0 +1,266 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model Sfpis {
+  id                   String       @id @default(uuid())
+  state                String?      @db.VarChar(100)
+  travelType           String?      @db.VarChar(100)
+  flightType           String?      @db.VarChar(100)
+  flightRules          String?      @db.VarChar(100)
+  callsign             String?      @db.VarChar(100)
+  aircraftReg          String?      @db.VarChar(100)
+  aircraftType         String?      @db.VarChar(100)
+  wakeTurbulance       String?      @db.VarChar(100)
+  navigationEquip      String?      @db.VarChar(100)
+  surveillanceEquip    String?      @db.VarChar(100)
+  ssrCode              String?      @db.VarChar(100)
+  estTimeOfEntry       DateTime?    @db.DateTime(0)
+  clearedFlightLevel   Int?
+  exitFlightLevel      Int?
+  requestedFlightLevel Int?
+  cruisingSpeed        Int?
+  adep                 String?      @db.VarChar(100)
+  ades                 String?      @db.VarChar(100)
+  departureTime        DateTime?    @db.DateTime(0)
+  scheduledTime        DateTime?    @db.DateTime(0)
+  operatorInfo         String?      @db.VarChar(100)
+  terminateMode        String?      @db.VarChar(100)
+  xflApprovalState     String?      @db.VarChar(100)
+  coordinationState    String?      @db.VarChar(100)
+  revision             String?      @db.VarChar(100)
+  operatorInfo2        String?      @db.VarChar(100)
+  assignedSpeed        Int?
+  assignedHeading      Int?
+  radarIdentification  String?      @db.VarChar(100)
+  actualLandingTime    DateTime?    @db.DateTime(0)
+  numAircrafts         Int?
+  fuel                 String?      @db.VarChar(100)
+  specApproach         String?      @db.VarChar(100)
+  alternateSsrCode     String?      @db.VarChar(100)
+  pbnEquip             String?      @db.VarChar(100)
+  fplFormat            String?      @db.VarChar(100)
+  dateInit             DateTime?    @db.DateTime(0)
+  dateProcess          DateTime?    @db.DateTime(0)
+  cat                  String?      @db.VarChar(50)
+  pointEntry           String?      @db.VarChar(50)
+  pointExit            String?      @db.VarChar(50)
+  idForPprp            String?      @db.VarChar(50)
+  dof                  DateTime?    @db.Date
+  route                String?      @db.Text
+  predictedRwy         String?      @db.VarChar(20)
+  logPath              LogPaths[]
+  log                  Logs[]
+  path                 Paths[]
+  report               Report[]
+  sectorLog            SectorLogs[]
+  aftn                 aftn[]
+}
+
+model Logs {
+  id      BigInt    @id @default(autoincrement())
+  sfpiId  String
+  time    DateTime? @db.DateTime(0)
+  mod     String?   @db.VarChar(100)
+  updType String?   @db.VarChar(200)
+  data    String?   @db.Text
+  sfpi    Sfpis     @relation(fields: [sfpiId], references: [id], onDelete: Cascade)
+
+  @@index([sfpiId], map: "Logs_sfpiId_fkey")
+}
+
+model LogPaths {
+  id                  BigInt    @id @default(autoincrement())
+  sfpiId              String
+  time                DateTime? @db.DateTime(0)
+  mod                 String?   @db.VarChar(100)
+  updType             String?   @db.VarChar(200)
+  arrivalTime         DateTime? @db.DateTime(0)
+  estTimeOfEntry      DateTime? @db.DateTime(0)
+  coordinatedExitTime DateTime? @db.DateTime(0)
+  previousFir         String?   @db.VarChar(100)
+  nextFir             String?   @db.VarChar(100)
+  numWaypoints        Int?
+  paths               String?   @db.Text
+  sfpi                Sfpis     @relation(fields: [sfpiId], references: [id], onDelete: Cascade)
+
+  @@index([sfpiId], map: "LogPaths_sfpiId_fkey")
+}
+
+model Paths {
+  id        BigInt    @id @default(autoincrement())
+  sfpiId    String
+  logTime   DateTime? @db.DateTime(0)
+  pointName String?   @db.VarChar(100)
+  time      DateTime? @db.DateTime(0)
+  status    String?   @db.VarChar(100)
+  sfpi      Sfpis     @relation(fields: [sfpiId], references: [id], onDelete: Cascade)
+
+  @@index([sfpiId], map: "Paths_sfpiId_fkey")
+}
+
+model Report {
+  id     BigInt    @id @default(autoincrement())
+  sfpiId String
+  sector String?
+  time   DateTime? @db.DateTime(0)
+  sfpi   Sfpis     @relation(fields: [sfpiId], references: [id], onDelete: Cascade)
+
+  @@index([sfpiId], map: "Report_sfpiId_fkey")
+}
+
+model SectorLogs {
+  id             BigInt    @id @default(autoincrement())
+  sfpiId         String
+  time           DateTime? @db.DateTime(0)
+  onCwp          String?   @db.VarChar(50)
+  initialState   String    @db.VarChar(100)
+  currentSector  String?   @db.VarChar(50)
+  newSector      String?   @db.VarChar(50)
+  cwpIndentifier String?   @db.VarChar(50)
+  handoverState  String?   @db.VarChar(50)
+  passedSector   String?   @db.VarChar(50)
+  isEntry        Boolean   @default(false)
+  sfpi           Sfpis     @relation(fields: [sfpiId], references: [id], onDelete: Cascade)
+
+  @@index([sfpiId], map: "SectorLogs_sfpiId_fkey")
+}
+
+model flightPermit {
+  id               BigInt    @id @default(autoincrement())
+  callSign         String?
+  acftType         String?
+  adep             String?
+  ades             String?
+  etd              DateTime? @db.DateTime(0)
+  eta              DateTime? @db.DateTime(0)
+  dayOps           String?
+  permissionNumber String?
+  validPeriod      String?
+  operator         String?
+  type             String?
+}
+
+model referred {
+  id                   String    @id @default(uuid())
+  state                String?   @db.VarChar(100)
+  travelType           String?   @db.VarChar(100)
+  flightType           String?   @db.VarChar(100)
+  flightRules          String?   @db.VarChar(100)
+  callsign             String?   @db.VarChar(100)
+  aircraftReg          String?   @db.VarChar(100)
+  aircraftType         String?   @db.VarChar(100)
+  wakeTurbulance       String?   @db.VarChar(100)
+  navigationEquip      String?   @db.VarChar(100)
+  surveillanceEquip    String?   @db.VarChar(100)
+  ssrCode              String?   @db.VarChar(100)
+  estTimeOfEntry       DateTime? @db.DateTime(0)
+  clearedFlightLevel   Int?
+  exitFlightLevel      Int?
+  requestedFlightLevel Int?
+  cruisingSpeed        Int?
+  adep                 String?   @db.VarChar(100)
+  ades                 String?   @db.VarChar(100)
+  departureTime        DateTime? @db.DateTime(0)
+  scheduledTime        DateTime? @db.DateTime(0)
+  operatorInfo         String?   @db.VarChar(100)
+  terminateMode        String?   @db.VarChar(100)
+  xflApprovalState     String?   @db.VarChar(100)
+  coordinationState    String?   @db.VarChar(100)
+  revision             String?   @db.VarChar(100)
+  operatorInfo2        String?   @db.VarChar(100)
+  assignedSpeed        Int?
+  assignedHeading      Int?
+  radarIdentification  String?   @db.VarChar(100)
+  actualLandingTime    DateTime? @db.DateTime(0)
+  numAircrafts         Int?
+  fuel                 String?   @db.VarChar(100)
+  specApproach         String?   @db.VarChar(100)
+  alternateSsrCode     String?   @db.VarChar(100)
+  pbnEquip             String?   @db.VarChar(100)
+  fplFormat            String?   @db.VarChar(100)
+  fpl                  String?   @db.Text
+}
+
+model aftnmessage {
+  no                  Int      @id @default(autoincrement())
+  tanggal             DateTime @db.Date
+  priority_indicators String   @db.Text
+  origin              String   @db.Text
+  address             String   @db.Text
+  time_sent           String   @db.Text
+  msg                 String   @db.Text
+}
+
+model pprp {
+  no                   Int       @id @default(autoincrement())
+  DateProcess          DateTime? @db.Date
+  DateInit             String?   @db.VarChar(10)
+  Callsign             String?   @db.VarChar(7)
+  DOF                  DateTime? @db.Date
+  AircraftReg          String?   @db.VarChar(10)
+  AircraftType         String?   @db.VarChar(3)
+  Adep                 String?   @db.VarChar(4)
+  Ades                 String?   @db.VarChar(4)
+  PointEntry           String?   @db.VarChar(10)
+  PointExit            String?   @db.VarChar(10)
+  Cat                  String?   @db.VarChar(10)
+  TravelType           String?   @db.VarChar(10)
+  FlightType           String?   @db.VarChar(10)
+  FlightRules          String?   @db.VarChar(10)
+  WakeTurbulance       String?   @db.VarChar(10)
+  NavigationEquip      String?   @db.VarChar(10)
+  SurveillanceEquip    String?   @db.VarChar(10)
+  SsrCode              String?   @db.VarChar(10)
+  EstTimeOfEntry       String?   @db.VarChar(10)
+  ClearedFlightLevel   String?   @db.VarChar(10)
+  ExitFlightLevel      String?   @db.VarChar(10)
+  RequestedFlightLevel String?   @db.VarChar(10)
+  CruisingSpeed        String?   @db.VarChar(10)
+  DepartureTime        String?   @db.VarChar(10)
+  ScheduledTime        String?   @db.VarChar(5)
+  OperatorInfo         String?   @db.VarChar(10)
+  TerminateMode        String?   @db.VarChar(10)
+  XflApprovalState     String?   @db.VarChar(10)
+  CoordinationState    String?   @db.VarChar(10)
+  Revision             String?   @db.VarChar(10)
+  OperatorInfo2        String?   @db.VarChar(10)
+  AssignedSpeed        String?   @db.VarChar(10)
+  AssignedHeading      String?   @db.VarChar(10)
+  RadarIdentification  String?   @db.VarChar(10)
+  ActualLandingTime    String?   @db.VarChar(10)
+  NumAircrafts         String?   @db.VarChar(10)
+  Fuel                 String?   @db.VarChar(10)
+  SpecApproach         String?   @db.VarChar(10)
+  AlternateSsrCode     String?   @db.VarChar(10)
+  PbnEquip             String?   @db.VarChar(10)
+  FplFormat            String?   @db.VarChar(10)
+  AIR_CODE             String?   @map("AIR CODE") @db.VarChar(3)
+  ETA                  String?   @db.VarChar(5)
+  ID_CALLSIGN          String    @db.VarChar(50)
+}
+
+model aftn {
+  id          BigInt    @id @default(autoincrement())
+  sfpiId      String?
+  timeInputed DateTime? @db.DateTime(0)
+  callsign    String?   @db.VarChar(20)
+  areg        String?   @db.VarChar(20)
+  adep        String?   @db.VarChar(20)
+  ades        String?   @db.VarChar(20)
+  dof         DateTime? @db.Date
+  msgType     String?   @db.VarChar(20)
+  origin      String?   @db.VarChar(20)
+  message     String?   @db.Text
+  eobt        String?   @db.VarChar(20)
+  isVerified  Boolean   @default(false)
+  isJatsc     Boolean   @default(false)
+  Sfpis       Sfpis?    @relation(fields: [sfpiId], references: [id], onDelete: Cascade, map: "sfpiId")
+
+  @@index([sfpiId], map: "aftn_sfpiId_fkey")
+}

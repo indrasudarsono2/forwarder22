@@ -1,0 +1,281 @@
+[
+  {
+    "ACC": [
+      {
+        "UBAC": [
+          "NISOK",
+          "NIXUL",
+          "TOPIN",
+          "MEMAK",
+          "ANSAX",
+          "JILAT",
+          "AVDIN",
+          "OPUNG",
+          "BUDGA",
+          "IVROR",
+          "BAC",
+          "DUAMO"
+        ]
+      },
+      {
+        "UMDN": [
+          "MDN",
+          "KAGAS",
+          "PUGER",
+          "MERIM",
+          "BINAK",
+          "ODISO",
+          "DOTMA",
+          "NOKEL",
+          "AKPER",
+          "MEDIA",
+          "OMBES",
+          "MOZES"
+        ]
+      },
+      {
+        "UPKU": [
+          "PKU",
+          "ISROR",
+          "JATAM",
+          "KUALA",
+          "OVSET",
+          "SOVMI",
+          "LEBEG",
+          "PASOL",
+          "PABIO"
+        ]
+      },
+      {
+        "UPKP": [
+          "ANITO",
+          "KIRDA",
+          "NE",
+          "AVLUB",
+          "ENPUX",
+          "PARDI",
+          "SUKRI",
+          "OLNUB",
+          "ANBUS",
+          "ATLIR",
+          "VEPGA",
+          "AVPIV",
+          "ENVUM",
+          "UNSID",
+          "DOWON"
+
+        ]
+      },
+      {
+        "UPLB": [
+          "TOLIT",
+          "UDUTO",
+          "ALADO",
+          "LANAG",
+          "TERKA",
+          "ENSAV",
+          "GUSKO",
+          "PLB",
+          "ELDEM"
+        ]
+      },
+      {
+        "UJKT": [
+          "PKP",
+          "TODAK",
+          "TOPUK",
+          "BORAS"
+        ]
+      },
+      {
+        "UPNK": [
+          "KIKOR",
+          "LAKUN",
+          "OLVES",
+          "BUKTU",
+          "PNK",
+          "TANUR",
+          "SUGIK",
+          "EMPIN",
+          "OSRUT",
+          "OKADA",
+          "ANIPU",
+          "PAPSA"
+        ]
+      },
+      {
+        "UTPN": [
+          "ALTAR",
+          "MIMIX",
+          "AMBOY",
+          "EGUKO",
+          "AKSOX",
+          "RAFIS",
+          "TAVIP",
+          "SPIKO"
+        ]
+      },
+      {
+        "USMG": [
+          "KALUT",
+          "KIDET"
+        ]
+      },
+      {
+        "UJOG": [
+          "CA",
+          "CLP",
+          "TATAN"
+        ]
+      },
+      {
+        "UBND": [
+          "SAPDA",
+          "LEMUS",
+          "TOPAR",
+          "XMX",
+          "GUVIL",
+          "ATMAL",
+          "LAMOB"
+        ]
+      },
+      {
+        "UIOS": [
+          "NIRIS",
+          "OBMAT",
+          "KETIV",
+          "POSOD",
+          "AKUKO"
+        ]
+      },
+      {
+        "UNTA": [
+          "UKLIS",
+          "GULGU",
+          "RILRI",
+          "GUTUP",
+          "LIGVU",
+          "UPVUN",
+          "ELGOR",
+          "AKDAT",
+          "VEGLO"
+        ]
+      },
+      {
+        "UTPG": [
+          "BOBVA",
+          "EMSUX",
+          "TOMAN",
+          "TPG",
+          "JUNHA",
+          "NIMIX",
+          "ATETI",
+          "AGOBA",
+          "KAMIN",
+          "OBDOS",
+          "BOPVA"
+        ]
+      }
+    ]
+  },
+  {
+    "APP": [
+      {
+        "LN": [
+          "BUNIK",
+          "BIDOV",
+          "NIPIP",
+          "KIKIB",
+          "PARBA"
+        ]
+      },
+      {
+        "LC": [
+          "OLDUN",
+          "DENDY",
+          "PAPMU",
+          "PADNU",
+          "RUMTO",
+          "ANDIS",
+          "CIELA",
+          "AZIZA",
+          "IDRIN"
+        ]
+      },
+      {
+        "LE": [
+          "KURUS",
+          "IMU",
+          "MUTIA",
+          "IDNAP",
+          "DIYAN",
+          "PW",
+          "NUREN",
+          "PEBSU",
+          "ENPOG",
+          "OKEVA"
+        ]
+      },
+      {
+        "TW": [
+          "LUVAX",
+          "RUTIB",
+          "BIMUL",
+          "PATKU",
+          "ISLIN"
+        ]
+      },
+      {
+        "TE": [
+          "SAGAS",
+          "RATIH",
+          "CIELA",
+          "AZIZA",
+          "ESTIA"
+        ]
+      },
+      {
+        "TS": [
+          "DIYAN",
+          "IDNAP",
+          "MUTIA",
+          "PEBSU",
+          "ENPOG",
+          "NUREN",
+          "NUMLI",
+          "EPDIP",
+          "NIROG",
+          "ELNIR",
+          "HLM",
+          "ONIKA"
+        ]
+      },
+      {
+        "AN": [
+          "PRIOK",
+          "OBGEG",
+          "ELKIT",
+          "DAKAR"
+        ]
+      }
+    ]
+  },
+  {
+    "FIC": [
+      "PNK",
+      "ALTAR",
+      "SPIKO",
+      "KTG",
+      "NE"
+    ]
+  },
+  {
+    "GP": [
+      "BARUS",
+      "ERANG",
+      "NUKAN",
+      "TAPRI",
+      "PW"
+    ]
+  }
+]

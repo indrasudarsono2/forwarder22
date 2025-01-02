@@ -1,0 +1,63 @@
+{
+   "time":"2023-05-02 06:55:35",
+   "mod":"FDPS_SUR",
+   "updType":"System Flight Path updated",
+   "sfpi":15640438,
+   "path":[
+      {
+         "pointName":"CLP",
+         "time":"2023-05-02 05:41:12",
+         "status":"Flown"
+      },
+      {
+         "pointName":"PW",
+         "time":"2023-05-02 05:55:58",
+         "status":"Flown"
+      },
+      {
+         "pointName":"BND",
+         "time":"2023-05-02 05:54:29",
+         "status":"Flown"
+      },
+      {
+         "pointName":"CKG",
+         "time":"2023-05-02 06:04:11",
+         "status":"Flown"
+      },
+      {
+         "pointName":"PATKU",
+         "time":"2023-05-02 06:05:44",
+         "status":"Flown"
+      },
+      {
+         "pointName":"GOMEL",
+         "time":"2023-05-02 06:13:11",
+         "status":"Flown"
+      },
+      {
+         "pointName":"ENSAV",
+         "time":"2023-05-02 06:23:35",
+         "status":"Flown"
+      },
+      {
+         "pointName":"TORUR",
+         "time":"2023-05-02 06:43:10",
+         "status":"Flown"
+      },
+      {
+         "pointName":"OVSET",
+         "time":"2023-05-02 06:51:33",
+         "status":"Flown"
+      },
+      {
+         "pointName":"AKPER",
+         "time":"2023-05-02 07:28:05",
+         "status":"Flown"
+      },
+      {
+         "pointName":"DES",
+         "time":"2023-05-02 07:43:55",
+         "status":"Flown"
+      }
+   ]
+}

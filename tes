@@ -1,0 +1,5 @@
+ for (let c = 0 ; c < log.length ; c++){
+    if(!sfpiId.includes(log[i].sfpiId)){
+      sfpiId.push(log[i].sfpiId);
+    }
+  }

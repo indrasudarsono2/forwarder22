@@ -1,0 +1,206 @@
+// if(j == fileJson.length){
+        //   file = [];
+        //   fs.unlinkSync('writeFile.txt')
+        //   break;
+        // }
+
+        // if(!fileJson[j].path){
+        //   if(fileJson[j].fieldsData.estTimeOfEntry == 'Unknown'){
+        //     fileJson[j].fieldsData.estTimeOfEntry = '1970-01-01 00:00:00'
+        //   }
+        //   if(fileJson[j].fieldsData.departureTime == 'Unknown'){
+        //     fileJson[j].fieldsData.departureTime = '1970-01-01 00:00:00'
+        //   }
+        //   if(fileJson[j].fieldsData.scheduledTime == 'Unknown'){
+        //     fileJson[j].fieldsData.scheduledTime = '1970-01-01 00:00:00'
+        //   }
+        //   if(fileJson[j].fieldsData.actualLandingTime == 'Unknown'){
+        //     fileJson[j].fieldsData.actualLandingTime = '1970-01-01 00:00:00'
+        //   }
+
+        //   const check = await prisma.sfpis.findFirst({
+        //     where: {
+        //       id: fileJson[j].fieldsData.sfpi
+        //     }
+        //   })
+      
+        //   if(!check){
+        //     await prisma.sfpis.create({
+        //       data:{
+        //         id: fileJson[j].fieldsData.sfpi,
+        //         state: fileJson[j].fieldsData.state,
+        //         travelType: fileJson[j].fieldsData.travelType,
+        //         flightType: fileJson[j].fieldsData.flightType,
+        //         flightRules: fileJson[j].fieldsData.flightRules,
+        //         callsign: fileJson[j].fieldsData.callsign,
+        //         aircraftReg: fileJson[j].fieldsData.aircraftReg,
+        //         aircraftType: fileJson[j].fieldsData.aircraftType,
+        //         wakeTurbulance: fileJson[j].fieldsData.wakeTurbulance,
+        //         navigationEquip: fileJson[j].fieldsData.navigationEquip,
+        //         surveillanceEquip: fileJson[j].fieldsData.surveillanceEquip,
+        //         ssrCode: fileJson[j].fieldsData.ssrCode,
+        //         estTimeOfEntry: new Date(fileJson[j].fieldsData.estTimeOfEntry),
+        //         clearedFlightLevel: fileJson[j].fieldsData.clearedFlightLevel,
+        //         exitFlightLevel: fileJson[j].fieldsData.exitFlightLevel,
+        //         requestedFlightLevel: fileJson[j].fieldsData.requestedFlightLevel,
+        //         cruisingSpeed: fileJson[j].fieldsData.cruisingSpeed,
+        //         adep: fileJson[j].fieldsData.adep,
+        //         ades: fileJson[j].fieldsData.ades,
+        //         departureTime: new Date(fileJson[j].fieldsData.departureTime),
+        //         scheduledTime: new Date(fileJson[j].fieldsData.scheduledTime),
+        //         operatorInfo: fileJson[j].fieldsData.operatorInfo,
+        //         terminateMode: fileJson[j].fieldsData.terminateMode,
+        //         xflApprovalState: fileJson[j].fieldsData.xflApprovalState,
+        //         coordinationState: fileJson[j].fieldsData. coordinationState,
+        //         revision: fileJson[j].fieldsData.revision,
+        //         operatorInfo2: fileJson[j].fieldsData.operatorInfo2,
+        //         assignedSpeed: fileJson[j].fieldsData.assignedSpeed,
+        //         assignedHeading: fileJson[j].fieldsData.assignedHeading,
+        //         radarIdentification: fileJson[j].fieldsData.radarIdentification,
+        //         actualLandingTime: new Date(fileJson[j].fieldsData.actualLandingTime),
+        //         numAircrafts : fileJson[j].fieldsData.numAircrafts,
+        //         fuel: fileJson[j].fieldsData.fuel,
+        //         specApproach: fileJson[j].fieldsData.specApproach,
+        //         alternateSsrCode: fileJson[j].fieldsData.alternateSsrCode,
+        //         pbnEquip: fileJson[j].fieldsData.pbnEquip,
+        //         fplFormat: fileJson[j].fieldsData.fplFormat,
+        //         log: {
+        //           create: {
+        //             time: new Date(fileJson[j].time),
+        //             mod: fileJson[j].mod,
+        //             updType: fileJson[j].updType,
+        //             data: JSON.stringify(fileJson[j].updatedData)
+        //           }
+        //         }
+        //       }
+        //     })
+        //   }else{
+        //     await prisma.sfpis.update({
+        //       where: {
+        //         id: fileJson[j].fieldsData.sfpi, 
+        //       },
+        //       data:{
+        //         state: fileJson[j].fieldsData.state,
+        //         travelType: fileJson[j].fieldsData.travelType,
+        //         flightType: fileJson[j].fieldsData.flightType,
+        //         flightRules: fileJson[j].fieldsData.flightRules,
+        //         callsign: fileJson[j].fieldsData.callsign,
+        //         aircraftReg: fileJson[j].fieldsData.aircraftReg,
+        //         aircraftType: fileJson[j].fieldsData.aircraftType,
+        //         wakeTurbulance: fileJson[j].fieldsData.wakeTurbulance,
+        //         navigationEquip: fileJson[j].fieldsData.navigationEquip,
+        //         surveillanceEquip: fileJson[j].fieldsData.surveillanceEquip,
+        //         ssrCode: fileJson[j].fieldsData.ssrCode,
+        //         estTimeOfEntry: new Date(fileJson[j].fieldsData.estTimeOfEntry),
+        //         clearedFlightLevel: fileJson[j].fieldsData.clearedFlightLevel,
+        //         exitFlightLevel: fileJson[j].fieldsData.exitFlightLevel,
+        //         requestedFlightLevel: fileJson[j].fieldsData.requestedFlightLevel,
+        //         cruisingSpeed: fileJson[j].fieldsData.cruisingSpeed,
+        //         adep: fileJson[j].fieldsData.adep,
+        //         ades: fileJson[j].fieldsData.ades,
+        //         departureTime: new Date(fileJson[j].fieldsData.departureTime),
+        //         scheduledTime: new Date(fileJson[j].fieldsData.scheduledTime),
+        //         operatorInfo: fileJson[j].fieldsData.operatorInfo,
+        //         terminateMode: fileJson[j].fieldsData.terminateMode,
+        //         xflApprovalState: fileJson[j].fieldsData.xflApprovalState,
+        //         coordinationState: fileJson[j].fieldsData. coordinationState,
+        //         revision: fileJson[j].fieldsData.revision,
+        //         operatorInfo2: fileJson[j].fieldsData.operatorInfo2,
+        //         assignedSpeed: fileJson[j].fieldsData.assignedSpeed,
+        //         assignedHeading: fileJson[j].fieldsData.assignedHeading,
+        //         radarIdentification: fileJson[j].fieldsData.radarIdentification,
+        //         actualLandingTime: new Date(fileJson[j].fieldsData.actualLandingTime),
+        //         numAircrafts : fileJson[j].fieldsData.numAircrafts,
+        //         fuel: fileJson[j].fieldsData.fuel,
+        //         specApproach: fileJson[j].fieldsData.specApproach,
+        //         alternateSsrCode: fileJson[j].fieldsData.alternateSsrCode,
+        //         pbnEquip: fileJson[j].fieldsData.pbnEquip,
+        //         fplFormat: fileJson[j].fieldsData.fplFormat,
+        //         log: {
+        //           create: {
+        //             time: new Date(fileJson[j].time),
+        //             mod: fileJson[j].mod,
+        //             updType: fileJson[j].updType,
+        //             data: JSON.stringify(fileJson[j].updatedData)
+        //           }
+        //         }
+        //       }
+        //     })
+        //   }
+        // }else{
+        //   const checkSfpi = await prisma.sfpis.findFirst({
+        //     where: {
+        //       id: fileJson[j].sfpi
+        //     }
+        //   })
+
+        //   if(checkSfpi){
+        //     await prisma.sfpis.update({
+        //       where: {
+        //         id: fileJson[j].sfpi, 
+        //       },
+        //       data:{
+        //         log: {
+        //           create: {
+        //             time: new Date(fileJson[j].time),
+        //             mod: fileJson[j].mod,
+        //             updType: fileJson[j].updType,
+        //             data: JSON.stringify(fileJson[j].path)
+        //           }
+        //         }
+        //       }
+        //     })
+        
+        //     const checkPath = await prisma.paths.findMany({
+        //       where: {
+        //         sfpiId: fileJson[j].sfpi
+        //       }
+        //     })
+        //     // console.log(checkPath[0].id)
+        //     if(checkPath == ''){
+        //       // console.log('null');
+        //       for(var i = 0; i < fileJson[j].path.length ; i++){
+        //         await prisma.sfpis.update({
+        //           where: {
+        //             id: fileJson[j].sfpi, 
+        //           },
+        //           data: {
+        //             path: {
+        //               create: {
+        //                 logTime: new Date(fileJson[j].time),
+        //                 pointName: fileJson[j].path[i].pointName,
+        //                 time: new Date(fileJson[j].path[i].time),
+        //                 status: fileJson[j].path[i].status,
+        //               }
+        //             }
+        //           }
+        //         })
+        //       }
+        //     }else{
+        //       // console.log('notnull');
+        //       await prisma.paths.deleteMany({
+        //         where: {
+        //           sfpiId: fileJson[j].sfpi
+        //         }
+        //       })
+        
+        //       for(var i = 0; i < fileJson[j].path.length ; i++){
+        //         await prisma.sfpis.update({
+        //           where: {
+        //             id: fileJson[j].sfpi, 
+        //           },
+        //           data: {
+        //             path: {
+        //               create: {
+        //                 logTime: new Date(fileJson[j].time),
+        //                 pointName: fileJson[j].path[i].pointName,
+        //                 time: new Date(fileJson[j].path[i].time),
+        //                 status: fileJson[j].path[i].status,
+        //               }
+        //             }
+        //           }
+        //         })
+        //       }
+        //     }
+        //   }
+        // }

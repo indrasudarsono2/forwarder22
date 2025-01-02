@@ -1,0 +1,105 @@
+[
+  'DOL2D',
+  'AMB2D',
+  ,
+  
+  'CA2D',
+  'GOM1F',
+  'EGU2D',
+  'EGU2C',
+  'IGB1F',
+  'ABS2D',
+  
+  
+  'PW2D',
+  'RIM1F',
+  'C2D',
+  
+  'D2D',
+  
+  'RH WX',
+  'REQ TR WX',
+  'NIPIP WX',
+  'H030 WX',
+  'T3 CA2C',
+  ,
+  'GUD1F',
+  ,
+  'T9 EGU2C',
+  ,
+  ,
+  ,
+  'EG2D',
+  ,
+  ,
+  'D0840-0850',
+  'CA2DTHAI434',
+  'ABA2D',
+  'FPL:UNKNOWN FLIGHT ROUTE',
+  'REND1F',
+  ,
+  ,
+  ,
+  'CC',
+  'F310 ',
+  
+  ,
+  ,
+  'DC',
+  ,
+  
+]
+CTV710-WARR -- 25Rv
+CTV972-WIKK -- 25R
+CTV438-WALL -- 25Rv
+CTV682-WADD -- 25Rv
+CTV750-WARA -- 25Rv
+CTV994-WILL -- 25R
+CTV490-WAOO -- 25R
+CTV962-WIEE -- 25LV
+CTV688-WADD -- 25LV
+CTV300-WAMM -- 25LV
+CTV324-WAFF -- 25LV
+CTV340-WAAA -- 25L&
+
+SELECT * FROM `Sfpis` WHERE `estTimeOfEntry` BETWEEN '2024-12-09 00:00:00.000000' AND '2024-12-10 09:15:39.000000' AND (adep="WIII" OR ades="WIII") and predictedRwy is null ORDER BY `estTimeOfEntry` ASC
+
+
+// const logCombine = await prisma.logs.findMany({
+  //   where: {
+  //     time: {
+  //       gte: start,
+  //       lt: stop
+  //     },
+  //     mod: {
+  //       in: combine,
+  //     },
+  //     data: {
+  //       contains: "operatorInfo"
+  //     },
+  //     sfpiId: "18606539"
+  //   },
+  //   select: {
+  //     sfpiId:true,
+  //     data: true,
+  //     mod: true,
+  //     sfpi: {
+  //       select: {
+  //         callsign: true,
+  //         adep: true,
+  //         ades: true
+  //       }
+  //     }
+  //   },
+  //   orderBy: {
+  //     time: "asc"
+  //   }
+  // });
+  // // const find = logCombine.find(data => data.sfpiId === "18606553");
+  // console.log(logCombine);
+  // const log = logCombine.filter(data => app.includes(data.mod));
+  // const logTwr = logCombine.filter(data => twr.includes(data.mod));
+  // await arrival(log, insertDatabase);
+  // await departure(logTwr, insertDatabase);
+
+  18606733

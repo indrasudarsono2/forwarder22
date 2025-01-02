@@ -1,0 +1,50 @@
+{
+  "sid": {
+    "07L": [],
+    "07R": [],
+    "06": [],
+    "25l": [
+      "EGU2C",
+      "CA2C",
+      "D2C",
+      "C2C",
+      "ABS2C",
+      "EG2C",
+      "DOL2C",
+      "ABA2C",
+      "AMBY2C",
+      "EGK2C",
+      "D2C",
+      "E2C",
+      "AMB2C",
+      "EGUKO2C",
+      "IGB1E",
+      "GOM1E",
+      "GUD1E",
+      "RIM1E",
+      "GO1E",
+      "IG1E",
+      "R1E",
+      "IMA1E"
+    ],
+    "25R": [
+      "DOL2D",
+      "AMB2D",
+      "CA2D",
+      "EGU2D",
+      "ABS2D",
+      "PW2D",
+      "C2D",
+      "D2D",
+      "EG2D",
+      "ABA2D",
+      "EGUKO2D",
+      "GOM1F",
+      "IGB1F",
+      "RIM1F",
+      "GUD1F",
+      "REND1F"
+    ],
+    "24": []
+  }
+}

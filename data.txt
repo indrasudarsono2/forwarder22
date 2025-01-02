@@ -1,0 +1,4971 @@
+2024-06-15 12:05:04 FDPS_SUR: System Flight Path updated:
+   SFPI                   = 17541913
+   ARRIVAL TIME           = 2024-06-15 12:48:59
+   ESTIMATED TIME OF ENTRY= 2024-06-15 11:38:00 --> Calculate Estimates
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WBFC
+   NEXT FIR               = 
+   NUM WAYPOINTS          = 11
+                            OKADA (2024-06-15 11:37:01) ATO
+                            ADKON (2024-06-15 11:53:52) ATO
+                            BUKTU (2024-06-15 12:01:43) ATO
+                            TRIBO (2024-06-15 12:05:20) ETO --> (2024-06-15 12:05:04) ATO
+                            RAFIS (2024-06-15 12:16:45) ETO
+                            AMBOY (2024-06-15 12:28:18) ETO
+                            DENDY (2024-06-15 12:37:07) ETO
+                            BORPO (2024-06-15 12:40:13) ETO
+                            LUVAX (2024-06-15 12:42:39) ETO
+                            BIBMI (2024-06-15 12:44:27) ETO
+                            PRIOK (2024-06-15 12:46:13) ETO
+
+2024-06-15 12:05:04 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17541913
+   ARRIVAL TIME           = 2024-06-15 12:48:59 --> 2024-06-15 12:48:43
+   ESTIMATED TIME OF ENTRY= Calculate Estimates --> 2024-06-15 11:38:00
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WBFC
+   NEXT FIR               = 
+   NUM WAYPOINTS          = 11
+                            OKADA (2024-06-15 11:37:01) ATO
+                            ADKON (2024-06-15 11:53:52) ATO
+                            BUKTU (2024-06-15 12:01:43) ATO
+                            TRIBO (2024-06-15 12:05:04) ATO
+                            RAFIS (2024-06-15 12:16:45) ETO --> (2024-06-15 12:16:29) ETO
+                            AMBOY (2024-06-15 12:28:18) ETO --> (2024-06-15 12:28:02) ETO
+                            DENDY (2024-06-15 12:37:07) ETO --> (2024-06-15 12:36:51) ETO
+                            BORPO (2024-06-15 12:40:13) ETO --> (2024-06-15 12:39:57) ETO
+                            LUVAX (2024-06-15 12:42:39) ETO --> (2024-06-15 12:42:23) ETO
+                            BIBMI (2024-06-15 12:44:27) ETO --> (2024-06-15 12:44:11) ETO
+                            PRIOK (2024-06-15 12:46:13) ETO --> (2024-06-15 12:45:57) ETO
+
+2024-06-15 12:05:05 05: System Flight Plan updated:
+   SFPI                   = 17544010
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = DOMESTIC
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = SJV859
+   AIRCRAFT REG           = PKSGB
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SBDFGHIRWY
+   SURVEILLANCE EQUIP     = EB1
+   SSR CODE               = 0116
+   EST. TIME OF ENTRY     = 2024-06-15 11:24:00
+   CLEARED FLIGHT LEVEL   = 110 --> 70
+   EXIT FLIGHT LEVEL      = 350
+   REQUESTED FLIGHT LEVEL = 310
+   CRUISING SPEED         = 428
+   ADEP                   = WIDD
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 10:45:00
+   SCHEDULED TIME         = 2024-06-15 11:00:00
+   OPERATOR INFO          = <B6275
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = 
+   ASSIGNED SPEED         = 250
+   ASSIGNED HEADING       = 135
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:06 18: System Flight Plan updated:
+   SFPI                   = 17543608
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = OUTBOUND
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = BTK7157
+   AIRCRAFT REG           = PKLZT
+   AIRCRAFT TYPE          = B738
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIRW
+   SURVEILLANCE EQUIP     = EB1
+   SSR CODE               = 7140
+   EST. TIME OF ENTRY     = 2024-06-15 11:40:26
+   CLEARED FLIGHT LEVEL   = 340
+   EXIT FLIGHT LEVEL      = 340
+   REQUESTED FLIGHT LEVEL = 340
+   CRUISING SPEED         = 455
+   ADEP                   = WIII
+   ADES                   = WSSS
+   DEPARTURE TIME         = 2024-06-15 11:25:00
+   SCHEDULED TIME         = 2024-06-15 11:25:00
+   OPERATOR INFO          = DOL2D
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = D PAR1233 --> D PAR1233V
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1L1C1D1O1S2T1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:07 FDPS_SUR: System Flight Plan updated:
+   SFPI                   = 17543468
+   STATE                  = ACTIVE --> REDUNDANT
+   TRAVEL TYPE            = OVERFLIGHT
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = AXM5751
+   AIRCRAFT REG           = 9MAGM
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIRWY
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 2142
+   EST. TIME OF ENTRY     = 2024-06-15 11:32:00
+   CLEARED FLIGHT LEVEL   = 330
+   EXIT FLIGHT LEVEL      = 330
+   REQUESTED FLIGHT LEVEL = 330
+   CRUISING SPEED         = 440
+   ADEP                   = WMKK
+   ADES                   = WBKW
+   DEPARTURE TIME         = 2024-06-15 10:47:00
+   SCHEDULED TIME         = 2024-06-15 11:30:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = 20RV 
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S2T1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:09 FDPS_SUR: System Flight Plan updated:
+   SFPI                   = 17543624
+   STATE                  = WAITING
+   TRAVEL TYPE            = OVERFLIGHT
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = XAX218
+   AIRCRAFT REG           = 9MXXJ
+   AIRCRAFT TYPE          = A333
+   WAKE TURBULANCE        = H
+   NAVIGATION EQUIP       = SDFGHIJ3J5M1P2RWYZ
+   SURVEILLANCE EQUIP     = LB1D1
+   SSR CODE               = 2137
+   EST. TIME OF ENTRY     = Unknown
+   CLEARED FLIGHT LEVEL   = Not Assigned
+   EXIT FLIGHT LEVEL      = 390
+   REQUESTED FLIGHT LEVEL = 370
+   CRUISING SPEED         = 476
+   ADEP                   = WMKK
+   ADES                   = YMML
+   DEPARTURE TIME         = 2024-06-15 12:00:00
+   SCHEDULED TIME         = 2024-06-15 12:23:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = 
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = NOT IDENTIFIED --> MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:13 08: System Flight Plan updated:
+   SFPI                   = 17542471
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = INBOUND
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = CPA719
+   AIRCRAFT REG           = BLBE
+   AIRCRAFT TYPE          = A333
+   WAKE TURBULANCE        = H
+   NAVIGATION EQUIP       = SDE3GHIJ3J7M3P2RWYZ
+   SURVEILLANCE EQUIP     = LB1D1
+   SSR CODE               = 5310
+   EST. TIME OF ENTRY     = 2024-06-15 11:02:00
+   CLEARED FLIGHT LEVEL   = 220
+   EXIT FLIGHT LEVEL      = 220
+   REQUESTED FLIGHT LEVEL = 370
+   CRUISING SPEED         = 475
+   ADEP                   = VHHH
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 08:25:00
+   SCHEDULED TIME         = 2024-06-15 11:03:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = 
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned --> 180
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S2T1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:13 09: SFPL Sector Assignment updated:
+   SFPI           = 17541903
+   CURRENT SECTOR = TS --> LE
+   NEW SECTOR     = LE --> 
+   CWP IDENTIFIER = 202 --> 
+   HANDOVER STATE = SELECT --> IDLE
+   PASSED SECTORS = 0 --> 2
+
+2024-06-15 12:05:14 101: System Flight Plan updated:
+   SFPI                   = 17543168
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = DOMESTIC
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = GIA179
+   AIRCRAFT REG           = PKGMY
+   AIRCRAFT TYPE          = B738
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDE2E3FGHIJ2RWY
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 6230
+   EST. TIME OF ENTRY     = 2024-06-15 10:51:01
+   CLEARED FLIGHT LEVEL   = 30 --> 20
+   EXIT FLIGHT LEVEL      = 350
+   REQUESTED FLIGHT LEVEL = 330
+   CRUISING SPEED         = 454
+   ADEP                   = WIBB
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 10:50:00
+   SCHEDULED TIME         = 2024-06-15 10:50:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = 24
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1C1D1L1O1S1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:14 12: System Flight Plan updated:
+   SFPI                   = 17538410
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = OUTBOUND
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = AWQ814
+   AIRCRAFT REG           = PKAZU
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIRWY
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 2406
+   EST. TIME OF ENTRY     = 2024-06-15 11:53:17
+   CLEARED FLIGHT LEVEL   = 270 --> 350
+   EXIT FLIGHT LEVEL      = 350
+   REQUESTED FLIGHT LEVEL = 350
+   CRUISING SPEED         = 446
+   ADEP                   = WIII
+   ADES                   = WADD
+   DEPARTURE TIME         = 2024-06-15 10:35:00
+   SCHEDULED TIME         = 2024-06-15 11:40:00
+   OPERATOR INFO          = C2C
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = ANY
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1O1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:15 209: System Flight Plan updated:
+   SFPI                   = 17544459
+   STATE                  = PENDING --> ACTIVE
+   TRAVEL TYPE            = OVERFLIGHT
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = MAS2631
+   AIRCRAFT REG           = 9MMVD
+   AIRCRAFT TYPE          = B38M
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDE1E2E3FGHIJ3J4J5M1RUVWXYZ
+   SURVEILLANCE EQUIP     = LB1D1
+   SSR CODE               = Not Assigned --> 0422
+   EST. TIME OF ENTRY     = Unknown --> 2024-06-15 12:40:00
+   CLEARED FLIGHT LEVEL   = Not Assigned --> 380
+   EXIT FLIGHT LEVEL      = 340 --> 380
+   REQUESTED FLIGHT LEVEL = 340
+   CRUISING SPEED         = 445
+   ADEP                   = WBKK
+   ADES                   = WMKK
+   DEPARTURE TIME         = 2024-06-15 11:05:00
+   SCHEDULED TIME         = 2024-06-15 12:07:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = 
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = NOT IDENTIFIED
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S2T1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:15 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17544459
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= Unknown --> 2024-06-15 12:40:00
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WSJC
+   NEXT FIR               = WSJC
+   NUM WAYPOINTS          = 5
+                            GULGU (2024-06-15 12:07:00) STO --> (2024-06-15 12:40:00) ETO
+                            LUSMO (2024-06-15 12:21:53) STO --> (2024-06-15 12:54:53) ETO
+                            OPULA (2024-06-15 12:26:30) STO --> (2024-06-15 12:59:30) ETO
+                            UPVUN (2024-06-15 12:30:35) STO --> (2024-06-15 13:03:35) ETO
+                            ELGOR (2024-06-15 12:30:55) STO --> (2024-06-15 13:03:55) ETO
+
+2024-06-15 12:05:17 04: SFPL Sector Assignment updated:
+   SFPI           = 17543987
+   CURRENT SECTOR = LC --> TE
+   NEW SECTOR     = TE --> 
+   CWP IDENTIFIER = 08 --> 
+   HANDOVER STATE = SELECT --> IDLE
+   PASSED SECTORS = 1
+
+2024-06-15 12:05:17 FDPS_SUR: System Flight Path updated:
+   SFPI                   = 17541767
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= 2024-06-15 11:53:00 --> Calculate Estimates
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WADD
+   NEXT FIR               = WSJC
+   NUM WAYPOINTS          = 12
+                            TAVIP (2024-06-15 11:53:30) ATO
+                            RAFIS (2024-06-15 12:05:29) ETO --> (2024-06-15 12:05:17) ATO
+                            MASRI (2024-06-15 12:10:00) ETO
+                            LAKUN (2024-06-15 12:14:50) ETO
+                            GUKNO (2024-06-15 12:22:30) ETO
+                            SURGA (2024-06-15 12:30:46) ETO
+                            ATPOM (2024-06-15 12:42:06) ETO
+                            INVUB (2024-06-15 12:42:54) ETO
+                            JUNHA (2024-06-15 12:49:12) ETO
+                            IRTAD (2024-06-15 12:51:46) ETO
+                            AVPIV (2024-06-15 12:54:11) ETO
+                            SJ (2024-06-15 12:54:31) ETO
+
+2024-06-15 12:05:17 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17541767
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= Calculate Estimates --> 2024-06-15 11:53:00
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WADD
+   NEXT FIR               = WSJC
+   NUM WAYPOINTS          = 12
+                            TAVIP (2024-06-15 11:53:30) ATO
+                            RAFIS (2024-06-15 12:05:17) ATO
+                            MASRI (2024-06-15 12:10:00) ETO --> (2024-06-15 12:09:48) ETO
+                            LAKUN (2024-06-15 12:14:50) ETO --> (2024-06-15 12:14:38) ETO
+                            GUKNO (2024-06-15 12:22:30) ETO --> (2024-06-15 12:22:18) ETO
+                            SURGA (2024-06-15 12:30:46) ETO --> (2024-06-15 12:30:34) ETO
+                            ATPOM (2024-06-15 12:42:06) ETO --> (2024-06-15 12:41:54) ETO
+                            INVUB (2024-06-15 12:42:54) ETO --> (2024-06-15 12:42:42) ETO
+                            JUNHA (2024-06-15 12:49:12) ETO --> (2024-06-15 12:49:00) ETO
+                            IRTAD (2024-06-15 12:51:46) ETO --> (2024-06-15 12:51:34) ETO
+                            AVPIV (2024-06-15 12:54:11) ETO --> (2024-06-15 12:53:59) ETO
+                            SJ (2024-06-15 12:54:31) ETO --> (2024-06-15 12:54:19) ETO
+
+2024-06-15 12:05:17 FDPS_SUR: System Flight Plan updated:
+   SFPI                   = 17544459
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = OVERFLIGHT
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = MAS2631
+   AIRCRAFT REG           = 9MMVD
+   AIRCRAFT TYPE          = B38M
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDE1E2E3FGHIJ3J4J5M1RUVWXYZ
+   SURVEILLANCE EQUIP     = LB1D1
+   SSR CODE               = 0422
+   EST. TIME OF ENTRY     = 2024-06-15 12:40:00
+   CLEARED FLIGHT LEVEL   = 380
+   EXIT FLIGHT LEVEL      = 380
+   REQUESTED FLIGHT LEVEL = 340
+   CRUISING SPEED         = 445
+   ADEP                   = WBKK
+   ADES                   = WMKK
+   DEPARTURE TIME         = 2024-06-15 11:05:00
+   SCHEDULED TIME         = 2024-06-15 12:07:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = 
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = NOT IDENTIFIED --> MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S2T1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:18 FDPS_SUR: System Flight Plan updated:
+   SFPI                   = 17538726
+   STATE                  = WAITING
+   TRAVEL TYPE            = OVERFLIGHT
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = AWQ554
+   AIRCRAFT REG           = PKAZD
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIWRY
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 4116
+   EST. TIME OF ENTRY     = Unknown
+   CLEARED FLIGHT LEVEL   = Not Assigned
+   EXIT FLIGHT LEVEL      = 360
+   REQUESTED FLIGHT LEVEL = 360
+   CRUISING SPEED         = 448
+   ADEP                   = WADD
+   ADES                   = WMKK
+   DEPARTURE TIME         = 2024-06-15 11:38:00
+   SCHEDULED TIME         = 2024-06-15 12:46:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = 
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = NOT IDENTIFIED --> MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1O1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:19 202: System Flight Plan updated:
+   SFPI                   = 17541969
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = DOMESTIC
+   FLIGHT TYPE            = N
+   FLIGHT RULES           = I
+   CALLSIGN               = TGN742
+   AIRCRAFT REG           = PKYRD
+   AIRCRAFT TYPE          = B733
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = CDFGHILORW
+   SURVEILLANCE EQUIP     = CB1
+   SSR CODE               = 6474
+   EST. TIME OF ENTRY     = 2024-06-15 11:14:00
+   CLEARED FLIGHT LEVEL   = 25
+   EXIT FLIGHT LEVEL      = 25
+   REQUESTED FLIGHT LEVEL = 340
+   CRUISING SPEED         = 450
+   ADEP                   = WIOO
+   ADES                   = WIHH
+   DEPARTURE TIME         = 2024-06-15 11:00:00
+   SCHEDULED TIME         = 2024-06-15 11:00:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = SAG --> ELN
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = 180
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = C1C2D1D2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:19 18: System Flight Plan updated:
+   SFPI                   = 17543608
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = OUTBOUND
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = BTK7157
+   AIRCRAFT REG           = PKLZT
+   AIRCRAFT TYPE          = B738
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIRW
+   SURVEILLANCE EQUIP     = EB1
+   SSR CODE               = 7140
+   EST. TIME OF ENTRY     = 2024-06-15 11:40:26
+   CLEARED FLIGHT LEVEL   = 340
+   EXIT FLIGHT LEVEL      = 340
+   REQUESTED FLIGHT LEVEL = 340
+   CRUISING SPEED         = 455
+   ADEP                   = WIII
+   ADES                   = WSSS
+   DEPARTURE TIME         = 2024-06-15 11:25:00
+   SCHEDULED TIME         = 2024-06-15 11:25:00
+   OPERATOR INFO          = DOL2D --> TF/1205
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = D PAR1233V
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1L1C1D1O1S2T1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:20 205: SFPL Sector Assignment updated:
+   SFPI           = 17543636
+   CURRENT SECTOR = UBAC
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 2 --> 1
+
+2024-06-15 12:05:20 205: System Flight Path updated:
+   SFPI                   = 17543636
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= 2024-06-15 10:57:07 --> Calculate Estimates
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = 
+   NEXT FIR               = VCCF
+   NUM WAYPOINTS          = 5 --> 3
+                            0207S09904E (2024-06-15 11:49:25) ATO --> (2024-06-15 12:05:20) ATO
+                            PAKRA (2024-06-15 12:00:56) ATO --> (Unknown) 
+                            NISOK (2024-06-15 12:15:59) ETO --> (Unknown) 
+
+2024-06-15 12:05:20 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17543636
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= Calculate Estimates --> 2024-06-15 10:57:07
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = 
+   NEXT FIR               = VCCF
+   NUM WAYPOINTS          = 3
+                            0207S09904E (2024-06-15 12:05:20) ATO
+                            PAKRA (Unknown)  --> (2024-06-15 12:44:49) ETO
+                            NISOK (Unknown)  --> (2024-06-15 13:09:04) ETO
+
+2024-06-15 12:05:20 FDPS_SUR: System Flight Path updated:
+   SFPI                   = 17541256
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= 2024-06-15 11:37:00 --> Calculate Estimates
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WAAF
+   NEXT FIR               = WSJC
+   NUM WAYPOINTS          = 8
+                            TANUR (2024-06-15 11:37:27) ATO
+                            TRIBO (2024-06-15 11:44:42) ATO
+                            LAWIB (2024-06-15 11:53:23) ATO
+                            OLVES (2024-06-15 11:55:12) ATO
+                            UNTEP (2024-06-15 11:58:27) ATO
+                            KADAR (2024-06-15 12:05:25) ETO --> (2024-06-15 12:05:20) ATO
+                            OBDOS (2024-06-15 12:12:30) ETO
+                            UGEBO (2024-06-15 12:23:53) ETO
+
+2024-06-15 12:05:20 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17541256
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= Calculate Estimates --> 2024-06-15 11:37:00
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WAAF
+   NEXT FIR               = WSJC
+   NUM WAYPOINTS          = 8
+                            TANUR (2024-06-15 11:37:27) ATO
+                            TRIBO (2024-06-15 11:44:42) ATO
+                            LAWIB (2024-06-15 11:53:23) ATO
+                            OLVES (2024-06-15 11:55:12) ATO
+                            UNTEP (2024-06-15 11:58:27) ATO
+                            KADAR (2024-06-15 12:05:20) ATO
+                            OBDOS (2024-06-15 12:12:30) ETO --> (2024-06-15 12:12:25) ETO
+                            UGEBO (2024-06-15 12:23:53) ETO --> (2024-06-15 12:23:48) ETO
+
+2024-06-15 12:05:20 13: SFPL Sector Assignment updated:
+   SFPI           = 17541771
+   CURRENT SECTOR = UPNK
+   NEW SECTOR     =  --> UTPG
+   CWP IDENTIFIER =  --> 13
+   HANDOVER STATE = IDLE --> SELECT
+   PASSED SECTORS = 1
+
+2024-06-15 12:05:20 29: SFPL Sector Assignment updated:
+   SFPI           = 17543715
+   CURRENT SECTOR =  --> UJOG
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 3
+
+2024-06-15 12:05:21 29: SFPL Sector Assignment updated:
+   SFPI           = 17543715
+   CURRENT SECTOR = UJOG --> 
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 3
+
+2024-06-15 12:05:21 202: System Flight Plan updated:
+   SFPI                   = 17541969
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = DOMESTIC
+   FLIGHT TYPE            = N
+   FLIGHT RULES           = I
+   CALLSIGN               = TGN742
+   AIRCRAFT REG           = PKYRD
+   AIRCRAFT TYPE          = B733
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = CDFGHILORW
+   SURVEILLANCE EQUIP     = CB1
+   SSR CODE               = 6474
+   EST. TIME OF ENTRY     = 2024-06-15 11:14:00
+   CLEARED FLIGHT LEVEL   = 25
+   EXIT FLIGHT LEVEL      = 25
+   REQUESTED FLIGHT LEVEL = 340
+   CRUISING SPEED         = 450
+   ADEP                   = WIOO
+   ADES                   = WIHH
+   DEPARTURE TIME         = 2024-06-15 11:00:00
+   SCHEDULED TIME         = 2024-06-15 11:00:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = ELN
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = 180 --> Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = C1C2D1D2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:23 205: System Flight Plan updated:
+   SFPI                   = 17543636
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = OUTBOUND
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = ETD475
+   AIRCRAFT REG           = A6BNB
+   AIRCRAFT TYPE          = B789
+   WAKE TURBULANCE        = H
+   NAVIGATION EQUIP       = SDE2E3GHIJ1J2J5M1P2RWXYZ
+   SURVEILLANCE EQUIP     = LB1D1
+   SSR CODE               = 2352
+   EST. TIME OF ENTRY     = 2024-06-15 10:57:07
+   CLEARED FLIGHT LEVEL   = 360
+   EXIT FLIGHT LEVEL      = 360
+   REQUESTED FLIGHT LEVEL = 360
+   CRUISING SPEED         = 494
+   ADEP                   = WIII
+   ADES                   = OMAA
+   DEPARTURE TIME         = 2024-06-15 10:45:00
+   SCHEDULED TIME         = 2024-06-15 10:45:00
+   OPERATOR INFO          = TF1137
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = ROT NIS1307V --> NIS1307V
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S2T1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:25 FDPS_SUR: System Flight Path updated:
+   SFPI                   = 17543636
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= 2024-06-15 10:57:07 --> Calculate Estimates
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = 
+   NEXT FIR               = VCCF
+   NUM WAYPOINTS          = 3
+                            0207S09904E (2024-06-15 12:05:20) ATO --> (2024-06-15 12:05:25) ATO
+                            PAKRA (2024-06-15 12:44:49) ETO
+                            NISOK (2024-06-15 13:09:04) ETO
+
+2024-06-15 12:05:25 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17543636
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= Calculate Estimates --> 2024-06-15 10:57:07
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = 
+   NEXT FIR               = VCCF
+   NUM WAYPOINTS          = 3
+                            0207S09904E (2024-06-15 12:05:25) ATO
+                            PAKRA (2024-06-15 12:44:49) ETO --> (2024-06-15 12:44:54) ETO
+                            NISOK (2024-06-15 13:09:04) ETO --> (2024-06-15 13:09:09) ETO
+
+2024-06-15 12:05:26 13: SFPL Sector Assignment updated:
+   SFPI           = 17543652
+   CURRENT SECTOR = UTPG --> UPNK
+   NEW SECTOR     = UPNK --> 
+   CWP IDENTIFIER = 17 --> 
+   HANDOVER STATE = SELECT --> IDLE
+   PASSED SECTORS = 0 --> 2
+
+2024-06-15 12:05:26 FDPS_SUR: System Flight Path updated:
+   SFPI                   = 17540701
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= 2024-06-15 11:46:00 --> Calculate Estimates
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WBGS
+   NEXT FIR               = WBFC
+   NUM WAYPOINTS          = 11
+                            AGOBA (2024-06-15 11:43:25) ATO
+                            SABIP (2024-06-15 11:48:32) ATO
+                            BOBOB (2024-06-15 11:54:24) ATO
+                            OMBAP (2024-06-15 11:58:52) ATO
+                            VERIN (2024-06-15 12:00:00) ATO
+                            OSERU (2024-06-15 12:05:42) ETO --> (2024-06-15 12:05:26) ATO
+                            BOPVA (2024-06-15 12:09:51) ETO
+                            LIPRO (2024-06-15 12:10:10) ETO
+                            KILOT (2024-06-15 12:14:30) ETO
+                            OTLON (2024-06-15 12:17:19) ETO
+                            KETOD (2024-06-15 12:18:46) ETO
+
+2024-06-15 12:05:26 FDPS_SUR: System Flight Path updated:
+   SFPI                   = 17543852
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= 2024-06-15 11:52:36 --> Calculate Estimates
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = 
+   NEXT FIR               = WMFC
+   NUM WAYPOINTS          = 10
+                            ISLIN (2024-06-15 11:57:00) ETO
+                            SAVIA (2024-06-15 11:59:46) ETO
+                            NIPIP (2024-06-15 12:03:58) ETO
+                            IDUMU (2024-06-15 12:07:52) ETO
+                            DOLTA (2024-06-15 12:10:22) ETO --> (2024-06-15 12:05:26) ATO
+                            GUSKO (2024-06-15 12:21:52) ETO
+                            PLB (2024-06-15 12:31:45) ETO
+                            JATAM (2024-06-15 12:52:39) ETO
+                            PKU (2024-06-15 13:09:57) ETO
+                            SALAX (2024-06-15 13:24:45) ETO
+
+2024-06-15 12:05:26 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17540701
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= Calculate Estimates --> 2024-06-15 11:46:00
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WBGS
+   NEXT FIR               = WBFC
+   NUM WAYPOINTS          = 11
+                            AGOBA (2024-06-15 11:43:25) ATO
+                            SABIP (2024-06-15 11:48:32) ATO
+                            BOBOB (2024-06-15 11:54:24) ATO
+                            OMBAP (2024-06-15 11:58:52) ATO
+                            VERIN (2024-06-15 12:00:00) ATO
+                            OSERU (2024-06-15 12:05:26) ATO
+                            BOPVA (2024-06-15 12:09:51) ETO --> (2024-06-15 12:09:35) ETO
+                            LIPRO (2024-06-15 12:10:10) ETO --> (2024-06-15 12:09:54) ETO
+                            KILOT (2024-06-15 12:14:30) ETO --> (2024-06-15 12:14:14) ETO
+                            OTLON (2024-06-15 12:17:19) ETO --> (2024-06-15 12:17:03) ETO
+                            KETOD (2024-06-15 12:18:46) ETO --> (2024-06-15 12:18:30) ETO
+
+2024-06-15 12:05:26 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17543852
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= Calculate Estimates --> 2024-06-15 11:52:36
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = 
+   NEXT FIR               = WMFC
+   NUM WAYPOINTS          = 10
+                            ISLIN (2024-06-15 11:57:00) ETO
+                            SAVIA (2024-06-15 11:59:46) ETO
+                            NIPIP (2024-06-15 12:03:58) ETO
+                            IDUMU (2024-06-15 12:07:52) ETO
+                            DOLTA (2024-06-15 12:05:26) ATO
+                            GUSKO (2024-06-15 12:21:52) ETO --> (2024-06-15 12:16:56) ETO
+                            PLB (2024-06-15 12:31:45) ETO --> (2024-06-15 12:26:49) ETO
+                            JATAM (2024-06-15 12:52:39) ETO --> (2024-06-15 12:47:43) ETO
+                            PKU (2024-06-15 13:09:57) ETO --> (2024-06-15 13:05:01) ETO
+                            SALAX (2024-06-15 13:24:45) ETO --> (2024-06-15 13:19:49) ETO
+
+2024-06-15 12:05:27 06: System Flight Plan updated:
+   SFPI                   = 17541973
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = DOMESTIC
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = LKN033
+   AIRCRAFT REG           = PKNAQ
+   AIRCRAFT TYPE          = B735
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHILRW
+   SURVEILLANCE EQUIP     = SB1
+   SSR CODE               = 0143
+   EST. TIME OF ENTRY     = 2024-06-15 11:28:00
+   CLEARED FLIGHT LEVEL   = 220 --> 110
+   EXIT FLIGHT LEVEL      = 330
+   REQUESTED FLIGHT LEVEL = 310
+   CRUISING SPEED         = 450
+   ADEP                   = WIDD
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 11:10:00
+   SCHEDULED TIME         = 2024-06-15 11:10:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = BUN
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = C1D1O1S1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:27 04: System Flight Plan updated:
+   SFPI                   = 17543987
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = INBOUND
+   FLIGHT TYPE            = N
+   FLIGHT RULES           = I
+   CALLSIGN               = LKN1701
+   AIRCRAFT REG           = PKNAS
+   AIRCRAFT TYPE          = B735
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHILRW
+   SURVEILLANCE EQUIP     = SB1
+   SSR CODE               = 5051
+   EST. TIME OF ENTRY     = 2024-06-15 11:42:00
+   CLEARED FLIGHT LEVEL   = 150 --> 170
+   EXIT FLIGHT LEVEL      = 220
+   REQUESTED FLIGHT LEVEL = 340
+   CRUISING SPEED         = 440
+   ADEP                   = WAGS
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 11:12:00
+   SCHEDULED TIME         = 2024-06-15 11:12:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = IGU
+   ASSIGNED SPEED         = 250
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = C1D1O1S1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:29 17: SFPL Sector Assignment updated:
+   SFPI           = 17541771
+   CURRENT SECTOR = UPNK --> UTPG
+   NEW SECTOR     = UTPG --> 
+   CWP IDENTIFIER = 13 --> 
+   HANDOVER STATE = SELECT --> IDLE
+   PASSED SECTORS = 1 --> 2
+
+2024-06-15 12:05:29 FDPS_FPL: New System Flight Plan inserted:
+   SFPI                   = 17544461
+   STATE                  = REFERRED
+   TRAVEL TYPE            = DOMESTIC
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = BTK7066
+   AIRCRAFT REG           = PKLUT
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIRW
+   SURVEILLANCE EQUIP     = EB1
+   SSR CODE               = Not Assigned
+   EST. TIME OF ENTRY     = Unknown
+   CLEARED FLIGHT LEVEL   = Not Assigned
+   EXIT FLIGHT LEVEL      = Not Assigned
+   REQUESTED FLIGHT LEVEL = 310
+   CRUISING SPEED         = 463
+   ADEP                   = WIBB
+   ADES                   = WIHH
+   DEPARTURE TIME         = 2024-06-15 23:05:00
+   SCHEDULED TIME         = 2024-06-15 23:05:00
+   OPERATOR INFO          = FPL:Unknown FLIGHT ROUTE
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = UNSET
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = 
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGEND HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = NOT IDENTIFIED
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPECIAL APPROACH       = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1C1D1L1O1S2T1
+   FPL FORMAT             = 2012
+
+
+2024-06-15 12:05:29 FDPS_FPL: New System Flight Path inserted:
+   SFPI                   = 17544461
+   ARRIVAL TIME           = 2024-06-16 00:38:00
+   EST. TIME OF ENTRY     = Unknown
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = 
+   NEXT FIR               = 
+   NUM WAYPOINTS          = 0
+
+2024-06-15 12:05:29 101: SFPL Sector Assignment updated:
+   SFPI           = 17542353
+   CURRENT SECTOR = AN
+   NEW SECTOR     =  --> TWR
+   CWP IDENTIFIER =  --> 101
+   HANDOVER STATE = IDLE --> SELECT
+   PASSED SECTORS = 1
+
+2024-06-15 12:05:30 13: SFPL Sector Assignment updated:
+   SFPI           = 17542160
+   CURRENT SECTOR = UPNK
+   NEW SECTOR     =  --> UTPG
+   CWP IDENTIFIER =  --> 13
+   HANDOVER STATE = IDLE --> SELECT
+   PASSED SECTORS = 2
+
+2024-06-15 12:05:30 FDPS_SUR: System Flight Plan updated:
+   SFPI                   = 17543898
+   STATE                  = ACTIVE --> REDUNDANT
+   TRAVEL TYPE            = OUTBOUND
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = GIA426
+   AIRCRAFT REG           = PKGMV
+   AIRCRAFT TYPE          = B738
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDE2E3FGHIRWYZ
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 7165
+   EST. TIME OF ENTRY     = 2024-06-15 11:13:49
+   CLEARED FLIGHT LEVEL   = 350
+   EXIT FLIGHT LEVEL      = 350
+   REQUESTED FLIGHT LEVEL = 350
+   CRUISING SPEED         = 461
+   ADEP                   = WIII
+   ADES                   = WADD
+   DEPARTURE TIME         = 2024-06-15 10:55:00
+   SCHEDULED TIME         = 2024-06-15 10:55:00
+   OPERATOR INFO          = C2D
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = WX V
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = 80
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1C1D1L1O1S1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:31 30: System Flight Plan updated:
+   SFPI                   = 17543969
+   STATE                  = WAITING
+   TRAVEL TYPE            = INBOUND
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = PAS207
+   AIRCRAFT REG           = PKPWH
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDE2E3FGHIRWY
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 6302
+   EST. TIME OF ENTRY     = Unknown
+   CLEARED FLIGHT LEVEL   = 320
+   EXIT FLIGHT LEVEL      = 220 --> 300
+   REQUESTED FLIGHT LEVEL = 320
+   CRUISING SPEED         = 460
+   ADEP                   = WARR
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 11:27:00
+   SCHEDULED TIME         = 2024-06-15 11:54:00
+   OPERATOR INFO          = <C529
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = BOR 24 <PAS325
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:31 209: System Flight Plan updated:
+   SFPI                   = 17543481
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = OVERFLIGHT
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = RBA97
+   AIRCRAFT REG           = V8DLE
+   AIRCRAFT TYPE          = B788
+   WAKE TURBULANCE        = H
+   NAVIGATION EQUIP       = SDE1FGHIJ1J4J7LM3RWXYZ
+   SURVEILLANCE EQUIP     = B1D1L
+   SSR CODE               = 2013
+   EST. TIME OF ENTRY     = 2024-06-15 12:17:00
+   CLEARED FLIGHT LEVEL   = 340
+   EXIT FLIGHT LEVEL      = 340
+   REQUESTED FLIGHT LEVEL = 340
+   CRUISING SPEED         = 507
+   ADEP                   = WBSB
+   ADES                   = OMDB
+   DEPARTURE TIME         = 2024-06-15 11:24:00
+   SCHEDULED TIME         = 2024-06-15 12:13:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        =  --> LOT20
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:31 06: System Flight Plan updated:
+   SFPI                   = 17543138
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = INBOUND
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = MAS725
+   AIRCRAFT REG           = 9MMXF
+   AIRCRAFT TYPE          = B738
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIJ3J5M1RWYZ
+   SURVEILLANCE EQUIP     = LB1D1
+   SSR CODE               = 2172
+   EST. TIME OF ENTRY     = 2024-06-15 11:09:00
+   CLEARED FLIGHT LEVEL   = 110
+   EXIT FLIGHT LEVEL      = 370
+   REQUESTED FLIGHT LEVEL = 350
+   CRUISING SPEED         = 449
+   ADEP                   = WMKK
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 10:43:00
+   SCHEDULED TIME         = 2024-06-15 11:02:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = LUV
+   ASSIGNED SPEED         = 240
+   ASSIGNED HEADING       = Not Assigned --> 205
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S2T1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:31 208: System Flight Path updated:
+   SFPI                   = 17543524
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= Unknown --> Calculate Estimates
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WSJC
+   NEXT FIR               = WBFC
+   NUM WAYPOINTS          = 12 --> 6
+                            OSERU (2024-06-15 12:02:00) STO --> (2024-06-15 12:21:22) STO
+                            VERIN (2024-06-15 12:08:26) STO --> (2024-06-15 12:27:00) STO
+                            OMBAP (2024-06-15 12:09:52) STO --> (2024-06-15 12:28:08) STO
+                            BOBOB (2024-06-15 12:12:40) STO --> (2024-06-15 12:32:43) STO
+                            SABIP (2024-06-15 12:16:57) STO --> (2024-06-15 12:38:54) STO
+                            AGOBA (2024-06-15 12:17:16) STO --> (2024-06-15 12:44:20) STO
+
+2024-06-15 12:05:31 208: System Flight Plan updated:
+   SFPI                   = 17543524
+   STATE                  = PENDING --> ACTIVE
+   TRAVEL TYPE            = OVERFLIGHT
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = MAS2522
+   AIRCRAFT REG           = 9MMXA
+   AIRCRAFT TYPE          = B738
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIJ3J5M1RWYZ
+   SURVEILLANCE EQUIP     = LB1D1
+   SSR CODE               = Not Assigned --> 2167
+   EST. TIME OF ENTRY     = Unknown --> 2024-06-15 12:42:00
+   CLEARED FLIGHT LEVEL   = Not Assigned --> 370
+   EXIT FLIGHT LEVEL      = 250 --> 370
+   REQUESTED FLIGHT LEVEL = 330
+   CRUISING SPEED         = 450
+   ADEP                   = WMKK
+   ADES                   = WBGG
+   DEPARTURE TIME         = 2024-06-15 11:25:00
+   SCHEDULED TIME         = 2024-06-15 12:02:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = 
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = NOT IDENTIFIED
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S2T1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:31 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17543524
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= Calculate Estimates --> Unknown
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WSJC
+   NEXT FIR               = WBFC
+   NUM WAYPOINTS          = 6
+                            OSERU (2024-06-15 12:21:22) STO --> (2024-06-15 12:02:00) STO
+                            VERIN (2024-06-15 12:27:00) STO --> (2024-06-15 12:07:38) STO
+                            OMBAP (2024-06-15 12:28:08) STO --> (2024-06-15 12:08:46) STO
+                            BOBOB (2024-06-15 12:32:43) STO --> (2024-06-15 12:13:21) STO
+                            SABIP (2024-06-15 12:38:54) STO --> (2024-06-15 12:19:32) STO
+                            AGOBA (2024-06-15 12:44:20) STO --> (2024-06-15 12:24:58) STO
+
+2024-06-15 12:05:31 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17543524
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= Unknown --> 2024-06-15 12:42:00
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WSJC
+   NEXT FIR               = WBFC
+   NUM WAYPOINTS          = 6
+                            OSERU (2024-06-15 12:02:00) STO --> (2024-06-15 12:42:00) ETO
+                            VERIN (2024-06-15 12:07:38) STO --> (2024-06-15 12:47:38) ETO
+                            OMBAP (2024-06-15 12:08:46) STO --> (2024-06-15 12:48:46) ETO
+                            BOBOB (2024-06-15 12:13:21) STO --> (2024-06-15 12:53:21) ETO
+                            SABIP (2024-06-15 12:19:32) STO --> (2024-06-15 12:59:32) ETO
+                            AGOBA (2024-06-15 12:24:58) STO --> (2024-06-15 13:04:58) ETO
+
+2024-06-15 12:05:33 FDPS_SUR: System Flight Path updated:
+   SFPI                   = 17543074
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= 2024-06-15 11:32:00 --> Calculate Estimates
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WSJC
+   NEXT FIR               = WAAF
+   NUM WAYPOINTS          = 4
+                            ANITO (2024-06-15 11:32:54) ATO
+                            PKP (2024-06-15 11:51:05) ETO
+                            MIMIX (2024-06-15 12:06:05) ETO --> (2024-06-15 12:05:33) ATO
+                            RUPKA (2024-06-15 12:33:56) ETO
+
+2024-06-15 12:05:33 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17543074
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= Calculate Estimates --> 2024-06-15 11:32:00
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WSJC
+   NEXT FIR               = WAAF
+   NUM WAYPOINTS          = 4
+                            ANITO (2024-06-15 11:32:54) ATO
+                            PKP (2024-06-15 11:51:05) ETO
+                            MIMIX (2024-06-15 12:05:33) ATO
+                            RUPKA (2024-06-15 12:33:56) ETO --> (2024-06-15 12:33:24) ETO
+
+2024-06-15 12:05:34 09: System Flight Plan updated:
+   SFPI                   = 17541480
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = INBOUND
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = SJV767
+   AIRCRAFT REG           = PKSAS
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SBDFGHIRWY
+   SURVEILLANCE EQUIP     = EB1
+   SSR CODE               = 4404
+   EST. TIME OF ENTRY     = 2024-06-15 11:39:00
+   CLEARED FLIGHT LEVEL   = 110
+   EXIT FLIGHT LEVEL      = 220
+   REQUESTED FLIGHT LEVEL = 340
+   CRUISING SPEED         = 467
+   ADEP                   = WADL
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 10:42:00
+   SCHEDULED TIME         = 2024-06-15 10:42:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = SAG
+   ASSIGNED SPEED         = 250 --> 260
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:35 FDPS_FPL: System Flight Plan updated:
+   SFPI                   = 17539024
+   STATE                  = PENDING
+   TRAVEL TYPE            = INBOUND
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = GIA325
+   AIRCRAFT REG           = PKGNE
+   AIRCRAFT TYPE          = B738
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDE2E3FGHIJ2RWY
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = Not Assigned
+   EST. TIME OF ENTRY     = Unknown
+   CLEARED FLIGHT LEVEL   = Not Assigned
+   EXIT FLIGHT LEVEL      = 320
+   REQUESTED FLIGHT LEVEL = 320
+   CRUISING SPEED         = 462
+   ADEP                   = WARR
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 11:40:00 --> 2024-06-15 12:05:00
+   SCHEDULED TIME         = 2024-06-15 11:40:00 --> 2024-06-15 12:05:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = 
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = NOT IDENTIFIED
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1C1D1L1O1S1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:35 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17539024
+   ARRIVAL TIME           = 2024-06-15 12:13:38 --> 2024-06-15 12:38:38
+   ESTIMATED TIME OF ENTRY= Unknown
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = 
+   NEXT FIR               = 
+   NUM WAYPOINTS          = 2
+                            KALUT (2024-06-15 11:40:00) STO --> (2024-06-15 12:05:00) STO
+                            KURUS (2024-06-15 11:54:46) STO --> (2024-06-15 12:19:46) STO
+
+2024-06-15 12:05:35 30: System Flight Plan updated:
+   SFPI                   = 17543969
+   STATE                  = WAITING
+   TRAVEL TYPE            = INBOUND
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = PAS207
+   AIRCRAFT REG           = PKPWH
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDE2E3FGHIRWY
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 6302
+   EST. TIME OF ENTRY     = Unknown
+   CLEARED FLIGHT LEVEL   = 320
+   EXIT FLIGHT LEVEL      = 300 --> 320
+   REQUESTED FLIGHT LEVEL = 320
+   CRUISING SPEED         = 460
+   ADEP                   = WARR
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 11:27:00
+   SCHEDULED TIME         = 2024-06-15 11:54:00
+   OPERATOR INFO          = <C529
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = BOR 24 <PAS325
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:35 06: System Flight Plan updated:
+   SFPI                   = 17543138
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = INBOUND
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = MAS725
+   AIRCRAFT REG           = 9MMXF
+   AIRCRAFT TYPE          = B738
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIJ3J5M1RWYZ
+   SURVEILLANCE EQUIP     = LB1D1
+   SSR CODE               = 2172
+   EST. TIME OF ENTRY     = 2024-06-15 11:09:00
+   CLEARED FLIGHT LEVEL   = 110
+   EXIT FLIGHT LEVEL      = 370
+   REQUESTED FLIGHT LEVEL = 350
+   CRUISING SPEED         = 449
+   ADEP                   = WMKK
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 10:43:00
+   SCHEDULED TIME         = 2024-06-15 11:02:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = LUV --> 
+   ASSIGNED SPEED         = 240
+   ASSIGNED HEADING       = 205
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S2T1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:35 213: System Flight Plan updated:
+   SFPI                   = 17544006
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = DOMESTIC
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = PAS357
+   AIRCRAFT REG           = PKPWJ
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDE2E3FGHIRWY
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 6221
+   EST. TIME OF ENTRY     = 2024-06-15 11:53:00
+   CLEARED FLIGHT LEVEL   = 330
+   EXIT FLIGHT LEVEL      = 370
+   REQUESTED FLIGHT LEVEL = 370
+   CRUISING SPEED         = 459
+   ADEP                   = WIEE
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 11:54:00
+   SCHEDULED TIME         = 2024-06-15 11:54:00
+   OPERATOR INFO          = H090WX
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        =  --> WX 
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = 95
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:37 04: System Flight Plan updated:
+   SFPI                   = 17543987
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = INBOUND
+   FLIGHT TYPE            = N
+   FLIGHT RULES           = I
+   CALLSIGN               = LKN1701
+   AIRCRAFT REG           = PKNAS
+   AIRCRAFT TYPE          = B735
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHILRW
+   SURVEILLANCE EQUIP     = SB1
+   SSR CODE               = 5051
+   EST. TIME OF ENTRY     = 2024-06-15 11:42:00
+   CLEARED FLIGHT LEVEL   = 170 --> 40
+   EXIT FLIGHT LEVEL      = 220
+   REQUESTED FLIGHT LEVEL = 340
+   CRUISING SPEED         = 440
+   ADEP                   = WAGS
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 11:12:00
+   SCHEDULED TIME         = 2024-06-15 11:12:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = IGU
+   ASSIGNED SPEED         = 250
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = C1D1O1S1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:38 22: System Flight Plan updated:
+   SFPI                   = 17543504
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = OVERFLIGHT
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = MXD155
+   AIRCRAFT REG           = 9MLRJ
+   AIRCRAFT TYPE          = B38M
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIRWY
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 2177
+   EST. TIME OF ENTRY     = 2024-06-15 11:16:00
+   CLEARED FLIGHT LEVEL   = 350
+   EXIT FLIGHT LEVEL      = 350
+   REQUESTED FLIGHT LEVEL = 350
+   CRUISING SPEED         = 474
+   ADEP                   = WMKK
+   ADES                   = YPPH
+   DEPARTURE TIME         = 2024-06-15 11:03:00
+   SCHEDULED TIME         = 2024-06-15 11:16:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = WX   XMX/1301
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = 175 --> 160
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1O1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:38 08: System Flight Plan updated:
+   SFPI                   = 17542471
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = INBOUND
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = CPA719
+   AIRCRAFT REG           = BLBE
+   AIRCRAFT TYPE          = A333
+   WAKE TURBULANCE        = H
+   NAVIGATION EQUIP       = SDE3GHIJ3J7M3P2RWYZ
+   SURVEILLANCE EQUIP     = LB1D1
+   SSR CODE               = 5310
+   EST. TIME OF ENTRY     = 2024-06-15 11:02:00
+   CLEARED FLIGHT LEVEL   = 220 --> 150
+   EXIT FLIGHT LEVEL      = 220
+   REQUESTED FLIGHT LEVEL = 370
+   CRUISING SPEED         = 475
+   ADEP                   = VHHH
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 08:25:00
+   SCHEDULED TIME         = 2024-06-15 11:03:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = 
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = 180
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S2T1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:38 FDPS_SUR: System Flight Path updated:
+   SFPI                   = 17541937
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= 2024-06-15 11:14:00 --> Calculate Estimates
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WAAF
+   NEXT FIR               = WSJC
+   NUM WAYPOINTS          = 14
+                            TANUR (2024-06-15 11:13:43) ATO
+                            TRIBO (2024-06-15 11:20:55) ATO
+                            LAWIB (2024-06-15 11:29:39) ATO
+                            OLVES (2024-06-15 11:31:28) ATO
+                            UNTEP (2024-06-15 11:34:40) ATO
+                            KADAR (2024-06-15 11:41:33) ATO
+                            OBDOS (2024-06-15 11:48:09) ATO
+                            OTLAL (2024-06-15 11:58:30) ATO
+                            JUNHA (2024-06-15 12:06:04) ETO --> (2024-06-15 12:05:38) ATO
+                            IRTAD (2024-06-15 12:08:41) ETO
+                            AVPIV (2024-06-15 12:11:09) ETO
+                            SJ (2024-06-15 12:11:29) ETO
+                            LEGOL (2024-06-15 12:12:31) ETO
+                            LAPOL (2024-06-15 12:13:16) ETO
+
+2024-06-15 12:05:38 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17541937
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= Calculate Estimates --> 2024-06-15 11:14:00
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WAAF
+   NEXT FIR               = WSJC
+   NUM WAYPOINTS          = 14
+                            TANUR (2024-06-15 11:13:43) ATO
+                            TRIBO (2024-06-15 11:20:55) ATO
+                            LAWIB (2024-06-15 11:29:39) ATO
+                            OLVES (2024-06-15 11:31:28) ATO
+                            UNTEP (2024-06-15 11:34:40) ATO
+                            KADAR (2024-06-15 11:41:33) ATO
+                            OBDOS (2024-06-15 11:48:09) ATO
+                            OTLAL (2024-06-15 11:58:30) ATO
+                            JUNHA (2024-06-15 12:05:38) ATO
+                            IRTAD (2024-06-15 12:08:41) ETO --> (2024-06-15 12:08:15) ETO
+                            AVPIV (2024-06-15 12:11:09) ETO --> (2024-06-15 12:10:43) ETO
+                            SJ (2024-06-15 12:11:29) ETO --> (2024-06-15 12:11:03) ETO
+                            LEGOL (2024-06-15 12:12:31) ETO --> (2024-06-15 12:12:05) ETO
+                            LAPOL (2024-06-15 12:13:16) ETO --> (2024-06-15 12:12:50) ETO
+
+2024-06-15 12:05:39 17: SFPL Sector Assignment updated:
+   SFPI           = 17542160
+   CURRENT SECTOR = UPNK --> UTPG
+   NEW SECTOR     = UTPG --> 
+   CWP IDENTIFIER = 13 --> 
+   HANDOVER STATE = SELECT --> IDLE
+   PASSED SECTORS = 2 --> 3
+
+2024-06-15 12:05:40 06: System Flight Plan updated:
+   SFPI                   = 17541404
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = DOMESTIC
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = CTV959
+   AIRCRAFT REG           = PKGTH
+   AIRCRAFT TYPE          = A20N
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDE2E3FGHIRWY
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 6235
+   EST. TIME OF ENTRY     = 2024-06-15 10:59:00
+   CLEARED FLIGHT LEVEL   = 250 --> 240
+   EXIT FLIGHT LEVEL      = 310
+   REQUESTED FLIGHT LEVEL = 350
+   CRUISING SPEED         = 457
+   ADEP                   = WIEE
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 10:58:00
+   SCHEDULED TIME         = 2024-06-15 10:58:00
+   OPERATOR INFO          = <T5109
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = 25L UBN 
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C2D2L1O1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:40 19: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 4 --> 0
+
+2024-06-15 12:05:40 05: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 29: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 15: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 134: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 03: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 135: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 27: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 31: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 101: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 206: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 40: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 MIL: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 204: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 33: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 14: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 205: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 22: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 20: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 208: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 209: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 17: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 210: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 212: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 11: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 24: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 30: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 211: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 21: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 203: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 28: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 TWR6: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 249: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 TWR4: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 TWR3: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 TWR1: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 TWR2: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 04: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 202: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 07: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 06: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 08: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 09: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 214: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 10: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 201: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 39: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 CWP26: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 23: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 12: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 13: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 16: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 18: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 213: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 02: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:40 25: SFPL Sector Assignment updated:
+   SFPI           = 17541404
+   CURRENT SECTOR = LN
+   NEW SECTOR     = 
+   CWP IDENTIFIER = 
+   HANDOVER STATE = IDLE
+   PASSED SECTORS = 0
+
+2024-06-15 12:05:41 09: SFPL Sector Assignment updated:
+   SFPI           = 17541480
+   CURRENT SECTOR = LE
+   NEW SECTOR     =  --> TE
+   CWP IDENTIFIER =  --> 09
+   HANDOVER STATE = IDLE --> SELECT
+   PASSED SECTORS = 1
+
+2024-06-15 12:05:43 TWR1: SFPL Sector Assignment updated:
+   SFPI           = 17542353
+   CURRENT SECTOR = AN --> TWR
+   NEW SECTOR     = TWR --> 
+   CWP IDENTIFIER = 101 --> 
+   HANDOVER STATE = SELECT --> IDLE
+   PASSED SECTORS = 1
+
+2024-06-15 12:05:45 FDPS_SUR: System Flight Path updated:
+   SFPI                   = 17538637
+   ARRIVAL TIME           = 2024-06-15 13:15:26
+   ESTIMATED TIME OF ENTRY= 2024-06-15 12:20:00 --> Calculate Estimates
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = 
+   NEXT FIR               = 
+   NUM WAYPOINTS          = 9
+                            HLM (2024-06-15 11:59:25) ATO
+                            CABAI (2024-06-15 12:01:41) ETO
+                            CKG (2024-06-15 12:06:19) ETO --> (2024-06-15 12:05:45) ATO
+                            PATKU (2024-06-15 12:09:18) ETO
+                            GOMEL (2024-06-15 12:17:52) ETO
+                            ENSAV (2024-06-15 12:28:31) ETO
+                            TORUR (2024-06-15 12:47:51) ETO
+                            OVSET (2024-06-15 12:56:14) ETO
+                            PKU (2024-06-15 13:15:02) ETO
+
+2024-06-15 12:05:45 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17538637
+   ARRIVAL TIME           = 2024-06-15 13:15:26 --> 2024-06-15 13:14:52
+   ESTIMATED TIME OF ENTRY= Calculate Estimates --> 2024-06-15 12:20:00
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = 
+   NEXT FIR               = 
+   NUM WAYPOINTS          = 9
+                            HLM (2024-06-15 11:59:25) ATO
+                            CABAI (2024-06-15 12:01:41) ETO
+                            CKG (2024-06-15 12:05:45) ATO
+                            PATKU (2024-06-15 12:09:18) ETO --> (2024-06-15 12:08:44) ETO
+                            GOMEL (2024-06-15 12:17:52) ETO --> (2024-06-15 12:17:18) ETO
+                            ENSAV (2024-06-15 12:28:31) ETO --> (2024-06-15 12:27:57) ETO
+                            TORUR (2024-06-15 12:47:51) ETO --> (2024-06-15 12:47:17) ETO
+                            OVSET (2024-06-15 12:56:14) ETO --> (2024-06-15 12:55:40) ETO
+                            PKU (2024-06-15 13:15:02) ETO --> (2024-06-15 13:14:28) ETO
+
+2024-06-15 12:05:47 FDPS_FPL: System Flight Plan updated:
+   SFPI                   = 17544275
+   STATE                  = PENDING --> WAITING
+   TRAVEL TYPE            = DOMESTIC
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = SJV855
+   AIRCRAFT REG           = PKSJC
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIRW
+   SURVEILLANCE EQUIP     = EB1
+   SSR CODE               = Not Assigned --> 0117
+   EST. TIME OF ENTRY     = Unknown
+   CLEARED FLIGHT LEVEL   = Not Assigned
+   EXIT FLIGHT LEVEL      = 290
+   REQUESTED FLIGHT LEVEL = 290
+   CRUISING SPEED         = 451
+   ADEP                   = WIDD
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 11:40:00 --> 2024-06-15 12:05:00
+   SCHEDULED TIME         = 2024-06-15 11:40:00 --> 2024-06-15 12:05:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = 
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = NOT IDENTIFIED
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1S1S2L1O1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:47 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17544275
+   ARRIVAL TIME           = 2024-06-15 12:21:16 --> 2024-06-15 12:46:16
+   ESTIMATED TIME OF ENTRY= Unknown
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = 
+   NEXT FIR               = 
+   NUM WAYPOINTS          = 4
+                            PLB (2024-06-15 11:40:00) STO --> (2024-06-15 12:05:00) STO
+                            TOPUK (2024-06-15 11:50:27) STO --> (2024-06-15 12:15:27) STO
+                            UDOKO (2024-06-15 11:54:30) STO --> (2024-06-15 12:19:30) STO
+                            BUNIK (2024-06-15 12:07:50) STO --> (2024-06-15 12:32:50) STO
+
+2024-06-15 12:05:48 14: System Flight Plan updated:
+   SFPI                   = 17544006
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = DOMESTIC
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = PAS357
+   AIRCRAFT REG           = PKPWJ
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDE2E3FGHIRWY
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 6221
+   EST. TIME OF ENTRY     = 2024-06-15 11:53:00
+   CLEARED FLIGHT LEVEL   = 330
+   EXIT FLIGHT LEVEL      = 370
+   REQUESTED FLIGHT LEVEL = 370
+   CRUISING SPEED         = 459
+   ADEP                   = WIEE
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 11:54:00
+   SCHEDULED TIME         = 2024-06-15 11:54:00
+   OPERATOR INFO          = H090WX --> 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = WX 
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = 95
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:48 FDPS_SUR: System Flight Plan updated:
+   SFPI                   = 17544275
+   STATE                  = WAITING
+   TRAVEL TYPE            = DOMESTIC
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = SJV855
+   AIRCRAFT REG           = PKSJC
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIRW
+   SURVEILLANCE EQUIP     = EB1
+   SSR CODE               = 0117
+   EST. TIME OF ENTRY     = Unknown
+   CLEARED FLIGHT LEVEL   = Not Assigned
+   EXIT FLIGHT LEVEL      = 290
+   REQUESTED FLIGHT LEVEL = 290
+   CRUISING SPEED         = 451
+   ADEP                   = WIDD
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 12:05:00
+   SCHEDULED TIME         = 2024-06-15 12:05:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = 
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = NOT IDENTIFIED --> MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1S1S2L1O1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:49 18: System Flight Plan updated:
+   SFPI                   = 17543882
+   STATE                  = PENDING --> ACTIVE
+   TRAVEL TYPE            = OVERFLIGHT
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = QFA72
+   AIRCRAFT REG           = VHEBK
+   AIRCRAFT TYPE          = A332
+   WAKE TURBULANCE        = H
+   NAVIGATION EQUIP       = SDE2E3FGHIJ3J5M1RWYZ
+   SURVEILLANCE EQUIP     = LB1D1
+   SSR CODE               = Not Assigned --> 0122
+   EST. TIME OF ENTRY     = Unknown --> 2024-06-15 12:25:00
+   CLEARED FLIGHT LEVEL   = Not Assigned --> 330
+   EXIT FLIGHT LEVEL      = 390 --> 330
+   REQUESTED FLIGHT LEVEL = 390 --> 330
+   CRUISING SPEED         = 469
+   ADEP                   = WSSS
+   ADES                   = YPPH
+   DEPARTURE TIME         = 2024-06-15 11:35:00
+   SCHEDULED TIME         = 2024-06-15 11:35:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = 
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = NOT IDENTIFIED
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:49 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17543882
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= Unknown --> 2024-06-15 12:25:00
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = 
+   NEXT FIR               = 
+   NUM WAYPOINTS          = 5
+                            ANITO (2024-06-15 11:35:00) STO --> (2024-06-15 12:25:00) ETO
+                            PKP (2024-06-15 11:52:27) STO --> (2024-06-15 12:42:27) ETO
+                            IKIBU (2024-06-15 12:12:51) STO --> (2024-06-15 13:02:51) ETO
+                            LEMUS (2024-06-15 12:41:30) STO --> (2024-06-15 13:31:30) ETO
+                            LAMOB (2024-06-15 13:10:43) STO --> (2024-06-15 14:00:43) ETO
+
+2024-06-15 12:05:51 FDPS_SUR: System Flight Plan updated:
+   SFPI                   = 17543882
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = OVERFLIGHT
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = QFA72
+   AIRCRAFT REG           = VHEBK
+   AIRCRAFT TYPE          = A332
+   WAKE TURBULANCE        = H
+   NAVIGATION EQUIP       = SDE2E3FGHIJ3J5M1RWYZ
+   SURVEILLANCE EQUIP     = LB1D1
+   SSR CODE               = 0122
+   EST. TIME OF ENTRY     = 2024-06-15 12:25:00
+   CLEARED FLIGHT LEVEL   = 330
+   EXIT FLIGHT LEVEL      = 330
+   REQUESTED FLIGHT LEVEL = 330
+   CRUISING SPEED         = 469
+   ADEP                   = WSSS
+   ADES                   = YPPH
+   DEPARTURE TIME         = 2024-06-15 11:35:00
+   SCHEDULED TIME         = 2024-06-15 11:35:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = 
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = NOT IDENTIFIED --> MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:52 04: SFPL Sector Assignment updated:
+   SFPI           = 17541480
+   CURRENT SECTOR = LE --> TE
+   NEW SECTOR     = TE --> 
+   CWP IDENTIFIER = 09 --> 
+   HANDOVER STATE = SELECT --> IDLE
+   PASSED SECTORS = 1 --> 2
+
+2024-06-15 12:05:55 FDPS_SUR: System Flight Path updated:
+   SFPI                   = 17543599
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= 2024-06-15 12:06:00 --> Calculate Estimates
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WSJC
+   NEXT FIR               = WAAF
+   NUM WAYPOINTS          = 7
+                            IDBUD (2024-06-15 12:06:00) ETO --> (2024-06-15 12:05:55) ATO
+                            SURGA (2024-06-15 12:19:30) ETO
+                            GUKNO (2024-06-15 12:28:21) ETO
+                            LAKUN (2024-06-15 12:36:34) ETO
+                            MASRI (2024-06-15 12:41:45) ETO
+                            RAFIS (2024-06-15 12:46:35) ETO
+                            TAVIP (2024-06-15 12:59:26) ETO
+
+2024-06-15 12:05:55 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17543599
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= Calculate Estimates --> 2024-06-15 12:06:00
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WSJC
+   NEXT FIR               = WAAF
+   NUM WAYPOINTS          = 7
+                            IDBUD (2024-06-15 12:05:55) ATO
+                            SURGA (2024-06-15 12:19:30) ETO --> (2024-06-15 12:19:25) ETO
+                            GUKNO (2024-06-15 12:28:21) ETO --> (2024-06-15 12:28:16) ETO
+                            LAKUN (2024-06-15 12:36:34) ETO --> (2024-06-15 12:36:29) ETO
+                            MASRI (2024-06-15 12:41:45) ETO --> (2024-06-15 12:41:40) ETO
+                            RAFIS (2024-06-15 12:46:35) ETO --> (2024-06-15 12:46:30) ETO
+                            TAVIP (2024-06-15 12:59:26) ETO --> (2024-06-15 12:59:21) ETO
+
+2024-06-15 12:05:55 04: System Flight Plan updated:
+   SFPI                   = 17541480
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = INBOUND
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = SJV767
+   AIRCRAFT REG           = PKSAS
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SBDFGHIRWY
+   SURVEILLANCE EQUIP     = EB1
+   SSR CODE               = 4404
+   EST. TIME OF ENTRY     = 2024-06-15 11:39:00
+   CLEARED FLIGHT LEVEL   = 110 --> 40
+   EXIT FLIGHT LEVEL      = 220
+   REQUESTED FLIGHT LEVEL = 340
+   CRUISING SPEED         = 467
+   ADEP                   = WADL
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 10:42:00
+   SCHEDULED TIME         = 2024-06-15 10:42:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = SAG
+   ASSIGNED SPEED         = 260
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:56 12: System Flight Plan updated:
+   SFPI                   = 17543606
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = OUTBOUND
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = BTK6080
+   AIRCRAFT REG           = PKLAM
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIRW
+   SURVEILLANCE EQUIP     = EB1
+   SSR CODE               = 7163
+   EST. TIME OF ENTRY     = 2024-06-15 11:44:20
+   CLEARED FLIGHT LEVEL   = 330
+   EXIT FLIGHT LEVEL      = 330
+   REQUESTED FLIGHT LEVEL = 330
+   CRUISING SPEED         = 466
+   ADEP                   = WIII
+   ADES                   = YPPH
+   DEPARTURE TIME         = 2024-06-15 11:25:00
+   SCHEDULED TIME         = 2024-06-15 11:25:00
+   OPERATOR INFO          = IMA1F --> 132.1
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = IPK SAP/1252V
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1L1C1D1O1S2T1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:56 208: System Flight Plan updated:
+   SFPI                   = 17541767
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = OVERFLIGHT
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = QTR963
+   AIRCRAFT REG           = A7AOD
+   AIRCRAFT TYPE          = A35K
+   WAKE TURBULANCE        = H
+   NAVIGATION EQUIP       = SABDE1E3GHIJ1J3J4J5M1P2RWXYZ
+   SURVEILLANCE EQUIP     = LB2D1G1
+   SSR CODE               = 4134
+   EST. TIME OF ENTRY     = 2024-06-15 11:53:00
+   CLEARED FLIGHT LEVEL   = 340
+   EXIT FLIGHT LEVEL      = 340
+   REQUESTED FLIGHT LEVEL = 340
+   CRUISING SPEED         = 493
+   ADEP                   = WADD
+   ADES                   = OTHH
+   DEPARTURE TIME         = 2024-06-15 10:56:00
+   SCHEDULED TIME         = 2024-06-15 11:59:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = INV1242 --> INV1242V
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S2T1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:57 05: System Flight Plan updated:
+   SFPI                   = 17538938
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = INBOUND
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = BTK6275
+   AIRCRAFT REG           = PKBKO
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIRWY
+   SURVEILLANCE EQUIP     = EB1
+   SSR CODE               = 5033
+   EST. TIME OF ENTRY     = 2024-06-15 11:40:00
+   CLEARED FLIGHT LEVEL   = 70
+   EXIT FLIGHT LEVEL      = 360
+   REQUESTED FLIGHT LEVEL = 360
+   CRUISING SPEED         = 450
+   ADEP                   = WAMM
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 09:35:00
+   SCHEDULED TIME         = 2024-06-15 09:35:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = <SJV811
+   ASSIGNED SPEED         = Not Assigned --> 220
+   ASSIGNED HEADING       = 270
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1C1D1L1O1S2T1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:05:57 FDPS_SUR: System Flight Path updated:
+   SFPI                   = 17543504
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= 2024-06-15 11:16:00 --> Calculate Estimates
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WMKK
+   NEXT FIR               = YMMM
+   NUM WAYPOINTS          = 3
+                            0011N10110E (2024-06-15 11:32:34) ATO
+                            BKL (2024-06-15 12:04:34) ETO --> (2024-06-15 12:05:57) ATO
+                            XMX (2024-06-15 13:00:30) ETO
+
+2024-06-15 12:05:57 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17543504
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= Calculate Estimates --> 2024-06-15 11:16:00
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WMKK
+   NEXT FIR               = YMMM
+   NUM WAYPOINTS          = 3
+                            0011N10110E (2024-06-15 11:32:34) ATO
+                            BKL (2024-06-15 12:05:57) ATO
+                            XMX (2024-06-15 13:00:30) ETO --> (2024-06-15 13:01:53) ETO
+
+2024-06-15 12:06:00 FDPS_SCHED: System Flight Plan updated:
+   SFPI                   = 17543272
+   STATE                  = REDUNDANT --> TERMINATED
+   TRAVEL TYPE            = OVERFLIGHT
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = FFM2753
+   AIRCRAFT REG           = 9MMLF
+   AIRCRAFT TYPE          = B738
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIM3RWYZ
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 0444
+   EST. TIME OF ENTRY     = 2024-06-15 11:19:00
+   CLEARED FLIGHT LEVEL   = 380
+   EXIT FLIGHT LEVEL      = 380
+   REQUESTED FLIGHT LEVEL = 240
+   CRUISING SPEED         = 416
+   ADEP                   = WBGG
+   ADES                   = WMKP
+   DEPARTURE TIME         = 2024-06-15 10:57:00
+   SCHEDULED TIME         = 2024-06-15 11:05:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED --> AUTOMATIC
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = OSE/1140 VF380V
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1O1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:00 FDPS_SCHED: System Flight Plan updated:
+   SFPI                   = 17543666
+   STATE                  = ACTIVE --> REDUNDANT
+   TRAVEL TYPE            = OUTBOUND
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = GIA246
+   AIRCRAFT REG           = PKGFP
+   AIRCRAFT TYPE          = B738
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDE2E3FGHIRWYZ
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 2414
+   EST. TIME OF ENTRY     = 2024-06-15 10:54:34
+   CLEARED FLIGHT LEVEL   = 100
+   EXIT FLIGHT LEVEL      = 100
+   REQUESTED FLIGHT LEVEL = 270
+   CRUISING SPEED         = 420
+   ADEP                   = WIII
+   ADES                   = WAHS
+   DEPARTURE TIME         = 2024-06-15 10:30:00
+   SCHEDULED TIME         = 2024-06-15 10:30:00
+   OPERATOR INFO          = Q1008 R13
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = V
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1D1L1O1C1S1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:00 FDPS_DML: System Flight Plan erased:
+   SFPI                   = 17543272
+   STATE                  = TERMINATED
+   TRAVEL TYPE            = OVERFLIGHT
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = FFM2753
+   AIRCRAFT REG           = 9MMLF
+   AIRCRAFT TYPE          = B738
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIM3RWYZ
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 0444
+   EST. TIME OF ENTRY     = 2024-06-15 11:19:00
+   CLEARED FLIGHT LEVEL   = 380
+   EXIT FLIGHT LEVEL      = 380
+   REQUESTED FLIGHT LEVEL = 240
+   CRUISING SPEED         = 416
+   ADEP                   = WBGG
+   ADES                   = WMKP
+   DEPARTURE TIME         = 2024-06-15 10:57:00
+   SCHEDULED TIME         = 2024-06-15 11:05:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = AUTOMATIC
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = OSE/1140 VF380V
+   ASSIGEND SPEED         = Not Assigned
+   ASSIGEND HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1O1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:00 FDPS_SCHED: System Flight Path erased:
+   SFPI                   = 17543272
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= 2024-06-15 11:19:00
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WBGG
+   NEXT FIR               = WBFC
+   NUM WAYPOINTS          = 12
+                            AGOBA (2024-06-15 11:17:59) ATO
+                            SABIP (2024-06-15 11:23:06) ATO
+                            BOBOB (2024-06-15 11:29:04) ATO
+                            OMBAP (2024-06-15 11:33:39) ATO
+                            VERIN (2024-06-15 11:34:49) ATO
+                            OSERU (2024-06-15 11:40:25) ATO
+                            BOPVA (2024-06-15 11:44:25) ATO
+                            LIPRO (2024-06-15 11:44:41) ATO
+                            KILOT (2024-06-15 11:48:50) ATO
+                            OTLON (2024-06-15 11:51:51) ETO
+                            KETOD (2024-06-15 11:53:24) ETO
+                            VPK (2024-06-15 12:00:21) ETO
+
+2024-06-15 12:06:00 208: System Flight Plan updated:
+   SFPI                   = 17541775
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = OVERFLIGHT
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = SIA228
+   AIRCRAFT REG           = 9VSNA
+   AIRCRAFT TYPE          = B77W
+   WAKE TURBULANCE        = H
+   NAVIGATION EQUIP       = SDE1E2E3FGHIJ4J5M1P2RWXYZ
+   SURVEILLANCE EQUIP     = LB1D1
+   SSR CODE               = 1404
+   EST. TIME OF ENTRY     = 2024-06-15 11:53:00
+   CLEARED FLIGHT LEVEL   = 360
+   EXIT FLIGHT LEVEL      = 360
+   REQUESTED FLIGHT LEVEL = 360
+   CRUISING SPEED         = 485
+   ADEP                   = YMML
+   ADES                   = WSSS
+   DEPARTURE TIME         = 2024-06-15 05:52:00
+   SCHEDULED TIME         = 2024-06-15 11:56:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = UGE1243 --> UGE1243 V
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:04 13: System Flight Plan updated:
+   SFPI                   = 17543652
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = OVERFLIGHT
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = ANZ283
+   AIRCRAFT REG           = ZKOKR
+   AIRCRAFT TYPE          = B77W
+   WAKE TURBULANCE        = H
+   NAVIGATION EQUIP       = SDE1E2E3GHIJ1J3J4J5M1P2RWXYZ
+   SURVEILLANCE EQUIP     = LB1D1G1
+   SSR CODE               = 2276
+   EST. TIME OF ENTRY     = 2024-06-15 11:55:00
+   CLEARED FLIGHT LEVEL   = 330
+   EXIT FLIGHT LEVEL      = 330
+   REQUESTED FLIGHT LEVEL = 330
+   CRUISING SPEED         = 497
+   ADEP                   = WSSS
+   ADES                   = NZAA
+   DEPARTURE TIME         = 2024-06-15 11:38:00
+   SCHEDULED TIME         = 2024-06-15 11:42:00
+   OPERATOR INFO          = UPRINA
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        =  --> SPI
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S2T1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:05 FDPS_SUR: System Flight Path updated:
+   SFPI                   = 17541775
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= 2024-06-15 11:53:00 --> Calculate Estimates
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WAAF
+   NEXT FIR               = WSJC
+   NUM WAYPOINTS          = 7
+                            TAVIP (2024-06-15 11:54:02) ATO
+                            RAFIS (2024-06-15 12:06:13) ETO --> (2024-06-15 12:06:05) ATO
+                            MASRI (2024-06-15 12:10:48) ETO
+                            LAKUN (2024-06-15 12:15:43) ETO
+                            GUKNO (2024-06-15 12:23:30) ETO
+                            SURGA (2024-06-15 12:31:54) ETO
+                            UGEBO (2024-06-15 12:44:20) ETO
+
+2024-06-15 12:06:05 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17541775
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= Calculate Estimates --> 2024-06-15 11:53:00
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WAAF
+   NEXT FIR               = WSJC
+   NUM WAYPOINTS          = 7
+                            TAVIP (2024-06-15 11:54:02) ATO
+                            RAFIS (2024-06-15 12:06:05) ATO
+                            MASRI (2024-06-15 12:10:48) ETO --> (2024-06-15 12:10:40) ETO
+                            LAKUN (2024-06-15 12:15:43) ETO --> (2024-06-15 12:15:35) ETO
+                            GUKNO (2024-06-15 12:23:30) ETO --> (2024-06-15 12:23:22) ETO
+                            SURGA (2024-06-15 12:31:54) ETO --> (2024-06-15 12:31:46) ETO
+                            UGEBO (2024-06-15 12:44:20) ETO --> (2024-06-15 12:44:12) ETO
+
+2024-06-15 12:06:07 FDPS_SUR: System Flight Path updated:
+   SFPI                   = 17543056
+   ARRIVAL TIME           = 2024-06-15 13:09:59
+   ESTIMATED TIME OF ENTRY= 2024-06-15 11:22:34 --> Calculate Estimates
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = 
+   NEXT FIR               = 
+   NUM WAYPOINTS          = 9
+                            ISLIN (2024-06-15 11:26:43) ETO
+                            SAVIA (2024-06-15 11:29:20) ETO
+                            NIPIP (2024-06-15 11:33:18) ETO
+                            AGUSO (2024-06-15 11:36:59) ETO
+                            GOMEL (2024-06-15 11:36:06) ATO
+                            ENSAV (2024-06-15 11:46:30) ETO
+                            TORUR (2024-06-15 12:05:22) ETO --> (2024-06-15 12:06:07) ATO
+                            OVSET (2024-06-15 12:13:33) ETO
+                            AKPER (2024-06-15 12:49:13) ETO
+
+2024-06-15 12:06:07 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17543056
+   ARRIVAL TIME           = 2024-06-15 13:09:59 --> 2024-06-15 13:10:44
+   ESTIMATED TIME OF ENTRY= Calculate Estimates --> 2024-06-15 11:22:34
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = 
+   NEXT FIR               = 
+   NUM WAYPOINTS          = 9
+                            ISLIN (2024-06-15 11:26:43) ETO
+                            SAVIA (2024-06-15 11:29:20) ETO
+                            NIPIP (2024-06-15 11:33:18) ETO
+                            AGUSO (2024-06-15 11:36:59) ETO
+                            GOMEL (2024-06-15 11:36:06) ATO
+                            ENSAV (2024-06-15 11:46:30) ETO
+                            TORUR (2024-06-15 12:06:07) ATO
+                            OVSET (2024-06-15 12:13:33) ETO --> (2024-06-15 12:14:18) ETO
+                            AKPER (2024-06-15 12:49:13) ETO --> (2024-06-15 12:49:58) ETO
+
+2024-06-15 12:06:07 208: System Flight Plan updated:
+   SFPI                   = 17543217
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = OVERFLIGHT
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = AXM5229
+   AIRCRAFT REG           = 9MRAU
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIRWY
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 0434
+   EST. TIME OF ENTRY     = 2024-06-15 12:11:00
+   CLEARED FLIGHT LEVEL   = 320
+   EXIT FLIGHT LEVEL      = 380
+   REQUESTED FLIGHT LEVEL = 340
+   CRUISING SPEED         = 436
+   ADEP                   = WBGG
+   ADES                   = WMKK
+   DEPARTURE TIME         = 2024-06-15 11:50:00
+   SCHEDULED TIME         = 2024-06-15 11:59:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        =  --> 10R
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S2T1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:08 101: System Flight Plan updated:
+   SFPI                   = 17538940
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = DOMESTIC
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = GIA119
+   AIRCRAFT REG           = PKGFS
+   AIRCRAFT TYPE          = B738
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDE2E3FGHIRWY
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 6443
+   EST. TIME OF ENTRY     = 2024-06-15 11:28:00
+   CLEARED FLIGHT LEVEL   = 30 --> 20
+   EXIT FLIGHT LEVEL      = 270
+   REQUESTED FLIGHT LEVEL = 250
+   CRUISING SPEED         = 428
+   ADEP                   = WIPP
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 11:15:00
+   SCHEDULED TIME         = 2024-06-15 11:15:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = PRI 24
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1C1D1L1O1S1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:10 04: SFPL Sector Assignment updated:
+   SFPI           = 17543346
+   CURRENT SECTOR = TE
+   NEW SECTOR     =  --> AN
+   CWP IDENTIFIER =  --> 04
+   HANDOVER STATE = IDLE --> SELECT
+   PASSED SECTORS = 2
+
+2024-06-15 12:06:11 FDPS_SUR: System Flight Path updated:
+   SFPI                   = 17543472
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= 2024-06-15 11:42:00 --> Calculate Estimates
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WBSB
+   NEXT FIR               = WSJC
+   NUM WAYPOINTS          = 6
+                            KAMIN (2024-06-15 11:41:36) ATO
+                            SABIP (2024-06-15 11:50:05) ATO
+                            ESPIT (2024-06-15 11:53:17) ATO
+                            OBLOT (2024-06-15 11:59:05) ATO
+                            VENUN (2024-06-15 12:02:43) ATO
+                            TOMAN (2024-06-15 12:06:24) ETO --> (2024-06-15 12:06:11) ATO
+
+2024-06-15 12:06:11 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17543472
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= Calculate Estimates --> 2024-06-15 11:42:00
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WBSB
+   NEXT FIR               = WSJC
+   NUM WAYPOINTS          = 6
+                            KAMIN (2024-06-15 11:41:36) ATO
+                            SABIP (2024-06-15 11:50:05) ATO
+                            ESPIT (2024-06-15 11:53:17) ATO
+                            OBLOT (2024-06-15 11:59:05) ATO
+                            VENUN (2024-06-15 12:02:43) ATO
+                            TOMAN (2024-06-15 12:06:11) ATO
+
+2024-06-15 12:06:12 FDPS_FPL: New System Flight Plan inserted:
+   SFPI                   = 17544463
+   STATE                  = DORMANT
+   TRAVEL TYPE            = OUTBOUND
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = AWQ814
+   AIRCRAFT REG           = PKAZY
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIWRY
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = Not Assigned
+   EST. TIME OF ENTRY     = Unknown
+   CLEARED FLIGHT LEVEL   = Not Assigned
+   EXIT FLIGHT LEVEL      = 370
+   REQUESTED FLIGHT LEVEL = 350
+   CRUISING SPEED         = 446
+   ADEP                   = WIII
+   ADES                   = WADD
+   DEPARTURE TIME         = 2024-06-16 10:35:00
+   SCHEDULED TIME         = 2024-06-16 10:35:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = 
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGEND HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = NOT IDENTIFIED
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPECIAL APPROACH       = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1O1S2
+   FPL FORMAT             = 2012
+
+
+2024-06-15 12:06:12 FDPS_FPL: New System Flight Path inserted:
+   SFPI                   = 17544463
+   ARRIVAL TIME           = Unknown
+   EST. TIME OF ENTRY     = Unknown
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = 
+   NEXT FIR               = WAAF
+   NUM WAYPOINTS          = 2
+                            CA (2024-06-16 10:56:17) STO
+                            ANY (2024-06-16 11:11:02) STO
+
+2024-06-15 12:06:14 101: SFPL Sector Assignment updated:
+   SFPI           = 17543346
+   CURRENT SECTOR = TE --> AN
+   NEW SECTOR     = AN --> 
+   CWP IDENTIFIER = 04 --> 
+   HANDOVER STATE = SELECT --> IDLE
+   PASSED SECTORS = 2 --> 3
+
+2024-06-15 12:06:14 FDPS_SUR: System Flight Path updated:
+   SFPI                   = 17542888
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= 2024-06-15 11:59:00 --> Calculate Estimates
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WSSS
+   NEXT FIR               = WSJC
+   NUM WAYPOINTS          = 7
+                            UXEDA (2024-06-15 11:58:49) ATO
+                            VERIN (2024-06-15 12:04:35) ATO
+                            ISDEB (2024-06-15 12:06:15) ETO --> (2024-06-15 12:06:14) ATO
+                            UPLAM (2024-06-15 12:07:09) ETO
+                            LUSMO (2024-06-15 12:13:36) ETO
+                            RILRI (2024-06-15 12:28:30) ETO
+                            LAGOT (2024-06-15 13:00:58) ETO
+
+2024-06-15 12:06:14 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17542888
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= Calculate Estimates --> 2024-06-15 11:59:00
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WSSS
+   NEXT FIR               = WSJC
+   NUM WAYPOINTS          = 7
+                            UXEDA (2024-06-15 11:58:49) ATO
+                            VERIN (2024-06-15 12:04:35) ATO
+                            ISDEB (2024-06-15 12:06:14) ATO
+                            UPLAM (2024-06-15 12:07:09) ETO --> (2024-06-15 12:07:08) ETO
+                            LUSMO (2024-06-15 12:13:36) ETO --> (2024-06-15 12:13:35) ETO
+                            RILRI (2024-06-15 12:28:30) ETO --> (2024-06-15 12:28:29) ETO
+                            LAGOT (2024-06-15 13:00:58) ETO --> (2024-06-15 13:00:57) ETO
+
+2024-06-15 12:06:15 208: System Flight Plan updated:
+   SFPI                   = 17543217
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = OVERFLIGHT
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = AXM5229
+   AIRCRAFT REG           = 9MRAU
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIRWY
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 0434
+   EST. TIME OF ENTRY     = 2024-06-15 12:11:00
+   CLEARED FLIGHT LEVEL   = 320
+   EXIT FLIGHT LEVEL      = 380
+   REQUESTED FLIGHT LEVEL = 340
+   CRUISING SPEED         = 436
+   ADEP                   = WBGG
+   ADES                   = WMKK
+   DEPARTURE TIME         = 2024-06-15 11:50:00
+   SCHEDULED TIME         = 2024-06-15 11:59:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = 10R --> OSE/10R
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S2T1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:20 FDPS_SUR: System Flight Path updated:
+   SFPI                   = 17541404
+   ARRIVAL TIME           = 2024-06-15 12:18:31
+   ESTIMATED TIME OF ENTRY= 2024-06-15 10:59:00 --> Calculate Estimates
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = 
+   NEXT FIR               = 
+   NUM WAYPOINTS          = 10
+                            BEPNO (2024-06-15 11:15:23) ATO
+                            SOVMI (2024-06-15 11:22:53) ETO
+                            TORUR (2024-06-15 11:34:13) ATO
+                            TOPUK (2024-06-15 11:50:04) ATO
+                            UDOKO (2024-06-15 11:53:19) ATO
+                            BUNIK (2024-06-15 12:06:28) ETO --> (2024-06-15 12:06:20) ATO
+                            RAMAL (2024-06-15 12:09:10) ETO
+                            LUVAX (2024-06-15 12:11:44) ETO
+                            BIBMI (2024-06-15 12:13:39) ETO
+                            PRIOK (2024-06-15 12:15:33) ETO
+
+2024-06-15 12:06:20 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17541404
+   ARRIVAL TIME           = 2024-06-15 12:18:31 --> 2024-06-15 12:18:23
+   ESTIMATED TIME OF ENTRY= Calculate Estimates --> 2024-06-15 10:59:00
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = 
+   NEXT FIR               = 
+   NUM WAYPOINTS          = 10
+                            BEPNO (2024-06-15 11:15:23) ATO
+                            SOVMI (2024-06-15 11:22:53) ETO
+                            TORUR (2024-06-15 11:34:13) ATO
+                            TOPUK (2024-06-15 11:50:04) ATO
+                            UDOKO (2024-06-15 11:53:19) ATO
+                            BUNIK (2024-06-15 12:06:20) ATO
+                            RAMAL (2024-06-15 12:09:10) ETO --> (2024-06-15 12:09:02) ETO
+                            LUVAX (2024-06-15 12:11:44) ETO --> (2024-06-15 12:11:36) ETO
+                            BIBMI (2024-06-15 12:13:39) ETO --> (2024-06-15 12:13:31) ETO
+                            PRIOK (2024-06-15 12:15:33) ETO --> (2024-06-15 12:15:25) ETO
+
+2024-06-15 12:06:21 12: System Flight Plan updated:
+   SFPI                   = 17538868
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = INBOUND
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = BTK7530
+   AIRCRAFT REG           = PKLUW
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIRW
+   SURVEILLANCE EQUIP     = EB1
+   SSR CODE               = 4646
+   EST. TIME OF ENTRY     = 2024-06-15 11:46:00
+   CLEARED FLIGHT LEVEL   = 220
+   EXIT FLIGHT LEVEL      = 220
+   REQUESTED FLIGHT LEVEL = 280
+   CRUISING SPEED         = 419
+   ADEP                   = WAHI
+   ADES                   = WIHH
+   DEPARTURE TIME         = 2024-06-15 11:30:00
+   SCHEDULED TIME         = 2024-06-15 11:30:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = 
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = 330 --> Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1C1D1L1O1S2T1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:23 101: System Flight Plan updated:
+   SFPI                   = 17543346
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = INBOUND
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = GIA435
+   AIRCRAFT REG           = PKGFV
+   AIRCRAFT TYPE          = B738
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDE2E3FGHIRWYZ
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 4406
+   EST. TIME OF ENTRY     = 2024-06-15 11:38:00
+   CLEARED FLIGHT LEVEL   = 70 --> 40
+   EXIT FLIGHT LEVEL      = 220
+   REQUESTED FLIGHT LEVEL = 340
+   CRUISING SPEED         = 454
+   ADEP                   = WADL
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 10:39:00
+   SCHEDULED TIME         = 2024-06-15 11:40:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = RUT    
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1D1L1O1C1S1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:23 208: System Flight Plan updated:
+   SFPI                   = 17543024
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = OVERFLIGHT
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = AXM5871
+   AIRCRAFT REG           = 9MAGT
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIRWY
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 0442
+   EST. TIME OF ENTRY     = 2024-06-15 12:21:00
+   CLEARED FLIGHT LEVEL   = 340
+   EXIT FLIGHT LEVEL      = 340
+   REQUESTED FLIGHT LEVEL = 340
+   CRUISING SPEED         = 442
+   ADEP                   = WBGS
+   ADES                   = WMKK
+   DEPARTURE TIME         = 2024-06-15 11:48:00
+   SCHEDULED TIME         = 2024-06-15 12:20:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        =  --> 20R
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S2T1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:24 12: System Flight Plan updated:
+   SFPI                   = 17538868
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = INBOUND
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = BTK7530
+   AIRCRAFT REG           = PKLUW
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIRW
+   SURVEILLANCE EQUIP     = EB1
+   SSR CODE               = 4646
+   EST. TIME OF ENTRY     = 2024-06-15 11:46:00
+   CLEARED FLIGHT LEVEL   = 220
+   EXIT FLIGHT LEVEL      = 220
+   REQUESTED FLIGHT LEVEL = 280
+   CRUISING SPEED         = 419
+   ADEP                   = WAHI
+   ADES                   = WIHH
+   DEPARTURE TIME         = 2024-06-15 11:30:00
+   SCHEDULED TIME         = 2024-06-15 11:30:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        =  --> KIM
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1C1D1L1O1S2T1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:24 18: System Flight Path updated:
+   SFPI                   = 17544275
+   ARRIVAL TIME           = 2024-06-15 12:46:16
+   ESTIMATED TIME OF ENTRY= Unknown --> Calculate Estimates
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = 
+   NEXT FIR               = 
+   NUM WAYPOINTS          = 4 --> 5
+                            ENPUX (2024-06-15 12:05:00) STO --> (Unknown) 
+                            PLB (2024-06-15 12:15:27) STO --> (2024-06-15 12:05:00) STO
+                            TOPUK (2024-06-15 12:19:30) STO --> (2024-06-15 12:15:27) STO
+                            UDOKO (2024-06-15 12:32:50) STO --> (2024-06-15 12:19:30) STO
+                            BUNIK (Unknown)  --> (2024-06-15 12:32:50) STO
+
+2024-06-15 12:06:24 18: System Flight Plan updated:
+   SFPI                   = 17544275
+   STATE                  = WAITING --> ACTIVE
+   TRAVEL TYPE            = DOMESTIC
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = SJV855
+   AIRCRAFT REG           = PKSJC
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIRW
+   SURVEILLANCE EQUIP     = EB1
+   SSR CODE               = 0117
+   EST. TIME OF ENTRY     = Unknown --> 2024-06-15 12:24:00
+   CLEARED FLIGHT LEVEL   = Not Assigned --> 270
+   EXIT FLIGHT LEVEL      = 290 --> 270
+   REQUESTED FLIGHT LEVEL = 290 --> 270
+   CRUISING SPEED         = 451
+   ADEP                   = WIDD
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 12:05:00
+   SCHEDULED TIME         = 2024-06-15 12:05:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = 
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1S1S2L1O1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:24 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17544275
+   ARRIVAL TIME           = 2024-06-15 12:46:16 --> 2024-06-15 13:05:24
+   ESTIMATED TIME OF ENTRY= Calculate Estimates --> Unknown
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = 
+   NEXT FIR               = 
+   NUM WAYPOINTS          = 5
+                            ENPUX (Unknown)  --> (2024-06-15 12:05:00) STO
+                            PLB (2024-06-15 12:05:00) STO --> (2024-06-15 12:29:27) STO
+                            TOPUK (2024-06-15 12:15:27) STO --> (2024-06-15 12:35:17) STO
+                            UDOKO (2024-06-15 12:19:30) STO --> (2024-06-15 12:38:38) STO
+                            BUNIK (2024-06-15 12:32:50) STO --> (2024-06-15 12:51:58) STO
+
+2024-06-15 12:06:24 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17544275
+   ARRIVAL TIME           = 2024-06-15 13:05:24 --> 2024-06-15 13:24:24
+   ESTIMATED TIME OF ENTRY= Unknown --> 2024-06-15 12:24:00
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = 
+   NEXT FIR               = 
+   NUM WAYPOINTS          = 5
+                            ENPUX (2024-06-15 12:05:00) STO --> (2024-06-15 12:24:00) ETO
+                            PLB (2024-06-15 12:29:27) STO --> (2024-06-15 12:48:27) ETO
+                            TOPUK (2024-06-15 12:35:17) STO --> (2024-06-15 12:54:17) ETO
+                            UDOKO (2024-06-15 12:38:38) STO --> (2024-06-15 12:57:38) ETO
+                            BUNIK (2024-06-15 12:51:58) STO --> (2024-06-15 13:10:58) ETO
+
+2024-06-15 12:06:24 FDPS_SCHED: System Flight Path updated:
+   SFPI                   = 17544275
+   ARRIVAL TIME           = 2024-06-15 13:24:24 --> 2024-06-15 12:46:16
+   ESTIMATED TIME OF ENTRY= 2024-06-15 12:24:00 --> Calculate Estimates
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = 
+   NEXT FIR               = 
+   NUM WAYPOINTS          = 5 --> 9
+                            ENPUX (2024-06-15 12:24:00) ETO --> (Unknown) 
+                            PLB (2024-06-15 12:48:27) ETO --> (2024-06-15 12:05:00) STO
+                            TOPUK (2024-06-15 12:54:17) ETO --> (2024-06-15 12:15:27) STO
+                            UDOKO (2024-06-15 12:57:38) ETO --> (2024-06-15 12:19:30) STO
+                            BUNIK (2024-06-15 13:10:58) ETO --> (2024-06-15 12:32:50) STO
+                            RAMAL (Unknown) 
+                            LUVAX (Unknown) 
+                            BIBMI (Unknown) 
+                            PRIOK (Unknown) 
+
+2024-06-15 12:06:24 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17544275
+   ARRIVAL TIME           = 2024-06-15 12:46:16 --> 2024-06-15 13:23:12
+   ESTIMATED TIME OF ENTRY= Calculate Estimates --> 2024-06-15 12:24:00
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = 
+   NEXT FIR               = 
+   NUM WAYPOINTS          = 9
+                            ENPUX (Unknown)  --> (2024-06-15 12:24:00) ETO
+                            PLB (2024-06-15 12:05:00) STO --> (2024-06-15 12:48:27) ETO
+                            TOPUK (2024-06-15 12:15:27) STO --> (2024-06-15 12:54:17) ETO
+                            UDOKO (2024-06-15 12:19:30) STO --> (2024-06-15 12:57:38) ETO
+                            BUNIK (2024-06-15 12:32:50) STO --> (2024-06-15 13:10:58) ETO
+                            RAMAL (Unknown)  --> (2024-06-15 13:13:42) ETO
+                            LUVAX (Unknown)  --> (2024-06-15 13:16:19) ETO
+                            BIBMI (Unknown)  --> (2024-06-15 13:18:16) ETO
+                            PRIOK (Unknown)  --> (2024-06-15 13:20:12) ETO
+
+2024-06-15 12:06:24 19: System Flight Plan updated:
+   SFPI                   = 17543840
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = DOMESTIC
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = PAS325
+   AIRCRAFT REG           = PKPWK
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDE2E3FGHIRWY
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 6253
+   EST. TIME OF ENTRY     = 2024-06-15 11:09:02
+   CLEARED FLIGHT LEVEL   = 370 --> 220
+   EXIT FLIGHT LEVEL      = 370
+   REQUESTED FLIGHT LEVEL = 370
+   CRUISING SPEED         = 458
+   ADEP                   = WIBB
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 11:08:00
+   SCHEDULED TIME         = 2024-06-15 11:08:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = BUN
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:26 101: System Flight Plan updated:
+   SFPI                   = 17543346
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = INBOUND
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = GIA435
+   AIRCRAFT REG           = PKGFV
+   AIRCRAFT TYPE          = B738
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDE2E3FGHIRWYZ
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 4406
+   EST. TIME OF ENTRY     = 2024-06-15 11:38:00
+   CLEARED FLIGHT LEVEL   = 40
+   EXIT FLIGHT LEVEL      = 220
+   REQUESTED FLIGHT LEVEL = 340
+   CRUISING SPEED         = 454
+   ADEP                   = WADL
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 10:39:00
+   SCHEDULED TIME         = 2024-06-15 11:40:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = RUT     --> L
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1D1L1O1C1S1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:26 205: System Flight Plan updated:
+   SFPI                   = 17541963
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = OUTBOUND
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = QTR957
+   AIRCRAFT REG           = A7ALM
+   AIRCRAFT TYPE          = A359
+   WAKE TURBULANCE        = H
+   NAVIGATION EQUIP       = SABDE1E3GHIJ1J3J4J5M1P2RWXYZ
+   SURVEILLANCE EQUIP     = LB2D1G1
+   SSR CODE               = 2353
+   EST. TIME OF ENTRY     = 2024-06-15 11:42:11
+   CLEARED FLIGHT LEVEL   = 340
+   EXIT FLIGHT LEVEL      = 380
+   REQUESTED FLIGHT LEVEL = 380
+   CRUISING SPEED         = 494
+   ADEP                   = WIII
+   ADES                   = OTHH
+   DEPARTURE TIME         = 2024-06-15 11:30:00
+   SCHEDULED TIME         = 2024-06-15 11:30:00
+   OPERATOR INFO          = RIM1F
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = WX --> WX NIS1153
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = 290
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S1T1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:27 FDPS_SUR: System Flight Path updated:
+   SFPI                   = 17543138
+   ARRIVAL TIME           = 2024-06-15 12:18:59
+   ESTIMATED TIME OF ENTRY= 2024-06-15 11:09:00 --> Calculate Estimates
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WMKK
+   NEXT FIR               = 
+   NUM WAYPOINTS          = 12
+                            SUKRI (2024-06-15 11:08:21) ATO
+                            BOBAG (2024-06-15 11:13:25) ATO
+                            UXATI (2024-06-15 11:18:58) ATO
+                            POSOG (2024-06-15 11:21:35) ATO
+                            ANITO (2024-06-15 11:28:44) ATO
+                            PKP (2024-06-15 11:46:58) ETO
+                            BOSLO (2024-06-15 11:56:38) ATO
+                            BUNIK (2024-06-15 12:06:43) ETO --> (2024-06-15 12:06:27) ATO
+                            RAMAL (2024-06-15 12:09:28) ETO
+                            LUVAX (2024-06-15 12:12:05) ETO
+                            BIBMI (2024-06-15 12:14:02) ETO
+                            PRIOK (2024-06-15 12:15:58) ETO
+
+2024-06-15 12:06:27 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17543138
+   ARRIVAL TIME           = 2024-06-15 12:18:59 --> 2024-06-15 12:18:43
+   ESTIMATED TIME OF ENTRY= Calculate Estimates --> 2024-06-15 11:09:00
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WMKK
+   NEXT FIR               = 
+   NUM WAYPOINTS          = 12
+                            SUKRI (2024-06-15 11:08:21) ATO
+                            BOBAG (2024-06-15 11:13:25) ATO
+                            UXATI (2024-06-15 11:18:58) ATO
+                            POSOG (2024-06-15 11:21:35) ATO
+                            ANITO (2024-06-15 11:28:44) ATO
+                            PKP (2024-06-15 11:46:58) ETO
+                            BOSLO (2024-06-15 11:56:38) ATO
+                            BUNIK (2024-06-15 12:06:27) ATO
+                            RAMAL (2024-06-15 12:09:28) ETO --> (2024-06-15 12:09:12) ETO
+                            LUVAX (2024-06-15 12:12:05) ETO --> (2024-06-15 12:11:49) ETO
+                            BIBMI (2024-06-15 12:14:02) ETO --> (2024-06-15 12:13:46) ETO
+                            PRIOK (2024-06-15 12:15:58) ETO --> (2024-06-15 12:15:42) ETO
+
+2024-06-15 12:06:29 213: System Flight Plan updated:
+   SFPI                   = 17544006
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = DOMESTIC
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = PAS357
+   AIRCRAFT REG           = PKPWJ
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDE2E3FGHIRWY
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 6221
+   EST. TIME OF ENTRY     = 2024-06-15 11:53:00
+   CLEARED FLIGHT LEVEL   = 330 --> 370
+   EXIT FLIGHT LEVEL      = 370
+   REQUESTED FLIGHT LEVEL = 370
+   CRUISING SPEED         = 459
+   ADEP                   = WIEE
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 11:54:00
+   SCHEDULED TIME         = 2024-06-15 11:54:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = WX 
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = 95
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:29 22: System Flight Plan updated:
+   SFPI                   = 17543852
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = OUTBOUND
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = MAS722
+   AIRCRAFT REG           = 9MMSE
+   AIRCRAFT TYPE          = B738
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIJ3J7M3RWYZ
+   SURVEILLANCE EQUIP     = LB1D1
+   SSR CODE               = 2337
+   EST. TIME OF ENTRY     = 2024-06-15 11:52:36
+   CLEARED FLIGHT LEVEL   = 360
+   EXIT FLIGHT LEVEL      = 360
+   REQUESTED FLIGHT LEVEL = 370
+   CRUISING SPEED         = 434
+   ADEP                   = WIII
+   ADES                   = WMKK
+   DEPARTURE TIME         = 2024-06-15 11:25:00
+   SCHEDULED TIME         = 2024-06-15 11:25:00
+   OPERATOR INFO          = DOL2D
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = PLB 
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned --> 325
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S2T1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:30 205: System Flight Plan updated:
+   SFPI                   = 17541963
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = OUTBOUND
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = QTR957
+   AIRCRAFT REG           = A7ALM
+   AIRCRAFT TYPE          = A359
+   WAKE TURBULANCE        = H
+   NAVIGATION EQUIP       = SABDE1E3GHIJ1J3J4J5M1P2RWXYZ
+   SURVEILLANCE EQUIP     = LB2D1G1
+   SSR CODE               = 2353
+   EST. TIME OF ENTRY     = 2024-06-15 11:42:11
+   CLEARED FLIGHT LEVEL   = 340
+   EXIT FLIGHT LEVEL      = 380
+   REQUESTED FLIGHT LEVEL = 380
+   CRUISING SPEED         = 494
+   ADEP                   = WIII
+   ADES                   = OTHH
+   DEPARTURE TIME         = 2024-06-15 11:30:00
+   SCHEDULED TIME         = 2024-06-15 11:30:00
+   OPERATOR INFO          = RIM1F
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = WX NIS1153 --> WX NIS1152
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = 290
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S1T1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:31 208: System Flight Plan updated:
+   SFPI                   = 17543217
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = OVERFLIGHT
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = AXM5229
+   AIRCRAFT REG           = 9MRAU
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIRWY
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 0434
+   EST. TIME OF ENTRY     = 2024-06-15 12:11:00
+   CLEARED FLIGHT LEVEL   = 320
+   EXIT FLIGHT LEVEL      = 380
+   REQUESTED FLIGHT LEVEL = 340
+   CRUISING SPEED         = 436
+   ADEP                   = WBGG
+   ADES                   = WMKK
+   DEPARTURE TIME         = 2024-06-15 11:50:00
+   SCHEDULED TIME         = 2024-06-15 11:59:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = OSE/10R --> SAB OSE/
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S2T1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:32 05: SFPL Sector Assignment updated:
+   SFPI           = 17543119
+   CURRENT SECTOR = TW
+   NEW SECTOR     =  --> AN
+   CWP IDENTIFIER =  --> 05
+   HANDOVER STATE = IDLE --> SELECT
+   PASSED SECTORS = 1
+
+2024-06-15 12:06:32 101: SFPL Sector Assignment updated:
+   SFPI           = 17543168
+   CURRENT SECTOR = AN
+   NEW SECTOR     =  --> TWR
+   CWP IDENTIFIER =  --> 101
+   HANDOVER STATE = IDLE --> SELECT
+   PASSED SECTORS = 1
+
+2024-06-15 12:06:33 FDPS_SUR: System Flight Path updated:
+   SFPI                   = 17543783
+   ARRIVAL TIME           = 2024-06-15 13:13:56
+   ESTIMATED TIME OF ENTRY= 2024-06-15 12:00:00 --> Calculate Estimates
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WMKK
+   NEXT FIR               = 
+   NUM WAYPOINTS          = 12
+                            SUKRI (2024-06-15 12:01:28) ATO
+                            BOBAG (2024-06-15 12:06:24) ETO --> (2024-06-15 12:06:33) ATO
+                            UXATI (2024-06-15 12:11:54) ETO
+                            POSOG (2024-06-15 12:14:28) ETO
+                            ANITO (2024-06-15 12:21:38) ETO
+                            PKP (2024-06-15 12:39:49) ETO
+                            BOSLO (2024-06-15 12:51:39) ETO
+                            BUNIK (2024-06-15 13:01:42) ETO
+                            RAMAL (2024-06-15 13:04:26) ETO
+                            LUVAX (2024-06-15 13:07:03) ETO
+                            BIBMI (2024-06-15 13:09:00) ETO
+                            PRIOK (2024-06-15 13:10:56) ETO
+
+2024-06-15 12:06:33 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17543783
+   ARRIVAL TIME           = 2024-06-15 13:13:56 --> 2024-06-15 13:14:05
+   ESTIMATED TIME OF ENTRY= Calculate Estimates --> 2024-06-15 12:00:00
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WMKK
+   NEXT FIR               = 
+   NUM WAYPOINTS          = 12
+                            SUKRI (2024-06-15 12:01:28) ATO
+                            BOBAG (2024-06-15 12:06:33) ATO
+                            UXATI (2024-06-15 12:11:54) ETO --> (2024-06-15 12:12:03) ETO
+                            POSOG (2024-06-15 12:14:28) ETO --> (2024-06-15 12:14:37) ETO
+                            ANITO (2024-06-15 12:21:38) ETO --> (2024-06-15 12:21:47) ETO
+                            PKP (2024-06-15 12:39:49) ETO --> (2024-06-15 12:39:58) ETO
+                            BOSLO (2024-06-15 12:51:39) ETO --> (2024-06-15 12:51:48) ETO
+                            BUNIK (2024-06-15 13:01:42) ETO --> (2024-06-15 13:01:51) ETO
+                            RAMAL (2024-06-15 13:04:26) ETO --> (2024-06-15 13:04:35) ETO
+                            LUVAX (2024-06-15 13:07:03) ETO --> (2024-06-15 13:07:12) ETO
+                            BIBMI (2024-06-15 13:09:00) ETO --> (2024-06-15 13:09:09) ETO
+                            PRIOK (2024-06-15 13:10:56) ETO --> (2024-06-15 13:11:05) ETO
+
+2024-06-15 12:06:36 17: System Flight Plan updated:
+   SFPI                   = 17542273
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = OVERFLIGHT
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = QFA1
+   AIRCRAFT REG           = VHOQB
+   AIRCRAFT TYPE          = A388
+   WAKE TURBULANCE        = H
+   NAVIGATION EQUIP       = SADE2E3FGHIJ4J5M1P2RWYZ
+   SURVEILLANCE EQUIP     = LB1D1
+   SSR CODE               = 1357
+   EST. TIME OF ENTRY     = 2024-06-15 11:32:00
+   CLEARED FLIGHT LEVEL   = 380
+   EXIT FLIGHT LEVEL      = 380
+   REQUESTED FLIGHT LEVEL = 400
+   CRUISING SPEED         = 481
+   ADEP                   = YSSY
+   ADES                   = WSSS
+   DEPARTURE TIME         = 2024-06-15 05:07:00
+   SCHEDULED TIME         = 2024-06-15 11:36:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = D UGE/1217V --> UGE/1217V
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:36 22: System Flight Plan updated:
+   SFPI                   = 17543852
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = OUTBOUND
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = MAS722
+   AIRCRAFT REG           = 9MMSE
+   AIRCRAFT TYPE          = B738
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIJ3J7M3RWYZ
+   SURVEILLANCE EQUIP     = LB1D1
+   SSR CODE               = 2337
+   EST. TIME OF ENTRY     = 2024-06-15 11:52:36
+   CLEARED FLIGHT LEVEL   = 360
+   EXIT FLIGHT LEVEL      = 360
+   REQUESTED FLIGHT LEVEL = 370
+   CRUISING SPEED         = 434
+   ADEP                   = WIII
+   ADES                   = WMKK
+   DEPARTURE TIME         = 2024-06-15 11:25:00
+   SCHEDULED TIME         = 2024-06-15 11:25:00
+   OPERATOR INFO          = DOL2D
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = PLB  --> 
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = 325
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S2T1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:36 FDPS_FPL: System Flight Plan updated:
+   SFPI                   = 17543205
+   STATE                  = PENDING --> WAITING
+   TRAVEL TYPE            = OVERFLIGHT
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = UAE369
+   AIRCRAFT REG           = A6EOX
+   AIRCRAFT TYPE          = A388
+   WAKE TURBULANCE        = J
+   NAVIGATION EQUIP       = SADE3GHIJ1J2J3J4J5M1P2RWXYZ
+   SURVEILLANCE EQUIP     = LB1D1
+   SSR CODE               = Not Assigned --> 4104
+   EST. TIME OF ENTRY     = Unknown
+   CLEARED FLIGHT LEVEL   = Not Assigned
+   EXIT FLIGHT LEVEL      = 360
+   REQUESTED FLIGHT LEVEL = 360
+   CRUISING SPEED         = 491
+   ADEP                   = WADD
+   ADES                   = OMDB
+   DEPARTURE TIME         = 2024-06-15 11:40:00 --> 2024-06-15 12:06:00
+   SCHEDULED TIME         = 2024-06-15 12:43:00 --> 2024-06-15 13:09:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = 
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = NOT IDENTIFIED
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:36 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17543205
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= Unknown
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WADD
+   NEXT FIR               = WSJC
+   NUM WAYPOINTS          = 12
+                            TAVIP (2024-06-15 12:43:00) STO --> (2024-06-15 13:09:00) STO
+                            RAFIS (2024-06-15 12:55:02) STO --> (2024-06-15 13:21:02) STO
+                            MASRI (2024-06-15 12:59:34) STO --> (2024-06-15 13:25:34) STO
+                            LAKUN (2024-06-15 13:04:26) STO --> (2024-06-15 13:30:26) STO
+                            GUKNO (2024-06-15 13:12:07) STO --> (2024-06-15 13:38:07) STO
+                            SURGA (2024-06-15 13:20:25) STO --> (2024-06-15 13:46:25) STO
+                            ATPOM (2024-06-15 13:31:47) STO --> (2024-06-15 13:57:47) STO
+                            INVUB (2024-06-15 13:32:35) STO --> (2024-06-15 13:58:35) STO
+                            JUNHA (2024-06-15 13:38:55) STO --> (2024-06-15 14:04:55) STO
+                            IRTAD (2024-06-15 13:41:30) STO --> (2024-06-15 14:07:30) STO
+                            AVPIV (2024-06-15 13:43:56) STO --> (2024-06-15 14:09:56) STO
+                            SJ (2024-06-15 13:44:16) STO --> (2024-06-15 14:10:16) STO
+
+2024-06-15 12:06:37 101: SFPL Sector Assignment updated:
+   SFPI           = 17543119
+   CURRENT SECTOR = TW --> AN
+   NEW SECTOR     = AN --> 
+   CWP IDENTIFIER = 05 --> 
+   HANDOVER STATE = SELECT --> IDLE
+   PASSED SECTORS = 1 --> 2
+
+2024-06-15 12:06:37 18: SFPL Sector Assignment updated:
+   SFPI           = 17543389
+   CURRENT SECTOR = UPKP
+   NEW SECTOR     =  --> UJKT
+   CWP IDENTIFIER =  --> 18
+   HANDOVER STATE = IDLE --> SELECT
+   PASSED SECTORS = 1
+
+2024-06-15 12:06:38 202: System Flight Plan updated:
+   SFPI                   = 17541969
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = DOMESTIC
+   FLIGHT TYPE            = N
+   FLIGHT RULES           = I
+   CALLSIGN               = TGN742
+   AIRCRAFT REG           = PKYRD
+   AIRCRAFT TYPE          = B733
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = CDFGHILORW
+   SURVEILLANCE EQUIP     = CB1
+   SSR CODE               = 6474
+   EST. TIME OF ENTRY     = 2024-06-15 11:14:00
+   CLEARED FLIGHT LEVEL   = 25
+   EXIT FLIGHT LEVEL      = 25
+   REQUESTED FLIGHT LEVEL = 340
+   CRUISING SPEED         = 450
+   ADEP                   = WIOO
+   ADES                   = WIHH
+   DEPARTURE TIME         = 2024-06-15 11:00:00
+   SCHEDULED TIME         = 2024-06-15 11:00:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = ELN --> KOM
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = C1C2D1D2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:41 FDPS_FPL: System Flight Plan updated:
+   SFPI                   = 17543205
+   STATE                  = WAITING
+   TRAVEL TYPE            = OVERFLIGHT
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = UAE369
+   AIRCRAFT REG           = A6EOX
+   AIRCRAFT TYPE          = A388
+   WAKE TURBULANCE        = J
+   NAVIGATION EQUIP       = SADE3GHIJ1J2J3J4J5M1P2RWXYZ
+   SURVEILLANCE EQUIP     = LB1D1
+   SSR CODE               = 4104
+   EST. TIME OF ENTRY     = Unknown
+   CLEARED FLIGHT LEVEL   = Not Assigned
+   EXIT FLIGHT LEVEL      = 360
+   REQUESTED FLIGHT LEVEL = 360
+   CRUISING SPEED         = 491
+   ADEP                   = WADD
+   ADES                   = OMDB
+   DEPARTURE TIME         = 2024-06-15 12:06:00
+   SCHEDULED TIME         = 2024-06-15 13:09:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = 
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = NOT IDENTIFIED
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:42 06: System Flight Plan updated:
+   SFPI                   = 17541404
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = DOMESTIC
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = CTV959
+   AIRCRAFT REG           = PKGTH
+   AIRCRAFT TYPE          = A20N
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDE2E3FGHIRWY
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 6235
+   EST. TIME OF ENTRY     = 2024-06-15 10:59:00
+   CLEARED FLIGHT LEVEL   = 240 --> 220
+   EXIT FLIGHT LEVEL      = 310
+   REQUESTED FLIGHT LEVEL = 350
+   CRUISING SPEED         = 457
+   ADEP                   = WIEE
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 10:58:00
+   SCHEDULED TIME         = 2024-06-15 10:58:00
+   OPERATOR INFO          = <T5109
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = 25L UBN 
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C2D2L1O1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:42 09: System Flight Plan updated:
+   SFPI                   = 17541903
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = OUTBOUND
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = CTV776
+   AIRCRAFT REG           = PKGQQ
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDE2E3FGHIRWY
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 7115
+   EST. TIME OF ENTRY     = 2024-06-15 11:56:55
+   CLEARED FLIGHT LEVEL   = 270
+   EXIT FLIGHT LEVEL      = 270
+   REQUESTED FLIGHT LEVEL = 270
+   CRUISING SPEED         = 450
+   ADEP                   = WIII
+   ADES                   = WAHI
+   DEPARTURE TIME         = 2024-06-15 11:40:00
+   SCHEDULED TIME         = 2024-06-15 11:40:00
+   OPERATOR INFO          = PW2D
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = WX
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = 110 --> 120
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C2D2L1O1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:43 19: SFPL Sector Assignment updated:
+   SFPI           = 17543389
+   CURRENT SECTOR = UPKP --> UJKT
+   NEW SECTOR     = UJKT --> 
+   CWP IDENTIFIER = 18 --> 
+   HANDOVER STATE = SELECT --> IDLE
+   PASSED SECTORS = 1 --> 2
+
+2024-06-15 12:06:48 06: System Flight Plan updated:
+   SFPI                   = 17539416
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = DOMESTIC
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = CTV883
+   AIRCRAFT REG           = PKGLV
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDE2E3FGHIJ2M1RVW
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 4710
+   EST. TIME OF ENTRY     = 2024-06-15 10:28:00
+   CLEARED FLIGHT LEVEL   = 110
+   EXIT FLIGHT LEVEL      = 350
+   REQUESTED FLIGHT LEVEL = 350
+   CRUISING SPEED         = 457
+   ADEP                   = WIMM
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 10:25:00
+   SCHEDULED TIME         = 2024-06-15 10:25:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = BUN
+   ASSIGNED SPEED         = 250
+   ASSIGNED HEADING       = Not Assigned --> 200
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1C2D2O1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:48 20: System Flight Plan updated:
+   SFPI                   = 17542615
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = DOMESTIC
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = LNI608
+   AIRCRAFT REG           = PKLFG
+   AIRCRAFT TYPE          = B739
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIRW
+   SURVEILLANCE EQUIP     = EB1
+   SSR CODE               = 2561
+   EST. TIME OF ENTRY     = 2024-06-15 11:55:12
+   CLEARED FLIGHT LEVEL   = 280
+   EXIT FLIGHT LEVEL      = 300
+   REQUESTED FLIGHT LEVEL = 300
+   CRUISING SPEED         = 451
+   ADEP                   = WIII
+   ADES                   = WIJJ
+   DEPARTURE TIME         = 2024-06-15 10:35:00
+   SCHEDULED TIME         = 2024-06-15 11:20:00
+   OPERATOR INFO          = GOM1F
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = ENS --> ENS V
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1C1C2D1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:50 TWR4: SFPL Sector Assignment updated:
+   SFPI           = 17543168
+   CURRENT SECTOR = AN --> TWR
+   NEW SECTOR     = TWR --> 
+   CWP IDENTIFIER = 101 --> 
+   HANDOVER STATE = SELECT --> IDLE
+   PASSED SECTORS = 1
+
+2024-06-15 12:06:51 208: System Flight Plan updated:
+   SFPI                   = 17542395
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = OVERFLIGHT
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = AXM5874
+   AIRCRAFT REG           = 9MAJP
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIRWY
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 2170
+   EST. TIME OF ENTRY     = 2024-06-15 12:10:00
+   CLEARED FLIGHT LEVEL   = 370
+   EXIT FLIGHT LEVEL      = 370
+   REQUESTED FLIGHT LEVEL = 330
+   CRUISING SPEED         = 444
+   ADEP                   = WMKK
+   ADES                   = WBGS
+   DEPARTURE TIME         = 2024-06-15 11:25:00
+   SCHEDULED TIME         = 2024-06-15 12:03:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        =  --> AGO/
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S2T1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:51 22: System Flight Plan updated:
+   SFPI                   = 17543504
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = OVERFLIGHT
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = MXD155
+   AIRCRAFT REG           = 9MLRJ
+   AIRCRAFT TYPE          = B38M
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIRWY
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 2177
+   EST. TIME OF ENTRY     = 2024-06-15 11:16:00
+   CLEARED FLIGHT LEVEL   = 350
+   EXIT FLIGHT LEVEL      = 350
+   REQUESTED FLIGHT LEVEL = 350
+   CRUISING SPEED         = 474
+   ADEP                   = WMKK
+   ADES                   = YPPH
+   DEPARTURE TIME         = 2024-06-15 11:03:00
+   SCHEDULED TIME         = 2024-06-15 11:16:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = WX   XMX/1301
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = 160 --> 165
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1O1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:52 101: System Flight Plan updated:
+   SFPI                   = 17543119
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = DOMESTIC
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = SJV811
+   AIRCRAFT REG           = PKSJR
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SBDFGHIRWY
+   SURVEILLANCE EQUIP     = EB1
+   SSR CODE               = 3344
+   EST. TIME OF ENTRY     = 2024-06-15 10:51:00
+   CLEARED FLIGHT LEVEL   = 70 --> 20
+   EXIT FLIGHT LEVEL      = 330
+   REQUESTED FLIGHT LEVEL = 330
+   CRUISING SPEED         = 467
+   ADEP                   = WIEE
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 10:50:00
+   SCHEDULED TIME         = 2024-06-15 10:50:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = BIB 24
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:52 06: System Flight Plan updated:
+   SFPI                   = 17539416
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = DOMESTIC
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = CTV883
+   AIRCRAFT REG           = PKGLV
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDE2E3FGHIJ2M1RVW
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 4710
+   EST. TIME OF ENTRY     = 2024-06-15 10:28:00
+   CLEARED FLIGHT LEVEL   = 110
+   EXIT FLIGHT LEVEL      = 350
+   REQUESTED FLIGHT LEVEL = 350
+   CRUISING SPEED         = 457
+   ADEP                   = WIMM
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 10:25:00
+   SCHEDULED TIME         = 2024-06-15 10:25:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = BUN --> 
+   ASSIGNED SPEED         = 250
+   ASSIGNED HEADING       = 200
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1C2D2O1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:53 FDPS_SUR: System Flight Path updated:
+   SFPI                   = 17543346
+   ARRIVAL TIME           = 2024-06-15 12:11:26
+   ESTIMATED TIME OF ENTRY= 2024-06-15 11:38:00 --> Calculate Estimates
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WADL
+   NEXT FIR               = 
+   NUM WAYPOINTS          = 7
+                            KALUT (2024-06-15 11:38:24) ATO
+                            KURUS (2024-06-15 11:55:44) ATO
+                            IGUNA (2024-06-15 12:00:00) ATO
+                            SAGAS (2024-06-15 12:02:38) ETO
+                            UBNUX (2024-06-15 12:05:15) ETO --> (2024-06-15 12:06:53) ATO
+                            RUTGU (2024-06-15 12:06:56) ETO
+                            OBGEG (2024-06-15 12:08:11) ETO
+
+2024-06-15 12:06:53 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17543346
+   ARRIVAL TIME           = 2024-06-15 12:11:26 --> 2024-06-15 12:13:04
+   ESTIMATED TIME OF ENTRY= Calculate Estimates --> 2024-06-15 11:38:00
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WADL
+   NEXT FIR               = 
+   NUM WAYPOINTS          = 7
+                            KALUT (2024-06-15 11:38:24) ATO
+                            KURUS (2024-06-15 11:55:44) ATO
+                            IGUNA (2024-06-15 12:00:00) ATO
+                            SAGAS (2024-06-15 12:02:38) ETO
+                            UBNUX (2024-06-15 12:06:53) ATO
+                            RUTGU (2024-06-15 12:06:56) ETO --> (2024-06-15 12:08:34) ETO
+                            OBGEG (2024-06-15 12:08:11) ETO --> (2024-06-15 12:09:49) ETO
+
+2024-06-15 12:06:54 12: SFPL Sector Assignment updated:
+   SFPI           = 17538868
+   CURRENT SECTOR = UJOG
+   NEW SECTOR     =  --> LE
+   CWP IDENTIFIER =  --> 12
+   HANDOVER STATE = IDLE --> SELECT
+   PASSED SECTORS = 1
+
+2024-06-15 12:06:55 101: System Flight Plan updated:
+   SFPI                   = 17543119
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = DOMESTIC
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = SJV811
+   AIRCRAFT REG           = PKSJR
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SBDFGHIRWY
+   SURVEILLANCE EQUIP     = EB1
+   SSR CODE               = 3344
+   EST. TIME OF ENTRY     = 2024-06-15 10:51:00
+   CLEARED FLIGHT LEVEL   = 20
+   EXIT FLIGHT LEVEL      = 330
+   REQUESTED FLIGHT LEVEL = 330
+   CRUISING SPEED         = 467
+   ADEP                   = WIEE
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 10:50:00
+   SCHEDULED TIME         = 2024-06-15 10:50:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = BIB 24 --> 24
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:56 213: SFPL Sector Assignment updated:
+   SFPI           = 17543375
+   CURRENT SECTOR = UPKU
+   NEW SECTOR     =  --> UMDN
+   CWP IDENTIFIER =  --> 213
+   HANDOVER STATE = IDLE --> SELECT
+   PASSED SECTORS = 1
+
+2024-06-15 12:06:56 17: System Flight Plan updated:
+   SFPI                   = 17542273
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = OVERFLIGHT
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = QFA1
+   AIRCRAFT REG           = VHOQB
+   AIRCRAFT TYPE          = A388
+   WAKE TURBULANCE        = H
+   NAVIGATION EQUIP       = SADE2E3FGHIJ4J5M1P2RWYZ
+   SURVEILLANCE EQUIP     = LB1D1
+   SSR CODE               = 1357
+   EST. TIME OF ENTRY     = 2024-06-15 11:32:00
+   CLEARED FLIGHT LEVEL   = 380
+   EXIT FLIGHT LEVEL      = 380 --> 320
+   REQUESTED FLIGHT LEVEL = 400
+   CRUISING SPEED         = 481
+   ADEP                   = YSSY
+   ADES                   = WSSS
+   DEPARTURE TIME         = 2024-06-15 05:07:00
+   SCHEDULED TIME         = 2024-06-15 11:36:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = UGE/1217V
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:57 05: System Flight Plan updated:
+   SFPI                   = 17538938
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = INBOUND
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = BTK6275
+   AIRCRAFT REG           = PKBKO
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIRWY
+   SURVEILLANCE EQUIP     = EB1
+   SSR CODE               = 5033
+   EST. TIME OF ENTRY     = 2024-06-15 11:40:00
+   CLEARED FLIGHT LEVEL   = 70
+   EXIT FLIGHT LEVEL      = 360
+   REQUESTED FLIGHT LEVEL = 360
+   CRUISING SPEED         = 450
+   ADEP                   = WAMM
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 09:35:00
+   SCHEDULED TIME         = 2024-06-15 09:35:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = <SJV811 --> LUV 241
+   ASSIGNED SPEED         = 220
+   ASSIGNED HEADING       = 270
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1C1D1L1O1S2T1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:06:59 FDPS_SUR: System Flight Path updated:
+   SFPI                   = 17543652
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= 2024-06-15 11:55:00 --> Calculate Estimates
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WSSS
+   NEXT FIR               = WAAF
+   NUM WAYPOINTS          = 6
+                            IDBUD (2024-06-15 11:54:04) ATO
+                            SURGA (2024-06-15 12:06:34) ETO --> (2024-06-15 12:06:59) ATO
+                            GUKNO (2024-06-15 12:14:46) ETO
+                            APAGA (Unknown) 
+                            0450S11023E (2024-06-15 12:48:00) ETO
+                            SPIKO (2024-06-15 12:48:25) ETO
+
+2024-06-15 12:06:59 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17543652
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= Calculate Estimates --> 2024-06-15 11:55:00
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WSSS
+   NEXT FIR               = WAAF
+   NUM WAYPOINTS          = 6
+                            IDBUD (2024-06-15 11:54:04) ATO
+                            SURGA (2024-06-15 12:06:59) ATO
+                            GUKNO (2024-06-15 12:14:46) ETO --> (2024-06-15 12:15:11) ETO
+                            APAGA (Unknown) 
+                            0450S11023E (2024-06-15 12:48:00) ETO --> (2024-06-15 12:48:25) ETO
+                            SPIKO (2024-06-15 12:48:25) ETO --> (2024-06-15 12:48:50) ETO
+
+2024-06-15 12:06:59 FDPS_SUR: System Flight Path updated:
+   SFPI                   = 17538868
+   ARRIVAL TIME           = 2024-06-15 12:21:57
+   ESTIMATED TIME OF ENTRY= 2024-06-15 11:46:00 --> Calculate Estimates
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = 
+   NEXT FIR               = 
+   NUM WAYPOINTS          = 5
+                            CLP (2024-06-15 11:56:00) ATO
+                            CA (2024-06-15 12:03:34) ATO
+                            IMU (2024-06-15 12:07:26) ETO --> (2024-06-15 12:06:59) ATO
+                            DKI (2024-06-15 12:18:57) ETO
+                            HLM (2024-06-15 12:21:54) ETO
+
+2024-06-15 12:06:59 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17538868
+   ARRIVAL TIME           = 2024-06-15 12:21:57 --> 2024-06-15 12:21:30
+   ESTIMATED TIME OF ENTRY= Calculate Estimates --> 2024-06-15 11:46:00
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = 
+   NEXT FIR               = 
+   NUM WAYPOINTS          = 5
+                            CLP (2024-06-15 11:56:00) ATO
+                            CA (2024-06-15 12:03:34) ATO
+                            IMU (2024-06-15 12:06:59) ATO
+                            DKI (2024-06-15 12:18:57) ETO --> (2024-06-15 12:18:30) ETO
+                            HLM (2024-06-15 12:21:54) ETO --> (2024-06-15 12:21:27) ETO
+
+2024-06-15 12:06:59 15: SFPL Sector Assignment updated:
+   SFPI           = 17543375
+   CURRENT SECTOR = UPKU --> UMDN
+   NEW SECTOR     = UMDN --> 
+   CWP IDENTIFIER = 213 --> 
+   HANDOVER STATE = SELECT --> IDLE
+   PASSED SECTORS = 1 --> 2
+
+2024-06-15 12:06:59 05: System Flight Plan updated:
+   SFPI                   = 17544010
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = DOMESTIC
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = SJV859
+   AIRCRAFT REG           = PKSGB
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SBDFGHIRWY
+   SURVEILLANCE EQUIP     = EB1
+   SSR CODE               = 0116
+   EST. TIME OF ENTRY     = 2024-06-15 11:24:00
+   CLEARED FLIGHT LEVEL   = 70
+   EXIT FLIGHT LEVEL      = 350
+   REQUESTED FLIGHT LEVEL = 310
+   CRUISING SPEED         = 428
+   ADEP                   = WIDD
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 10:45:00
+   SCHEDULED TIME         = 2024-06-15 11:00:00
+   OPERATOR INFO          = <B6275
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = 
+   ASSIGNED SPEED         = 250
+   ASSIGNED HEADING       = 135 --> Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:07:00 FDPS_SCHED: System Flight Plan updated:
+   SFPI                   = 17539125
+   STATE                  = REDUNDANT --> TERMINATED
+   TRAVEL TYPE            = DOMESTIC
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = CTV885
+   AIRCRAFT REG           = PKGTA
+   AIRCRAFT TYPE          = A20N
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDE2E3FGHIRWY
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 6416
+   EST. TIME OF ENTRY     = 2024-06-15 10:59:00
+   CLEARED FLIGHT LEVEL   = 30
+   EXIT FLIGHT LEVEL      = 270
+   REQUESTED FLIGHT LEVEL = 270
+   CRUISING SPEED         = 458
+   ADEP                   = WIPP
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 11:00:00
+   SCHEDULED TIME         = 2024-06-15 11:00:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED --> AUTOMATIC
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = 24
+   ASSIGNED SPEED         = 230
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = 2024-06-15 11:46:33
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C2D2L1O1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:07:00 FDPS_SCHED: System Flight Plan updated:
+   SFPI                   = 17542772
+   STATE                  = DORMANT --> PENDING
+   TRAVEL TYPE            = INBOUND
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = JAL729
+   AIRCRAFT REG           = JA838J
+   AIRCRAFT TYPE          = B788
+   WAKE TURBULANCE        = H
+   NAVIGATION EQUIP       = SDFLOVE1E2E3GHIJ3J4J5J6M1M2RWYZXP1P2AJ1
+   SURVEILLANCE EQUIP     = LB1D1
+   SSR CODE               = Not Assigned
+   EST. TIME OF ENTRY     = Unknown
+   CLEARED FLIGHT LEVEL   = Not Assigned
+   EXIT FLIGHT LEVEL      = 400
+   REQUESTED FLIGHT LEVEL = 400
+   CRUISING SPEED         = 484
+   ADEP                   = RJAA
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 10:37:00
+   SCHEDULED TIME         = 2024-06-15 16:07:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = 
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = NOT IDENTIFIED
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1L1B1C1D1O1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:07:00 FDPS_SCHED: System Flight Plan updated:
+   SFPI                   = 17543308
+   STATE                  = ACTIVE --> REDUNDANT
+   TRAVEL TYPE            = DOMESTIC
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = SJV995
+   AIRCRAFT REG           = PKSJO
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIRW
+   SURVEILLANCE EQUIP     = EB1
+   SSR CODE               = 4730
+   EST. TIME OF ENTRY     = 2024-06-15 09:20:00
+   CLEARED FLIGHT LEVEL   = 40
+   EXIT FLIGHT LEVEL      = 220
+   REQUESTED FLIGHT LEVEL = 350
+   CRUISING SPEED         = 456
+   ADEP                   = WITT
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 08:15:00
+   SCHEDULED TIME         = 2024-06-15 08:15:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = RUT L  
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = BUN2M
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:07:00 FDPS_SCHED: System Flight Plan updated:
+   SFPI                   = 17544415
+   STATE                  = DORMANT --> PENDING
+   TRAVEL TYPE            = OVERFLIGHT
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = SIA225
+   AIRCRAFT REG           = 9VSCF
+   AIRCRAFT TYPE          = B78X
+   WAKE TURBULANCE        = H
+   NAVIGATION EQUIP       = SDE1E2E3GHIJ3J5M1P2RWXYZ
+   SURVEILLANCE EQUIP     = LB1D1
+   SSR CODE               = Not Assigned
+   EST. TIME OF ENTRY     = Unknown
+   CLEARED FLIGHT LEVEL   = Not Assigned
+   EXIT FLIGHT LEVEL      = 390
+   REQUESTED FLIGHT LEVEL = 370
+   CRUISING SPEED         = 487
+   ADEP                   = WSSS
+   ADES                   = YPPH
+   DEPARTURE TIME         = 2024-06-15 16:05:00
+   SCHEDULED TIME         = 2024-06-15 16:07:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = 
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = NOT IDENTIFIED
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:07:00 FDPS_DML: System Flight Plan erased:
+   SFPI                   = 17539125
+   STATE                  = TERMINATED
+   TRAVEL TYPE            = DOMESTIC
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = CTV885
+   AIRCRAFT REG           = PKGTA
+   AIRCRAFT TYPE          = A20N
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDE2E3FGHIRWY
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 6416
+   EST. TIME OF ENTRY     = 2024-06-15 10:59:00
+   CLEARED FLIGHT LEVEL   = 30
+   EXIT FLIGHT LEVEL      = 270
+   REQUESTED FLIGHT LEVEL = 270
+   CRUISING SPEED         = 458
+   ADEP                   = WIPP
+   ADES                   = WIII
+   DEPARTURE TIME         = 2024-06-15 11:00:00
+   SCHEDULED TIME         = 2024-06-15 11:00:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = AUTOMATIC
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = 24
+   ASSIGEND SPEED         = 230
+   ASSIGEND HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = 2024-06-15 11:46:33
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C2D2L1O1S2
+   FPL FORMAT             = 2012
+
+2024-06-15 12:07:00 FDPS_SCHED: System Flight Path erased:
+   SFPI                   = 17539125
+   ARRIVAL TIME           = 2024-06-15 11:40:18
+   ESTIMATED TIME OF ENTRY= 2024-06-15 10:59:00
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = 
+   NEXT FIR               = 
+   NUM WAYPOINTS          = 8
+                            PLB (2024-06-15 10:59:37) ATO
+                            BORAS (2024-06-15 11:10:30) ATO
+                            BIDAK (2024-06-15 11:15:50) ATO
+                            BUNIK (2024-06-15 11:24:51) ATO
+                            RAMAL (2024-06-15 11:27:33) ETO
+                            LUVAX (2024-06-15 11:33:32) ATO
+                            BIBMI (2024-06-15 11:35:27) ETO
+                            PRIOK (2024-06-15 11:37:21) ETO
+
+2024-06-15 12:07:00 06: SFPL Sector Assignment updated:
+   SFPI           = 17542615
+   CURRENT SECTOR = LN
+   NEW SECTOR     =  --> UPLB
+   CWP IDENTIFIER =  --> 06
+   HANDOVER STATE = IDLE --> SELECT
+   PASSED SECTORS = 1
+
+2024-06-15 12:07:01 208: System Flight Plan updated:
+   SFPI                   = 17542395
+   STATE                  = ACTIVE
+   TRAVEL TYPE            = OVERFLIGHT
+   FLIGHT TYPE            = S
+   FLIGHT RULES           = I
+   CALLSIGN               = AXM5874
+   AIRCRAFT REG           = 9MAJP
+   AIRCRAFT TYPE          = A320
+   WAKE TURBULANCE        = M
+   NAVIGATION EQUIP       = SDFGHIRWY
+   SURVEILLANCE EQUIP     = LB1
+   SSR CODE               = 2170
+   EST. TIME OF ENTRY     = 2024-06-15 12:10:00
+   CLEARED FLIGHT LEVEL   = 370
+   EXIT FLIGHT LEVEL      = 370
+   REQUESTED FLIGHT LEVEL = 330
+   CRUISING SPEED         = 444
+   ADEP                   = WMKK
+   ADES                   = WBGS
+   DEPARTURE TIME         = 2024-06-15 11:25:00
+   SCHEDULED TIME         = 2024-06-15 12:03:00
+   OPERATOR INFO          = 
+   TERMINATE MODE         = NOT_TERMINATED
+   XFL APPROVAL STATE     = APPROVED
+   COORDINATION STATE     = NON COORDINATED
+   REVISION               = NO
+   OPERATOR INFO 2        = AGO/ --> AGO/1235V..
+   ASSIGNED SPEED         = Not Assigned
+   ASSIGNED HEADING       = Not Assigned
+   RADAR IDENTIFICATION   = MODE 3/A
+   ACTUAL LANDING TIME    = Unknown
+   NUM AIRCRAFTS          = 1
+   FUEL                   = unknown
+   SPEC APPROACH          = 
+   ALTERNATE SSR CODE     = Not Assigned
+   PBN EQUIP              = A1B1C1D1L1O1S2T1
+   FPL FORMAT             = 2012
+
+2024-06-15 12:07:02 22: SFPL Sector Assignment updated:
+   SFPI           = 17542615
+   CURRENT SECTOR = LN --> UPLB
+   NEW SECTOR     = UPLB --> 
+   CWP IDENTIFIER = 06 --> 
+   HANDOVER STATE = SELECT --> IDLE
+   PASSED SECTORS = 1 --> 2
+
+2024-06-15 12:07:02 FDPS_SUR: System Flight Path updated:
+   SFPI                   = 17542243
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= 2024-06-15 11:50:00 --> Calculate Estimates
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WSJC
+   NEXT FIR               = WBFC
+   NUM WAYPOINTS          = 5
+                            VENUN (2024-06-15 11:52:06) ATO
+                            OBLOT (2024-06-15 11:56:29) ATO
+                            ESPIT (2024-06-15 12:03:15) ATO
+                            SABIP (2024-06-15 12:06:46) ETO --> (2024-06-15 12:07:02) ATO
+                            KAMIN (2024-06-15 12:16:08) ETO
+
+2024-06-15 12:07:02 FDPS_FPL: System Flight Path updated:
+   SFPI                   = 17542243
+   ARRIVAL TIME           = Unknown
+   ESTIMATED TIME OF ENTRY= Calculate Estimates --> 2024-06-15 11:50:00
+   COORDINATED EXIT TIME  = Unknown
+   PREVIOUS FIR           = WSJC
+   NEXT FIR               = WBFC
+   NUM WAYPOINTS          = 5
+                            VENUN (2024-06-15 11:52:06) ATO
+                            OBLOT (2024-06-15 11:56:29) ATO
+                            ESPIT (2024-06-15 12:03:15) ATO
+                            SABIP (2024-06-15 12:07:02) ATO
+                            KAMIN (2024-06-15 12:16:08) ETO --> (2024-06-15 12:16:24) ETO
